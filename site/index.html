@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calendario · Earnings &amp; Mercados</title>
+<meta name="description" content="Calendario de resultados trimestrales de S&P500, Europa y ADRs chinos, con noticias de mercado.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="tape-wrap" aria-label="Próximos eventos">
+  <div class="tape" id="tape"></div>
+</div>
+
+<header class="header">
+  <div class="header__left">
+    <span class="header__eyebrow">TERMINAL // 01</span>
+    <h1 class="header__title">CALENDARIO</h1>
+    <p class="header__subtitle">Earnings &amp; noticias · S&amp;P500 · Europa · China ADR</p>
+  </div>
+  <div class="header__right">
+    <div class="clock" id="clock">--:--:--</div>
+    <div class="clock__label">Buenos Aires</div>
+    <div class="updated" id="updated">actualizado —</div>
+  </div>
+</header>
+
+<nav class="filters" aria-label="Filtros">
+  <div class="filters__group" id="regionFilters">
+    <button class="chip chip--active" data-region="all">TODO</button>
+    <button class="chip" data-region="us"><span class="dot dot--us"></span>US</button>
+    <button class="chip" data-region="europe"><span class="dot dot--eu"></span>EUROPA</button>
+    <button class="chip" data-region="china_adr"><span class="dot dot--cn"></span>CHINA ADR</button>
+  </div>
+  <div class="filters__group">
+    <button class="chip chip--range chip--active" data-range="7">7D</button>
+    <button class="chip chip--range" data-range="14">14D</button>
+    <button class="chip chip--range" data-range="30">30D</button>
+    <button class="chip chip--range" data-range="9999">TODO</button>
+  </div>
+  <div class="filters__search">
+    <input type="text" id="searchInput" placeholder="Buscar ticker o empresa..." autocomplete="off">
+  </div>
+</nav>
+
+<main class="layout">
+  <section class="agenda" id="agenda" aria-label="Agenda de earnings">
+    <div class="agenda__empty" id="agendaEmpty" hidden>
+      <p>No hay earnings que coincidan con el filtro.</p>
+    </div>
+  </section>
+
+  <aside class="news" aria-label="Noticias de mercado">
+    <div class="news__header">
+      <h2>NOTICIAS</h2>
+      <span class="news__count" id="newsCount"></span>
+    </div>
+    <div class="news__list" id="newsList"></div>
+  </aside>
+</main>
+
+<footer class="footer">
+  <p>Datos: Finnhub (earnings &amp; noticias) · Universo: Wikipedia S&amp;P500 + curado manual Europa/China.</p>
+  <p>No es asesoramiento financiero. Verificá siempre la fuente antes de operar.</p>
+</footer>
+
+<template id="eventCardTpl">
+  <article class="event">
+    <div class="event__region"></div>
+    <div class="event__main">
+      <div class="event__ticker"></div>
+      <div class="event__company"></div>
+    </div>
+    <div class="event__meta">
+      <span class="event__hour"></span>
+      <span class="event__eps"></span>
+    </div>
+  </article>
+</template>
+
+<template id="newsCardTpl">
+  <a class="newsitem" target="_blank" rel="noopener">
+    <div class="newsitem__source"></div>
+    <div class="newsitem__headline"></div>
+    <div class="newsitem__time"></div>
+  </a>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
