@@ -19,7 +19,11 @@ _HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; econ-calendar-script/1.0)"}
 
 # Principales europeas con sufijo de bolsa que usa yfinance/Yahoo Finance.
 # .L = Londres, .DE = Frankfurt/Xetra, .PA = París, .AS = Ámsterdam, .MI = Milán, .SW = Suiza
-EUROPE_TICKERS = [
+#
+# OJO: Finnhub (free tier) NO tiene calendario de earnings para estos listados
+# primarios no-US. Por eso estos tickers se resuelven con yfinance en
+# fetch_yfinance_earnings.py, no con fetch_finnhub.py. Ver build_data.py.
+EUROPE_PRIMARY_TICKERS = [
     # Reino Unido (FTSE 100 - principales)
     {"ticker": "SHEL.L", "name": "Shell", "country": "UK"},
     {"ticker": "AZN.L", "name": "AstraZeneca", "country": "UK"},
@@ -60,6 +64,34 @@ EUROPE_TICKERS = [
     {"ticker": "NOVN.SW", "name": "Novartis", "country": "CH"},
     {"ticker": "UBSG.SW", "name": "UBS Group", "country": "CH"},
 ]
+
+# ADRs europeos que cotizan directo en NYSE/NASDAQ con ticker propio (sin sufijo de bolsa).
+# Estos SÍ resuelven vía fetch_finnhub.py, porque para Finnhub son papeles "americanos"
+# como cualquier otro. Los de EUROPE_PRIMARY_TICKERS (arriba) no.
+EUROPE_ADR_TICKERS = [
+    {"ticker": "ASML", "name": "ASML Holding (ADR)", "country": "NL"},
+    {"ticker": "SAP", "name": "SAP SE (ADR)", "country": "DE"},
+    {"ticker": "NVO", "name": "Novo Nordisk (ADR)", "country": "DK"},
+    {"ticker": "SHEL", "name": "Shell plc (NYSE)", "country": "UK"},
+    {"ticker": "AZN", "name": "AstraZeneca (ADR)", "country": "UK"},
+    {"ticker": "GSK", "name": "GSK plc (ADR)", "country": "UK"},
+    {"ticker": "BTI", "name": "British American Tobacco (ADR)", "country": "UK"},
+    # Ojo: no confundir con "SAN.PA" (Sanofi) de la lista de arriba — este SAN es
+    # el ADR de Banco Santander, ticker distinto al de la bolsa de París.
+    {"ticker": "SAN", "name": "Banco Santander (ADR)", "country": "ES"},
+    {"ticker": "BBVA", "name": "Banco Bilbao Vizcaya Argentaria (ADR)", "country": "ES"},
+    {"ticker": "TEF", "name": "Telefónica (ADR)", "country": "ES"},
+    {"ticker": "UL", "name": "Unilever (ADR)", "country": "UK"},
+    {"ticker": "BUD", "name": "Anheuser-Busch InBev (ADR)", "country": "BE"},
+    {"ticker": "NVS", "name": "Novartis (ADR)", "country": "CH"},
+    {"ticker": "ARM", "name": "Arm Holdings", "country": "UK"},
+    {"ticker": "HSBC", "name": "HSBC Holdings (ADR)", "country": "UK"},
+    {"ticker": "BP", "name": "BP plc (ADR)", "country": "UK"},
+    {"ticker": "TTE", "name": "TotalEnergies (ADR)", "country": "FR"},
+]
+
+# Universo combinado (se usa para el conteo total y para pertenecer a la región "europe").
+EUROPE_TICKERS = EUROPE_PRIMARY_TICKERS + EUROPE_ADR_TICKERS
 
 # ADRs chinos que cotizan en NYSE/NASDAQ (cobertura buena en yfinance/Finnhub, a diferencia
 # de las A-shares de Shanghai/Shenzhen que casi no tienen cobertura confiable).

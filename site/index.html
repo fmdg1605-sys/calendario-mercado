@@ -3,12 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Calendario · Earnings &amp; Mercados</title>
-<meta name="description" content="Calendario de resultados trimestrales de S&P500, Europa y ADRs chinos, con noticias de mercado.">
+<title>Calendario · Earnings, Macro &amp; Mercados</title>
+<meta name="description" content="Calendario de resultados trimestrales de S&P500, Europa y ADRs chinos, calendario macro de EEUU (FOMC, CPI, PMI, PBI) y noticias de mercado.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<script>
+  // Aplicamos el tema guardado ANTES del primer paint para evitar el flash
+  // de tema incorrecto (FOUC). Por eso va inline en el <head>, no en app.js.
+  (function () {
+    try {
+      var saved = localStorage.getItem("calendario-theme");
+      var theme = saved === "light" || saved === "dark" ? saved : "dark";
+      document.documentElement.setAttribute("data-theme", theme);
+    } catch (e) { document.documentElement.setAttribute("data-theme", "dark"); }
+  })();
+</script>
 </head>
 <body>
 
@@ -20,12 +31,17 @@
   <div class="header__left">
     <span class="header__eyebrow">TERMINAL // 01</span>
     <h1 class="header__title">CALENDARIO</h1>
-    <p class="header__subtitle">Earnings &amp; noticias · S&amp;P500 · Europa · China ADR</p>
+    <p class="header__subtitle">Earnings · Macro EEUU · S&amp;P500 · Europa · China ADR</p>
   </div>
   <div class="header__right">
-    <div class="clock" id="clock">--:--:--</div>
-    <div class="clock__label">Buenos Aires</div>
-    <div class="updated" id="updated">actualizado —</div>
+    <div class="header__clockblock">
+      <div class="clock" id="clock">--:--:--</div>
+      <div class="clock__label">Buenos Aires</div>
+      <div class="updated" id="updated">actualizado —</div>
+    </div>
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="Cambiar tema claro/oscuro" title="Cambiar tema">
+      <span id="themeToggleIcon">🌙</span>
+    </button>
   </div>
 </header>
 
@@ -42,34 +58,52 @@
     <button class="chip chip--range" data-range="30">30D</button>
     <button class="chip chip--range" data-range="9999">TODO</button>
   </div>
+  <div class="filters__group">
+    <button class="chip chip--macro chip--active" id="macroToggle" data-macro="on">
+      <span class="dot dot--macro"></span>MACRO
+    </button>
+  </div>
   <div class="filters__search">
     <input type="text" id="searchInput" placeholder="Buscar ticker o empresa..." autocomplete="off">
   </div>
 </nav>
 
+<div class="legend" aria-label="Referencias">
+  <span class="legend__item"><span class="dot dot--us"></span>Earnings US</span>
+  <span class="legend__item"><span class="dot dot--eu"></span>Earnings Europa</span>
+  <span class="legend__item"><span class="dot dot--cn"></span>Earnings China ADR</span>
+  <span class="legend__item"><span class="dot dot--macro"></span>Evento macro EEUU</span>
+  <span class="legend__sep">·</span>
+  <span class="legend__item"><span class="badge badge--bmo">ANTES APERTURA</span></span>
+  <span class="legend__item"><span class="badge badge--amc">DESPUÉS CIERRE</span></span>
+</div>
+
 <main class="layout">
-  <section class="agenda" id="agenda" aria-label="Agenda de earnings">
+  <section class="agenda" id="agenda" aria-label="Agenda de earnings y eventos macro">
     <div class="agenda__empty" id="agendaEmpty" hidden>
-      <p>No hay earnings que coincidan con el filtro.</p>
+      <p>No hay eventos que coincidan con el filtro.</p>
     </div>
   </section>
 
   <aside class="news" aria-label="Noticias de mercado">
     <div class="news__header">
       <h2>NOTICIAS</h2>
-      <span class="news__count" id="newsCount"></span>
+      <div class="news__header-right">
+        <span class="news__count" id="newsCount"></span>
+        <button class="news__refresh" id="newsRefresh" type="button" aria-label="Recargar noticias" title="Recargar noticias">🔄</button>
+      </div>
     </div>
     <div class="news__list" id="newsList"></div>
   </aside>
 </main>
 
 <footer class="footer">
-  <p>Datos: Finnhub (earnings &amp; noticias) · Universo: Wikipedia S&amp;P500 + curado manual Europa/China.</p>
+  <p>Datos: Finnhub (earnings, noticias, perfil &amp; cotizaciones) · Calendario macro: curado a mano desde fuentes oficiales (Federal Reserve, BLS, ISM, BEA) · Universo: Wikipedia S&amp;P500 + curado manual Europa/China.</p>
   <p>No es asesoramiento financiero. Verificá siempre la fuente antes de operar.</p>
 </footer>
 
 <template id="eventCardTpl">
-  <article class="event">
+  <article class="event" tabindex="0" role="button">
     <div class="event__region"></div>
     <div class="event__main">
       <div class="event__ticker"></div>
@@ -82,6 +116,19 @@
   </article>
 </template>
 
+<template id="macroCardTpl">
+  <article class="event event--macro">
+    <div class="event__region dot--macro"></div>
+    <div class="event__main">
+      <div class="event__ticker event__ticker--macro"></div>
+      <div class="event__company"></div>
+    </div>
+    <div class="event__meta">
+      <span class="event__hour"></span>
+    </div>
+  </article>
+</template>
+
 <template id="newsCardTpl">
   <a class="newsitem" target="_blank" rel="noopener">
     <div class="newsitem__source"></div>
@@ -89,6 +136,28 @@
     <div class="newsitem__time"></div>
   </a>
 </template>
+
+<div class="modal-overlay" id="companyModal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTicker">
+    <button class="modal__close" id="modalClose" aria-label="Cerrar">&times;</button>
+    <div class="modal__header">
+      <div>
+        <div class="modal__ticker" id="modalTicker"></div>
+        <div class="modal__name" id="modalName"></div>
+      </div>
+      <div class="modal__price" id="modalPrice"></div>
+    </div>
+    <div class="modal__tags" id="modalTags"></div>
+    <div class="modal__grid" id="modalGrid"></div>
+    <div class="modal__earnings" id="modalEarnings"></div>
+    <div class="modal__links" id="modalLinks"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite">
+  <span class="toast__icon">✓</span>
+  <span id="toastMessage"></span>
+</div>
 
 <script src="app.js"></script>
 </body>
