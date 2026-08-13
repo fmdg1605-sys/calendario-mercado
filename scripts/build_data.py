@@ -33,7 +33,7 @@ def normalize_region_str(r: str) -> str:
     return s
 
 
-def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_company_details: int) -> dict:
+def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_company_details: int, europe_days_ahead: int) -> dict:
     load_dotenv(ROOT / ".env")
     api_key = os.environ.get("FINNHUB_API_KEY")
     if not api_key:
@@ -47,9 +47,14 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
     today = datetime.now(timezone.utc).date()
     date_from = today.strftime("%Y-%m-%d")
     date_to = (today + timedelta(days=days_ahead)).strftime("%Y-%m-%d")
+    # Europa reporta en tandas muy angostas (fines ene/abr/jul/oct). Con la ventana
+    # corta de US/China casi siempre da 0. Le damos una ventana más ancha aparte,
+    # sin tocar la de US/China (que se queda corta a propósito).
+    europe_date_to = (today + timedelta(days=europe_days_ahead)).strftime("%Y-%m-%d")
 
-    print(f"2/4 Trayendo calendario de earnings de Finnhub ({date_from} -> {date_to})...")
-    raw_earnings = fetch_earnings_in_chunks(api_key, date_from, date_to)
+    fetch_date_to = max(date_to, europe_date_to)
+    print(f"2/4 Trayendo calendario de earnings de Finnhub ({date_from} -> {fetch_date_to})...")
+    raw_earnings = fetch_earnings_in_chunks(api_key, date_from, fetch_date_to)
     print(f"   Earnings totales devueltos por Finnhub: {len(raw_earnings)}")
 
     print("3/4 Filtrando earnings contra nuestro universo...")
@@ -59,13 +64,20 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
         match = ticker_lookup.get(symbol)
         if not match:
             continue
-        
+
         reg = normalize_region_str(match.get("region"))
+        ev_date = e.get("date")
+        # US/China se quedan con la ventana corta (--days). Europa (los ADRs que
+        # sí trae Finnhub) usa la ventana ancha (--europe-days).
+        window_limit = europe_date_to if reg == "europe" else date_to
+        if not ev_date or ev_date > window_limit:
+            continue
+
         earnings_out.append({
             "ticker": symbol,
             "company": match["name"],
             "region": reg,
-            "date": e.get("date"),
+            "date": ev_date,
             "hour": e.get("hour"),
             "eps_estimate": e.get("epsEstimate"),
             "eps_actual": e.get("epsActual"),
@@ -79,7 +91,7 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
     print("3.5/6 Trayendo earnings de Europa (listado primario) vía yfinance...")
     try:
         europe_primary_earnings = fetch_europe_earnings_yfinance(
-            EUROPE_PRIMARY_TICKERS, date_from, date_to
+            EUROPE_PRIMARY_TICKERS, date_from, europe_date_to
         )
     except Exception as exc:
         print(f"   [aviso] falló el fetch de yfinance para Europa: {exc}")
@@ -136,6 +148,7 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "window": {"from": date_from, "to": date_to},
+        "europe_window": {"from": date_from, "to": europe_date_to},
         "macro_window": {"from": date_from, "to": macro_date_to},
         "universe_size": {
             "us": len([u for u in universe if normalize_region_str(u["region"]) == "us"]),
@@ -152,8 +165,11 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--days", type=int, default=21)
+    parser.add_argument("--europe-days", type=int, default=120,
+                         help="Ventana más ancha para earnings de Europa (reportan en tandas angostas, cada ~3 meses)")
     parser.add_argument("--macro-days", type=int, default=180)
-    parser.add_argument("--max-company-details", type=int, default=60)
+    parser.add_argument("--max-company-details", type=int, default=90,
+                         help="90 en vez de 60: con la ventana ancha de Europa hay más tickers en earnings_out y no queremos que Europa quede afuera del cupo por orden cronológico")
     parser.add_argument("--no-news", action="store_true")
     args = parser.parse_args()
 
@@ -162,6 +178,7 @@ def main():
         include_news=not args.no_news,
         macro_days_ahead=args.macro_days,
         max_company_details=args.max_company_details,
+        europe_days_ahead=args.europe_days,
     )
 
     SITE_DIR.mkdir(exist_ok=True)

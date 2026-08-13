@@ -3,28 +3,21 @@ fetch_yfinance_earnings.py
 Trae fechas de earnings para tickers europeos de listado primario (.L, .DE, .PA, .AS, .SW)
 que Finnhub free tier NO cubre en /calendar/earnings.
 
-yfinance sí tiene esta cobertura porque scrapea Yahoo Finance, que indexa las bolsas
-locales directamente (no solo listados US). A cambio, el dato es más pobre que el de
-Finnhub: no siempre trae EPS estimado, y nunca trae hora de reporte (BMO/AMC) porque
-Yahoo no expone ese campo de forma confiable para plazas no-US.
+v2: usa Ticker.calendar en vez de Ticker.get_earnings_dates(). La primera versión
+usaba get_earnings_dates(), que scrapea el HTML de la página web de Yahoo Finance
+buscando un <table> — Yahoo cambió esa página (ahora la tabla se renderiza con JS)
+y el método devuelve None sin avisar. Ticker.calendar en cambio pega contra la API
+JSON interna de Yahoo (quoteSummary?modules=calendarEvents), mucho más estable.
+
+Contras de este approach: Yahoo suele dar la próxima fecha de earnings como una
+ventana estimada de 1-2 días (no siempre confirmada) hasta que se acerca el reporte,
+y no da hora (BMO/AMC) ni EPS actual, solo el estimado.
 """
 
 import time
 from datetime import datetime, date
 
 import yfinance as yf
-
-
-def _parse_earnings_date(ts) -> date | None:
-    """Normaliza un timestamp de yfinance (puede venir con o sin tz) a date naive."""
-    if ts is None:
-        return None
-    try:
-        if getattr(ts, "tzinfo", None) is not None:
-            ts = ts.tz_convert("UTC").tz_localize(None)
-        return ts.date()
-    except Exception:
-        return None
 
 
 def fetch_europe_earnings_yfinance(tickers: list[dict], date_from: str, date_to: str) -> list[dict]:
@@ -43,24 +36,26 @@ def fetch_europe_earnings_yfinance(tickers: list[dict], date_from: str, date_to:
         print(f"  [{i}/{len(tickers)}] {symbol} (yfinance)...")
         try:
             yft = yf.Ticker(symbol)
-            df = yft.get_earnings_dates(limit=12)
+            cal = yft.calendar
         except Exception as exc:
-            print(f"   [aviso] error trayendo earnings de {symbol}: {exc}")
-            time.sleep(0.5)
+            print(f"   [aviso] error trayendo calendar de {symbol}: {exc}")
+            time.sleep(0.3)
             continue
 
-        if df is None or df.empty:
-            time.sleep(0.5)
+        if not cal:
+            time.sleep(0.3)
             continue
 
-        for ts, row in df.iterrows():
-            ev_date = _parse_earnings_date(ts)
-            if ev_date is None or not (d_from <= ev_date <= d_to):
-                continue
+        earnings_dates = cal.get("Earnings Date") or []
+        eps_estimate = cal.get("Earnings Average")
+        revenue_estimate = cal.get("Revenue Average")
 
-            eps_estimate = row.get("EPS Estimate")
-            eps_actual = row.get("Reported EPS")
-
+        # Yahoo a veces da una ventana de 2 fechas (estimado) en vez de una sola
+        # confirmada. Nos quedamos con la primera que caiga dentro de la ventana
+        # pedida, para no duplicar el mismo evento dos veces.
+        in_window = [d for d in earnings_dates if isinstance(d, date) and d_from <= d <= d_to]
+        if in_window:
+            ev_date = min(in_window)
             out.append({
                 "ticker": symbol,
                 "company": item["name"],
@@ -68,23 +63,16 @@ def fetch_europe_earnings_yfinance(tickers: list[dict], date_from: str, date_to:
                 "date": ev_date.strftime("%Y-%m-%d"),
                 # Yahoo no expone BMO/AMC de forma confiable para plazas no-US.
                 "hour": None,
-                "eps_estimate": None if _is_nan(eps_estimate) else eps_estimate,
-                "eps_actual": None if _is_nan(eps_actual) else eps_actual,
-                "revenue_estimate": None,
+                "eps_estimate": eps_estimate,
+                "eps_actual": None,
+                "revenue_estimate": revenue_estimate,
                 "revenue_actual": None,
                 "quarter": None,
                 "year": ev_date.year,
                 "source": "yfinance",
             })
 
-        # Cortesía con Yahoo (no es una API oficial, mejor no golpearla fuerte).
-        time.sleep(0.5)
+        # Cortesía con Yahoo (no es una API oficial pública, mejor no golpearla fuerte).
+        time.sleep(0.3)
 
     return out
-
-
-def _is_nan(x) -> bool:
-    try:
-        return x != x  # NaN != NaN es True
-    except Exception:
-        return False
