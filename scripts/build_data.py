@@ -164,7 +164,7 @@ def build(days_ahead: int, include_news: bool, macro_days_ahead: int, max_compan
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--days", type=int, default=21)
+    parser.add_argument("--days", type=int, default=90)
     parser.add_argument("--europe-days", type=int, default=120,
                          help="Ventana más ancha para earnings de Europa (reportan en tandas angostas, cada ~3 meses)")
     parser.add_argument("--macro-days", type=int, default=180)
