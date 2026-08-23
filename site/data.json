@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-22T09:26:56.122187+00:00",
+  "generated_at": "2026-08-23T09:27:35.566877+00:00",
   "window": {
-    "from": "2026-08-22",
-    "to": "2026-09-12"
+    "from": "2026-08-23",
+    "to": "2026-09-13"
   },
   "europe_window": {
-    "from": "2026-08-22",
-    "to": "2026-12-20"
+    "from": "2026-08-23",
+    "to": "2026-12-21"
   },
   "macro_window": {
-    "from": "2026-08-22",
-    "to": "2027-02-18"
+    "from": "2026-08-23",
+    "to": "2027-02-19"
   },
   "universe_size": {
     "us": 503,
@@ -493,7 +493,7 @@
       "region": "europe",
       "date": "2026-10-21",
       "hour": null,
-      "eps_estimate": 1.82947,
+      "eps_estimate": 1.82937,
       "eps_actual": null,
       "revenue_estimate": 10082936910,
       "revenue_actual": null,
@@ -549,9 +549,9 @@
       "region": "europe",
       "date": "2026-10-28",
       "hour": null,
-      "eps_estimate": 0.37206,
+      "eps_estimate": 0.38757,
       "eps_actual": null,
-      "revenue_estimate": 15691873750,
+      "revenue_estimate": 15750666670,
       "revenue_actual": null,
       "quarter": null,
       "year": 2026,
@@ -1056,8 +1056,8 @@
       "day_high": 90.14,
       "day_low": 87.812,
       "prev_close": 89.52,
-      "pe_ttm": 9.0212,
-      "pb": 2.5763,
+      "pe_ttm": 8.9542,
+      "pb": 2.5766,
       "eps_ttm": 16.1333,
       "week52_high": 139.41,
       "week52_low": 71.94,
@@ -1448,8 +1448,8 @@
       "day_high": 17.255,
       "day_low": 16.92,
       "prev_close": 16.66,
-      "pe_ttm": 34.073,
-      "pb": 4.4177,
+      "pe_ttm": 33.0505,
+      "pb": 4.4181,
       "eps_ttm": 3.1125,
       "week52_high": 36.4,
       "week52_low": 15.79,
@@ -2008,7 +2008,7 @@
       "day_high": 277.0995,
       "day_low": 269.915,
       "prev_close": 272.22,
-      "pe_ttm": 14.9685,
+      "pe_ttm": 15.1379,
       "pb": 11.5294,
       "eps_ttm": 17.474200000000003,
       "week52_high": 370.86,
@@ -2525,6 +2525,112 @@
   },
   "news": [
     {
+      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+      "summary": "Syria foreign minister sees Israel security talks resuming despite no trust  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+      "datetime": 1787472254,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
+      "summary": "Israel strikes southern Syria; Damascus condemns attack  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
+      "datetime": 1787424660,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran - Reuters",
+      "summary": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
+      "datetime": 1787413537,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
+      "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+      "datetime": 1787407201,
+      "category": "top news",
+      "related_tickers": [
+        "APD",
+        "ABNB",
+        "AI.PA"
+      ]
+    },
+    {
+      "headline": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+      "datetime": 1787407201,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "datetime": 1787407068,
+      "category": "top news",
+      "related_tickers": [
+        "USB"
+      ]
+    },
+    {
+      "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
+      "summary": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
+      "datetime": 1787403901,
+      "category": "top news",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
+      "summary": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
+      "datetime": 1787401289,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+      "summary": "Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
+      "datetime": 1787400001,
+      "category": "top news",
+      "related_tickers": [
+        "AEP",
+        "AXP",
+        "AIG",
+        "AMT",
+        "AWK"
+      ]
+    },
+    {
+      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
+      "summary": "Indian companies are adopting locally-designed nuclear reactors to expedite approvals and enhance supply chain efficiency in energy projects.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
+      "datetime": 1787388034,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
       "headline": "Trump heads into midterms short on foreign policy wins - Reuters",
       "summary": "Trump heads into midterms short on foreign policy wins  Reuters",
       "source": "Reuters",
@@ -2534,11 +2640,20 @@
       "related_tickers": []
     },
     {
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions - Reuters",
-      "summary": "US, Iran keep up hostile rhetoric ahead of new sanctions  Reuters",
+      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
+      "summary": "Iran condemns US plans to announce new sanctions  Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
       "datetime": 1787360700,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
+      "summary": "Oil rises as Trump threatens sanctions on Iran partners  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "datetime": 1787354798,
       "category": "business",
       "related_tickers": []
     },
@@ -2559,6 +2674,17 @@
       "datetime": 1787350186,
       "category": "business",
       "related_tickers": []
+    },
+    {
+      "headline": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports - Reuters",
+      "summary": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5",
+      "datetime": 1787348362,
+      "category": "business",
+      "related_tickers": [
+        "ARM"
+      ]
     },
     {
       "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
@@ -2676,6 +2802,17 @@
       "related_tickers": []
     },
     {
+      "headline": "Traders are bracing for an increasingly hawkish ECB - Reuters",
+      "summary": "Traders are bracing for an increasingly hawkish ECB  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUt4YkUxMjR5N050eGJjdnVxRDJJV0ZYSGFsVkJmaldxdWZaOXBMbV9rTkpYMnRGbXllLW1SbHc0c0dOWVV1WkNoUVE2anBDRVBpaHJkb0RvYm51T24tYXBULVRmSHA5dVg2U3lYSnRoQkdac0pUTnA5MUhmMG5TWTFGSzlrTFo4ckZ6blZXMmp6WjVqZDhON1ZZazI?oc=5",
+      "datetime": 1787315787,
+      "category": "business",
+      "related_tickers": [
+        "TTD"
+      ]
+    },
+    {
       "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
       "summary": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
       "source": "CNBC",
@@ -2700,6 +2837,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
       "datetime": 1787311555,
       "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "India banks’ funding costs rise as RBI ends deposit window early",
+      "summary": "The Reserve Bank of India surprised markets last week by announcing it would close a special dollar deposit window for overseas residents on Aug. 31, after the facility drew more than $50 billion",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-banks-funding-costs-rise-as-rbi-ends-deposit-window-early",
+      "datetime": 1787309222,
+      "category": "top news",
       "related_tickers": []
     },
     {
@@ -2730,6 +2876,15 @@
       "related_tickers": []
     },
     {
+      "headline": "Rupee dips on week as oil pangs linger, intervention prevents fall past 96/USD - Reuters",
+      "summary": "Rupee dips on week as oil pangs linger, intervention prevents fall past 96/USD  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmF1dnI2MFY1Qmo5LWdRYUpPck90S0RZOWxXUHdfYTJvMUd5aHVYenFQNFRsc0F3OGktZUZEY2tEOHdEdHRHYVZ4bkljN0dfR1F3Mm40cGdmT1BFODhNWDFnbG44NkxxTVd2RnBLekZ3b2R4Y0ZXbmo5TlR6N2VpdzVJWWVQXzhPNUxEdnZpbG5RVmZOZ1FldERicXJCU2Utd3dzQXFpalM5ZV9LSmxjVG1OZEI?oc=5",
+      "datetime": 1787299845,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Economic growth may beat RBI’s 6.7% forecast, Gupta says",
       "summary": "Gupta’s optimistic outlook highlights strong economic resilience, with forecasts of 7.5% growth driven by favorable external accounts and rising foreign investment",
       "source": "Bloomberg",
@@ -2746,6 +2901,17 @@
       "datetime": 1787294182,
       "category": "top news",
       "related_tickers": []
+    },
+    {
+      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+      "summary": "Ships passing through Hormuz hover in single digits, data shows  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+      "datetime": 1787290845,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
     },
     {
       "headline": "Anthropic expects to match or top SpaceX’s record IPO size",
@@ -2784,6 +2950,15 @@
       "related_tickers": []
     },
     {
+      "headline": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
+      "summary": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
+      "datetime": 1787283940,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Indian proprietary traders’ derivatives profits fall to $4.7 billion",
       "summary": "Indian proprietary traders' derivatives profits dropped to $4.7 billion as regulatory curbs affected market dynamics and individual investor losses decreased.",
       "source": "Bloomberg",
@@ -2803,26 +2978,6 @@
         "JPM",
         "MS"
       ]
-    },
-    {
-      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-      "summary": "Ships passing through Hormuz hover in single digits, data shows  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-      "datetime": 1787280180,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
-      "summary": "Oil rises as Trump threatens sanctions on Iran partners  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-      "datetime": 1787277000,
-      "category": "business",
-      "related_tickers": []
     },
     {
       "headline": "Iran threatens military response to US sanctions - Reuters",
@@ -2944,6 +3099,17 @@
       "related_tickers": []
     },
     {
+      "headline": "Harry and Meghan: Their life together in photos - Reuters",
+      "summary": "Harry and Meghan: Their life together in photos  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
+      "datetime": 1787247053,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
       "headline": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say - Reuters",
       "summary": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say  Reuters",
       "source": "Reuters",
@@ -3056,6 +3222,17 @@
       "related_tickers": []
     },
     {
+      "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
+      "summary": "Hormuz shipping unchanged amid US-Iran stalemate, data shows  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
+      "datetime": 1787229788,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
       "headline": "How wealthy families can prepare for aging parents and avoid a succession crisis",
       "summary": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
       "source": "CNBC",
@@ -3154,17 +3331,6 @@
       "related_tickers": []
     },
     {
-      "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
-      "summary": "Hormuz shipping unchanged amid US-Iran stalemate, data shows  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
-      "datetime": 1787215649,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
       "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
       "summary": "China boosts imports of Russian crude, stymieing India's refiners  Reuters",
       "source": "Reuters",
@@ -3192,15 +3358,13 @@
       "related_tickers": []
     },
     {
-      "headline": "Harry and Meghan: Their life together in photos - Reuters",
-      "summary": "Harry and Meghan: Their life together in photos  Reuters",
+      "headline": "Blind Egyptian entrepreneur's AI app helps others 'see' the world - Reuters",
+      "summary": "Blind Egyptian entrepreneur's AI app helps others 'see' the world  Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGVPeGt3dkt5VG9QUk40ZHNUZHFDR2RTY3JRZDRWSVMyZldFZHFEcGNYR1V2V0RuOHFncTA2M01mTUU0VVhWLXZqOVB0eUc5NjllZ1cyM0U4akZaVVlNTHc0RzhOUmdXWVJ1ZzVTSXQydTBCRkFxTGpZblhFSzhpeURaM1ZKXzgzamlDbXhwdzVFcHNxMnVTdE5aaHV3YzRPVDNjZGp2T0o3T1hWYXRSdS13?oc=5",
       "datetime": 1787209200,
       "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
+      "related_tickers": []
     },
     {
       "headline": "Iran executes man over charges related to January protests, state media says - Reuters",
@@ -3304,11 +3468,11 @@
       ]
     },
     {
-      "headline": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "summary": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight  Reuters",
+      "headline": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say - Reuters",
+      "summary": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say  Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "datetime": 1787161806,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHQxTVdDZDFBWlVVb2FyWXBaaC14cE5nZnIwdFN4Z3plZW5XUjdISFR3dEctVW5nRzF6T21QblV5N3NoMTRMWXVqSWxLdGtZT01kcVZQcWE0S3lJTGpSX2Q3Snh6Z3VQaVhZSVZsUTlWblZncGZGUnhxVTJYUm4zSC02VHdUMlFEUFMwR3BOU3RaVzc0X2gxWnEtcFB3VkZpbGZGcUgtNWlXdDBzN0xRS05FUnlOaEwzQm1uNnlKWm1Iekxi?oc=5",
+      "datetime": 1787161250,
       "category": "business",
       "related_tickers": []
     },
@@ -3343,164 +3507,6 @@
       "datetime": 1787155320,
       "category": "business",
       "related_tickers": []
-    },
-    {
-      "headline": "Jim Cramer says buy Target on any pullback as turnaround takes hold",
-      "summary": "Wall Street cheered improving financial metrics across the board in its latest earnings results.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
-      "datetime": 1787155037,
-      "category": "top news",
-      "related_tickers": [
-        "TGT"
-      ]
-    },
-    {
-      "headline": "Wall Street analysts just called this healthcare stock a buy — here’s our take",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/wall-street-analysts-just-called-this-healthcare-stock-a-buy-heres-our-take.html",
-      "datetime": 1787153992,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "We're booking a five-fold profit on one of drug stock's rally to record highs",
-      "summary": "This trim doesn't reflect any change in our positive long-term view.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
-      "datetime": 1787152485,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Hedge funds are about to jump into prediction markets in a big way",
-      "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-      "datetime": 1787146724,
-      "category": "top news",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "UAE stocks fall after missile scare; Qatar at over one-year low - Reuters",
-      "summary": "UAE stocks fall after missile scare; Qatar at over one-year low  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
-      "datetime": 1787145393,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "summary": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1787144928,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
-      "summary": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
-      "datetime": 1787139644,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "summary": "UAE says two missiles detected earlier were launched from Iran  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "datetime": 1787139087,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
-      "summary": "US stock futures steady after tech slump; investors focus on Middle East tensions  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "datetime": 1787135760,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Novo Nordisk tests low-dose Wegovy pill in new weight-loss study",
-      "summary": "The study reflects growing interest in lower-dose obesity treatments as patients balance weight-loss benefits, costs and potential side effects",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/novo-starts-testing-low-dose-wegovy-pills-in-new-obesity-study",
-      "datetime": 1787134212,
-      "category": "top news",
-      "related_tickers": [
-        "NVO"
-      ]
-    },
-    {
-      "headline": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
-      "summary": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
-      "datetime": 1787134205,
-      "category": "business",
-      "related_tickers": [
-        "UNP"
-      ]
-    },
-    {
-      "headline": "US natural gas rises as Texas heat outlook boosts power demand",
-      "summary": "US natural gas prices rise as Texas heat increases power demand, with Houston temperatures averaging 100F from August 20-23.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-natural-gas-futures-rise-as-texas-heat-boosts-power-demand",
-      "datetime": 1787133454,
-      "category": "top news",
-      "related_tickers": [
-        "TXN",
-        "TPL"
-      ]
-    },
-    {
-      "headline": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
-      "summary": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-      "datetime": 1787128629,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK inflation picks up after July surge in household energy bills - Reuters",
-      "summary": "UK inflation picks up after July surge in household energy bills  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
-      "datetime": 1787126183,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Indian steel mills face margin squeeze as global coking coal prices rise - Reuters",
-      "summary": "Indian steel mills face margin squeeze as global coking coal prices rise  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
-      "datetime": 1787124345,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
-      "summary": "Kenya Airways says its fuel cost up 72% due to Middle East conflict  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
-      "datetime": 1787124129,
-      "category": "business",
-      "related_tickers": [
-        "APD",
-        "AI.PA"
-      ]
     }
   ]
 }
