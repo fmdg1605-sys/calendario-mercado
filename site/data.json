@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-07T15:27:08.806737+00:00",
+  "generated_at": "2026-11-08T15:49:11.626890+00:00",
   "window": {
-    "from": "2026-11-07",
-    "to": "2026-11-28"
+    "from": "2026-11-08",
+    "to": "2026-11-29"
   },
   "europe_window": {
-    "from": "2026-11-07",
-    "to": "2027-03-07"
+    "from": "2026-11-08",
+    "to": "2027-03-08"
   },
   "macro_window": {
-    "from": "2026-11-07",
-    "to": "2027-05-06"
+    "from": "2026-11-08",
+    "to": "2027-05-07"
   },
   "universe_size": {
     "us": 503,
@@ -37,9 +37,9 @@
       "region": "us",
       "date": "2026-11-09",
       "hour": "bmo",
-      "eps_estimate": 3.3656,
+      "eps_estimate": 3.3704,
       "eps_actual": null,
-      "revenue_estimate": 8908220112,
+      "revenue_estimate": 8910451362,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2026
@@ -50,7 +50,7 @@
       "region": "us",
       "date": "2026-11-09",
       "hour": "bmo",
-      "eps_estimate": 1.605,
+      "eps_estimate": 1.6044,
       "eps_actual": null,
       "revenue_estimate": 2622445052,
       "revenue_actual": null,
@@ -102,9 +102,9 @@
       "region": "us",
       "date": "2026-11-09",
       "hour": "amc",
-      "eps_estimate": 0.9604,
+      "eps_estimate": 0.9589,
       "eps_actual": null,
-      "revenue_estimate": 1608521640,
+      "revenue_estimate": 1606767240,
       "revenue_actual": null,
       "quarter": 2,
       "year": 2027
@@ -117,7 +117,7 @@
       "hour": null,
       "eps_estimate": 0.62636,
       "eps_actual": null,
-      "revenue_estimate": 4715259360,
+      "revenue_estimate": 4715257930,
       "revenue_actual": null,
       "quarter": null,
       "year": 2026,
@@ -137,25 +137,12 @@
       "year": 2026
     },
     {
-      "ticker": "ECHO",
-      "company": "EchoStar",
-      "region": "us",
-      "date": "2026-11-11",
-      "hour": "",
-      "eps_estimate": 0.1693,
-      "eps_actual": null,
-      "revenue_estimate": 3599414250,
-      "revenue_actual": null,
-      "quarter": 3,
-      "year": 2026
-    },
-    {
       "ticker": "NIO",
       "company": "NIO Inc.",
       "region": "china_adr",
       "date": "2026-11-11",
       "hour": "",
-      "eps_estimate": -0.0167,
+      "eps_estimate": -0.0939,
       "eps_actual": null,
       "revenue_estimate": 33668882128,
       "revenue_actual": null,
@@ -195,7 +182,7 @@
       "region": "us",
       "date": "2026-11-12",
       "hour": "amc",
-      "eps_estimate": 1.3512,
+      "eps_estimate": 1.3514,
       "eps_actual": null,
       "revenue_estimate": 18479907548,
       "revenue_actual": null,
@@ -238,7 +225,7 @@
       "hour": "bmo",
       "eps_estimate": 6.8564,
       "eps_actual": null,
-      "revenue_estimate": 31457260968,
+      "revenue_estimate": 31475280972,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2026
@@ -275,9 +262,9 @@
       "region": "us",
       "date": "2026-11-16",
       "hour": "amc",
-      "eps_estimate": 0.5963,
+      "eps_estimate": 0.5885,
       "eps_actual": null,
-      "revenue_estimate": 14451658730,
+      "revenue_estimate": 14310637480,
       "revenue_actual": null,
       "quarter": 4,
       "year": 2026
@@ -301,7 +288,7 @@
       "region": "us",
       "date": "2026-11-17",
       "hour": "bmo",
-      "eps_estimate": 1.6946,
+      "eps_estimate": 1.6933,
       "eps_actual": null,
       "revenue_estimate": 25439119035,
       "revenue_actual": null,
@@ -314,9 +301,9 @@
       "region": "us",
       "date": "2026-11-17",
       "hour": "",
-      "eps_estimate": 3.952,
+      "eps_estimate": 3.9538,
       "eps_actual": null,
-      "revenue_estimate": 44033075934,
+      "revenue_estimate": 44043919362,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -353,9 +340,9 @@
       "region": "us",
       "date": "2026-11-17",
       "hour": "bmo",
-      "eps_estimate": 2.2005,
+      "eps_estimate": 2.2009,
       "eps_actual": null,
-      "revenue_estimate": 2016749032,
+      "revenue_estimate": 2017100845,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -379,9 +366,9 @@
       "region": "us",
       "date": "2026-11-18",
       "hour": "bmo",
-      "eps_estimate": 2.8946,
+      "eps_estimate": 2.9108,
       "eps_actual": null,
-      "revenue_estimate": 22628838829,
+      "revenue_estimate": 22633881153,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -418,9 +405,9 @@
       "region": "us",
       "date": "2026-11-18",
       "hour": "",
-      "eps_estimate": 1.8791,
+      "eps_estimate": 1.8819,
       "eps_actual": null,
-      "revenue_estimate": 6339258628,
+      "revenue_estimate": 6370684186,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -431,9 +418,9 @@
       "region": "us",
       "date": "2026-11-18",
       "hour": "",
-      "eps_estimate": 2.0676,
+      "eps_estimate": 2.0733,
       "eps_actual": null,
-      "revenue_estimate": 26710649880,
+      "revenue_estimate": 26736477024,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -444,9 +431,9 @@
       "region": "us",
       "date": "2026-11-18",
       "hour": "",
-      "eps_estimate": 1.3523,
+      "eps_estimate": 1.351,
       "eps_actual": null,
-      "revenue_estimate": 16026664658,
+      "revenue_estimate": 16013405256,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -524,7 +511,7 @@
       "hour": "amc",
       "eps_estimate": 1.7605,
       "eps_actual": null,
-      "revenue_estimate": 2028235003,
+      "revenue_estimate": 2027654878,
       "revenue_actual": null,
       "quarter": 4,
       "year": 2026
@@ -535,9 +522,9 @@
       "region": "us",
       "date": "2026-11-23",
       "hour": "amc",
-      "eps_estimate": 1.2867,
+      "eps_estimate": 1.2889,
       "eps_actual": null,
-      "revenue_estimate": 14513313422,
+      "revenue_estimate": 14553130339,
       "revenue_actual": null,
       "quarter": 4,
       "year": 2026
@@ -561,9 +548,9 @@
       "region": "us",
       "date": "2026-11-24",
       "hour": "amc",
-      "eps_estimate": 3.9235,
+      "eps_estimate": 3.9231,
       "eps_actual": null,
-      "revenue_estimate": 4354803031,
+      "revenue_estimate": 4354933483,
       "revenue_actual": null,
       "quarter": 4,
       "year": 2026
@@ -587,7 +574,7 @@
       "region": "us",
       "date": "2026-11-24",
       "hour": "",
-      "eps_estimate": 1.4994,
+      "eps_estimate": 1.4999,
       "eps_actual": null,
       "revenue_estimate": 9987380374,
       "revenue_actual": null,
@@ -602,7 +589,7 @@
       "hour": "",
       "eps_estimate": 1.8415,
       "eps_actual": null,
-      "revenue_estimate": 8410050031,
+      "revenue_estimate": 8403643687,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2026
@@ -613,9 +600,9 @@
       "region": "us",
       "date": "2026-11-24",
       "hour": "",
-      "eps_estimate": 6.682,
+      "eps_estimate": 6.6854,
       "eps_actual": null,
-      "revenue_estimate": 50148620473,
+      "revenue_estimate": 50193640458,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -626,9 +613,9 @@
       "region": "us",
       "date": "2026-11-24",
       "hour": "amc",
-      "eps_estimate": 0.761,
+      "eps_estimate": 0.7602,
       "eps_actual": null,
-      "revenue_estimate": 15598287570,
+      "revenue_estimate": 15583085646,
       "revenue_actual": null,
       "quarter": 4,
       "year": 2026
@@ -691,9 +678,9 @@
       "region": "us",
       "date": "2026-11-26",
       "hour": "",
-      "eps_estimate": 1.1138,
+      "eps_estimate": 1.1133,
       "eps_actual": null,
-      "revenue_estimate": 3219504478,
+      "revenue_estimate": 3205736172,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -706,7 +693,7 @@
       "hour": "amc",
       "eps_estimate": 2.3897,
       "eps_actual": null,
-      "revenue_estimate": 953640248,
+      "revenue_estimate": 953677223,
       "revenue_actual": null,
       "quarter": 3,
       "year": 2027
@@ -876,7 +863,7 @@
       "week52_high": 380.78,
       "week52_low": 228.63,
       "dividend_yield": 2.8478,
-      "beta": 1.157129,
+      "beta": 1.1515669,
       "roe_ttm": 14.69,
       "revenue_growth_ttm": 25.98
     },
@@ -898,13 +885,13 @@
       "day_high": 236.07,
       "day_low": 231.94,
       "prev_close": 235.65,
-      "pe_ttm": 18.5869,
+      "pe_ttm": 18.5591,
       "pb": 7.4329,
       "eps_ttm": 12.4637,
       "week52_high": 271.64,
       "week52_low": 212.13,
-      "dividend_yield": 1.4864,
-      "beta": 1.0566162,
+      "dividend_yield": 1.4886,
+      "beta": 1.075787,
       "roe_ttm": 40.62,
       "revenue_growth_ttm": 3.66
     },
@@ -932,7 +919,7 @@
       "week52_high": 144.84,
       "week52_low": 82.67,
       "dividend_yield": 0.9599,
-      "beta": 1.7250684,
+      "beta": 1.7349443,
       "roe_ttm": 10.32,
       "revenue_growth_ttm": 30.47
     },
@@ -954,13 +941,13 @@
       "day_high": 90.04,
       "day_low": 82.30776,
       "prev_close": 80.55,
-      "pe_ttm": 19.944,
+      "pe_ttm": 21.8604,
       "pb": 18.1539,
       "eps_ttm": 4.1093,
       "week52_high": 189.96,
       "week52_low": 79.65,
-      "dividend_yield": 2.5927,
-      "beta": 1.2237849,
+      "dividend_yield": 2.3654,
+      "beta": 1.1970351,
       "roe_ttm": 25.380000000000003,
       "revenue_growth_ttm": 12.8
     },
@@ -982,13 +969,13 @@
       "day_high": 57.17,
       "day_low": 55.61,
       "prev_close": 56.36,
-      "pe_ttm": 7.8094,
+      "pe_ttm": 7.7694,
       "pb": 1.1243,
       "eps_ttm": 7.1937999999999995,
       "week52_high": 67.45,
       "week52_low": 38.8,
-      "dividend_yield": 2.9215,
-      "beta": 0.22489586,
+      "dividend_yield": 2.9365,
+      "beta": 0.2216971,
       "roe_ttm": 18.970000000000002,
       "revenue_growth_ttm": 1.53
     },
@@ -1015,7 +1002,7 @@
       "eps_ttm": -0.5616,
       "week52_high": 9.84,
       "week52_low": 6.61,
-      "dividend_yield": 0.5838,
+      "dividend_yield": 0.5893,
       "beta": 2.2306652,
       "roe_ttm": -5.27,
       "revenue_growth_ttm": 1.23
@@ -1044,7 +1031,7 @@
       "week52_high": 265.94,
       "week52_low": 183.86,
       "dividend_yield": null,
-      "beta": 0.8622462,
+      "beta": 0.8644503,
       "roe_ttm": -9.120000000000001,
       "revenue_growth_ttm": 15.3
     },
@@ -1094,43 +1081,15 @@
       "day_high": 1204.44,
       "day_low": 1178.975,
       "prev_close": 1189.19,
-      "pe_ttm": 30.9072,
+      "pe_ttm": 31.0787,
       "pb": 5.9821,
       "eps_ttm": 36.7097,
       "week52_high": 1463.03,
       "week52_low": 1071.25,
-      "dividend_yield": 8.0424,
-      "beta": 0.92300224,
+      "dividend_yield": 7.998,
+      "beta": 0.9232906,
       "roe_ttm": 37.11,
       "revenue_growth_ttm": 16.65
-    },
-    "ECHO": {
-      "ticker": "ECHO",
-      "full_name": "EchoStar Corporation",
-      "industry": "Media",
-      "country": "US",
-      "exchange": "NASDAQ NMS - GLOBAL MARKET",
-      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SATS.png",
-      "web_url": "https://www.echostar.com/",
-      "ipo": "2007-12-31",
-      "market_cap_musd": 27532.35364580248,
-      "shares_outstanding_m": 290.82,
-      "currency": "USD",
-      "price": 94.62,
-      "change": 4.7,
-      "change_pct": 5.2269,
-      "day_high": 95.45,
-      "day_low": 91.25,
-      "prev_close": 89.92,
-      "pe_ttm": null,
-      "pb": 0.2015,
-      "eps_ttm": -25.000499999999995,
-      "week52_high": 104.74,
-      "week52_low": 82.48,
-      "dividend_yield": null,
-      "beta": -0.36390433,
-      "roe_ttm": -69.81,
-      "revenue_growth_ttm": -5.17
     },
     "NIO": {
       "ticker": "NIO",
@@ -1151,12 +1110,12 @@
       "day_low": 3.27,
       "prev_close": 3.2,
       "pe_ttm": null,
-      "pb": 17.7959,
+      "pb": 17.8023,
       "eps_ttm": -1.9408,
       "week52_high": 7.54,
       "week52_low": 3.1,
       "dividend_yield": null,
-      "beta": 0.9277421,
+      "beta": 0.9118964,
       "roe_ttm": -117.19,
       "revenue_growth_ttm": 64.38
     },
@@ -1206,13 +1165,13 @@
       "day_high": 348.71,
       "day_low": 329.29,
       "prev_close": 319.25,
-      "pe_ttm": 27.3396,
+      "pe_ttm": 28.4927,
       "pb": 9.0271,
       "eps_ttm": 11.5943,
       "week52_high": 739.67,
       "week52_low": 203.4,
-      "dividend_yield": 0.598,
-      "beta": 1.7155873,
+      "dividend_yield": 0.5738,
+      "beta": 1.7030736,
       "roe_ttm": 40.44,
       "revenue_growth_ttm": 7.77
     },
@@ -1240,7 +1199,7 @@
       "week52_high": 130.3656,
       "week52_low": 70.54,
       "dividend_yield": 1.7735,
-      "beta": 0.99633676,
+      "beta": 0.995786,
       "roe_ttm": 27.389999999999997,
       "revenue_growth_ttm": 11.77
     },
@@ -1319,12 +1278,12 @@
       "day_low": 79.41,
       "prev_close": 79.48,
       "pe_ttm": null,
-      "pb": 1.1479,
+      "pb": 1.1483,
       "eps_ttm": -1.7449000000000003,
       "week52_high": 165.3,
       "week52_low": 75.8,
       "dividend_yield": null,
-      "beta": 0.55933887,
+      "beta": 0.5519985,
       "roe_ttm": -1.72,
       "revenue_growth_ttm": -4.16
     },
@@ -1347,12 +1306,12 @@
       "day_low": 0.88,
       "prev_close": 0.9013,
       "pe_ttm": null,
-      "pb": 0.9407,
+      "pb": 0.941,
       "eps_ttm": -0.1242,
       "week52_high": 2.3,
       "week52_low": 0.815,
       "dividend_yield": null,
-      "beta": 0.11731178,
+      "beta": 0.09858155,
       "roe_ttm": -6.39,
       "revenue_growth_ttm": -6.09
     },
@@ -1374,13 +1333,13 @@
       "day_high": 84.605,
       "day_low": 82.25,
       "prev_close": 83.95,
-      "pe_ttm": 8.4719,
-      "pb": 2.5573,
+      "pe_ttm": 8.475,
+      "pb": 2.5582,
       "eps_ttm": 15.5571,
       "week52_high": 139.12,
       "week52_low": 71.94,
       "dividend_yield": null,
-      "beta": -0.034224074,
+      "beta": -0.02945857,
       "roe_ttm": 21.98,
       "revenue_growth_ttm": 10.05
     },
@@ -1402,13 +1361,13 @@
       "day_high": 60.31,
       "day_low": 58.16,
       "prev_close": 60.11,
-      "pe_ttm": 36.108,
+      "pe_ttm": 35.9338,
       "pb": 1.0615,
       "eps_ttm": 1.619,
       "week52_high": 69.48,
       "week52_low": 49.96,
-      "dividend_yield": 3.3871,
-      "beta": 0.3289935,
+      "dividend_yield": 3.4035,
+      "beta": 0.33338863,
       "roe_ttm": 3.18,
       "revenue_growth_ttm": 3.32
     },
@@ -1431,12 +1390,12 @@
       "day_low": 9.895,
       "prev_close": 9.6,
       "pe_ttm": null,
-      "pb": 4.2722,
+      "pb": 4.2737,
       "eps_ttm": -1.6317,
       "week52_high": 28.235,
       "week52_low": 8.94,
       "dividend_yield": null,
-      "beta": 0.9681864,
+      "beta": 0.95023566,
       "roe_ttm": -10.77,
       "revenue_growth_ttm": 25.08
     },
@@ -1458,13 +1417,13 @@
       "day_high": 117.81,
       "day_low": 113.79,
       "prev_close": 117.22,
-      "pe_ttm": 23.4318,
+      "pe_ttm": 23.4408,
       "pb": 1.9024,
       "eps_ttm": 4.8475,
-      "week52_high": 119.96,
+      "week52_high": 120.8,
       "week52_low": 92.19,
-      "dividend_yield": 1.1091,
-      "beta": 1.3950282,
+      "dividend_yield": 1.1087,
+      "beta": 1.4055346,
       "roe_ttm": 7.870000000000001,
       "revenue_growth_ttm": 4.58
     },
@@ -1486,13 +1445,13 @@
       "day_high": 346.82,
       "day_low": 338.12,
       "prev_close": 349.94,
-      "pe_ttm": 24.5401,
+      "pe_ttm": 24.0863,
       "pb": 29.3782,
       "eps_ttm": 14.282599999999999,
       "week52_high": 397.63,
       "week52_low": 277.15,
-      "dividend_yield": 2.6411,
-      "beta": 0.9141273,
+      "dividend_yield": 2.6909,
+      "beta": 0.92344093,
       "roe_ttm": 102.67999999999999,
       "revenue_growth_ttm": 2.5
     },
@@ -1514,13 +1473,13 @@
       "day_high": 194.895,
       "day_low": 185.22,
       "prev_close": 181.6,
-      "pe_ttm": 22.6907,
+      "pe_ttm": 23.3204,
       "pb": 28.8075,
       "eps_ttm": 7.9108,
       "week52_high": 243.37,
       "week52_low": 164.27,
-      "dividend_yield": 0.1548,
-      "beta": 2.3601124,
+      "dividend_yield": 0.1506,
+      "beta": 2.3531115,
       "roe_ttm": 110.11,
       "revenue_growth_ttm": 83.38
     },
@@ -1542,13 +1501,13 @@
       "day_high": 9.595,
       "day_low": 9.32,
       "prev_close": 9.45,
-      "pe_ttm": 9.8351,
-      "pb": 2.0857,
+      "pe_ttm": 9.8386,
+      "pb": 2.0865,
       "eps_ttm": 2.8512,
-      "week52_high": 22.855,
+      "week52_high": 22.79,
       "week52_low": 7.66,
       "dividend_yield": null,
-      "beta": 0.71069527,
+      "beta": 0.71079487,
       "roe_ttm": 13.81,
       "revenue_growth_ttm": 12.09
     },
@@ -1576,7 +1535,7 @@
       "week52_high": 274.445,
       "week52_low": 165.51,
       "dividend_yield": 1.1228,
-      "beta": 1.5348984,
+      "beta": 1.5431857,
       "roe_ttm": 57.79,
       "revenue_growth_ttm": 2.24
     },
@@ -1598,13 +1557,13 @@
       "day_high": 32.075,
       "day_low": 31.24,
       "prev_close": 32.48,
-      "pe_ttm": 20.2718,
+      "pe_ttm": 19.941,
       "pb": 2.9635,
       "eps_ttm": 1.551,
-      "week52_high": 43.38,
+      "week52_high": 42.05,
       "week52_low": 25.72,
       "dividend_yield": null,
-      "beta": 0.9788996,
+      "beta": 0.98958886,
       "roe_ttm": 15.93,
       "revenue_growth_ttm": 0.41
     },
@@ -1626,13 +1585,13 @@
       "day_high": 226.225,
       "day_low": 220.32,
       "prev_close": 227.24,
-      "pe_ttm": 18.9904,
+      "pe_ttm": 18.965,
       "pb": 85.0765,
       "eps_ttm": 11.8624,
       "week52_high": 293.06,
       "week52_low": 178.45,
-      "dividend_yield": 2.1339,
-      "beta": 0.7648565,
+      "dividend_yield": 2.1368,
+      "beta": 0.7758012,
       "roe_ttm": 264.53000000000003,
       "revenue_growth_ttm": 8.16
     },
@@ -1654,13 +1613,13 @@
       "day_high": 102.26,
       "day_low": 94.82,
       "prev_close": 93.44,
-      "pe_ttm": 126.3852,
+      "pe_ttm": 127.2864,
       "pb": null,
       "eps_ttm": 0.7305,
       "week52_high": 157.57,
       "week52_low": 56.78,
       "dividend_yield": null,
-      "beta": 1.5329868,
+      "beta": 1.5203928,
       "roe_ttm": 17.37,
       "revenue_growth_ttm": 27.21
     },
@@ -1682,13 +1641,13 @@
       "day_high": 331.9,
       "day_low": 312.7037,
       "prev_close": 314.67,
-      "pe_ttm": 839.2276,
+      "pe_ttm": 837.0139,
       "pb": 9.8371,
       "eps_ttm": 0.5125,
       "week52_high": 432.325,
       "week52_low": 139.57,
       "dividend_yield": null,
-      "beta": 1.0375098,
+      "beta": 1.0358075,
       "roe_ttm": 1.68,
       "revenue_growth_ttm": 24.49
     },
@@ -1710,13 +1669,13 @@
       "day_high": 235.8,
       "day_low": 230.28,
       "prev_close": 235.23,
-      "pe_ttm": 28.2263,
+      "pe_ttm": 27.7626,
       "pb": 9.9379,
       "eps_ttm": 8.2745,
       "week52_high": 257,
       "week52_low": 157.73,
-      "dividend_yield": 0.731,
-      "beta": 0.84530735,
+      "dividend_yield": 0.7432,
+      "beta": 0.85277987,
       "roe_ttm": 42.34,
       "revenue_growth_ttm": 14.02
     },
@@ -1738,13 +1697,13 @@
       "day_high": 159.73,
       "day_low": 154.79,
       "prev_close": 157.95,
-      "pe_ttm": 16.3431,
+      "pe_ttm": 16.3855,
       "pb": 3.0681,
       "eps_ttm": 9.6335,
       "week52_high": 170.75,
       "week52_low": 83.44,
-      "dividend_yield": 2.8811,
-      "beta": 0.9341702,
+      "dividend_yield": 2.8736,
+      "beta": 0.93568265,
       "roe_ttm": 26.66,
       "revenue_growth_ttm": 1.95
     },
@@ -1766,13 +1725,13 @@
       "day_high": 138.07,
       "day_low": 134.69,
       "prev_close": 138.59,
-      "pe_ttm": 24.9158,
+      "pe_ttm": 24.5305,
       "pb": 16.3649,
       "eps_ttm": 5.4067,
       "week52_high": 170,
       "week52_low": 122.78,
-      "dividend_yield": 1.2893,
-      "beta": 0.57485527,
+      "dividend_yield": 1.3096,
+      "beta": 0.5824165,
       "roe_ttm": 59.77,
       "revenue_growth_ttm": 7.66
     },
@@ -1794,13 +1753,13 @@
       "day_high": 348.54,
       "day_low": 334.9,
       "prev_close": 354.84,
-      "pe_ttm": 20.7679,
+      "pe_ttm": 19.9871,
       "pb": 4.5523,
       "eps_ttm": 16.4982,
       "week52_high": 682.27,
       "week52_low": 252.84,
-      "dividend_yield": 1.4205,
-      "beta": 0.9054139,
+      "dividend_yield": 1.476,
+      "beta": 0.9218588,
       "roe_ttm": 23.419999999999998,
       "revenue_growth_ttm": 13.9
     },
@@ -1822,13 +1781,13 @@
       "day_high": 277.34,
       "day_low": 265.16,
       "prev_close": 260.61,
-      "pe_ttm": 35.2123,
+      "pe_ttm": 36.7688,
       "pb": 5.3465,
       "eps_ttm": 7.2832,
       "week52_high": 389.93,
       "week52_low": 167.23,
       "dividend_yield": null,
-      "beta": 1.2426249,
+      "beta": 1.2294375,
       "roe_ttm": 20.169999999999998,
       "revenue_growth_ttm": 25.54
     },
@@ -1850,13 +1809,13 @@
       "day_high": 130.6,
       "day_low": 126.58,
       "prev_close": 126.56,
-      "pe_ttm": 15.2368,
-      "pb": 3.6413,
+      "pe_ttm": 15.2422,
+      "pb": 3.6426,
       "eps_ttm": 10.0807,
       "week52_high": 149.11,
       "week52_low": 106.06,
-      "dividend_yield": 2.7159,
-      "beta": 0.6425262,
+      "dividend_yield": 2.7149,
+      "beta": 0.6387446,
       "roe_ttm": 20.06,
       "revenue_growth_ttm": 6.31
     },
@@ -1884,7 +1843,7 @@
       "week52_high": 135.16,
       "week52_low": 98.88,
       "dividend_yield": 0.7593,
-      "beta": 0.5173825,
+      "beta": 0.5241556,
       "roe_ttm": 22.74,
       "revenue_growth_ttm": 6.16
     },
@@ -1906,13 +1865,13 @@
       "day_high": 9.165,
       "day_low": 8.905,
       "prev_close": 8.93,
-      "pe_ttm": 14.8932,
-      "pb": 1.8569,
+      "pe_ttm": 14.8986,
+      "pb": 1.8576,
       "eps_ttm": 0.20199999999999999,
       "week52_high": 13.09,
       "week52_low": 7.455,
       "dividend_yield": null,
-      "beta": 0.32707143,
+      "beta": 0.32080162,
       "roe_ttm": 10.57,
       "revenue_growth_ttm": -48.23
     },
@@ -1934,13 +1893,13 @@
       "day_high": 176.41,
       "day_low": 171.28,
       "prev_close": 171.78,
-      "pe_ttm": 33.6318,
+      "pe_ttm": 34.2152,
       "pb": 6.1553,
       "eps_ttm": 5.0738,
       "week52_high": 182.99,
       "week52_low": 108.35,
-      "dividend_yield": 0.5905,
-      "beta": 1.2232953,
+      "dividend_yield": 0.5805,
+      "beta": 1.2351424,
       "roe_ttm": 20.47,
       "revenue_growth_ttm": 8.6
     },
@@ -1962,13 +1921,13 @@
       "day_high": 47.34,
       "day_low": 43.891,
       "prev_close": 44.16,
-      "pe_ttm": 21.0749,
+      "pe_ttm": 21.2937,
       "pb": 1.3047,
       "eps_ttm": 1.9631999999999998,
       "week52_high": 73.56,
       "week52_low": 19.84,
-      "dividend_yield": 1.4536,
-      "beta": 1.4737902,
+      "dividend_yield": 1.4387,
+      "beta": 1.5061661,
       "roe_ttm": 11.020000000000001,
       "revenue_growth_ttm": 26.59
     },
@@ -1996,7 +1955,7 @@
       "week52_high": 162,
       "week52_low": 105.68,
       "dividend_yield": 0.9276,
-      "beta": 0.7152904,
+      "beta": 0.7126242,
       "roe_ttm": 9.92,
       "revenue_growth_ttm": 60.21
     },
@@ -2018,13 +1977,13 @@
       "day_high": 374.81,
       "day_low": 354.72,
       "prev_close": 361.01,
-      "pe_ttm": 41.9304,
+      "pe_ttm": 42.6042,
       "pb": 3.3827,
       "eps_ttm": 8.4269,
       "week52_high": 445.91,
       "week52_low": 223.47,
-      "dividend_yield": 1.1783,
-      "beta": 1.3297513,
+      "dividend_yield": 1.1596,
+      "beta": 1.3264993,
       "roe_ttm": 12.26,
       "revenue_growth_ttm": 33.65
     },
@@ -2046,13 +2005,13 @@
       "day_high": 264.68,
       "day_low": 258.61,
       "prev_close": 269.16,
-      "pe_ttm": 34.2597,
+      "pe_ttm": 33.3127,
       "pb": 17.7934,
       "eps_ttm": 7.7129,
       "week52_high": 320,
       "week52_low": 185.5,
       "dividend_yield": null,
-      "beta": 1.1811537,
+      "beta": 1.2032009,
       "roe_ttm": 52.5,
       "revenue_growth_ttm": 17.94
     },
@@ -2074,13 +2033,13 @@
       "day_high": 101.795,
       "day_low": 97.22,
       "prev_close": 99.4,
-      "pe_ttm": 16.6529,
+      "pe_ttm": 16.427,
       "pb": 4.6587,
       "eps_ttm": 6.0198,
       "week52_high": 103.54,
       "week52_low": 55.1,
-      "dividend_yield": 3.7909,
-      "beta": 1.2249038,
+      "dividend_yield": 3.843,
+      "beta": 1.2273822,
       "roe_ttm": 42.82,
       "revenue_growth_ttm": 1.45
     },
@@ -2102,13 +2061,13 @@
       "day_high": 14.775,
       "day_low": 14.39,
       "prev_close": 14.25,
-      "pe_ttm": 24.8457,
-      "pb": 4.3851,
+      "pe_ttm": 24.8546,
+      "pb": 4.3867,
       "eps_ttm": 3.3696,
       "week52_high": 36.4,
       "week52_low": 12.64,
       "dividend_yield": null,
-      "beta": 0.65668684,
+      "beta": 0.6514977,
       "roe_ttm": 9.91,
       "revenue_growth_ttm": 6.94
     },
@@ -2130,13 +2089,13 @@
       "day_high": 350.36,
       "day_low": 325.1,
       "prev_close": 316.91,
-      "pe_ttm": 18.3376,
+      "pe_ttm": 18.3585,
       "pb": 18.5202,
       "eps_ttm": 17.2331,
       "week52_high": 595.51,
       "week52_low": 110.22,
-      "dividend_yield": 0.7506,
-      "beta": 1.5529926,
+      "dividend_yield": 0.7497,
+      "beta": 1.5399777,
       "roe_ttm": 130.7,
       "revenue_growth_ttm": 49.03
     },
@@ -2158,13 +2117,13 @@
       "day_high": 29.78,
       "day_low": 28.44,
       "prev_close": 29.44,
-      "pe_ttm": 10.6405,
+      "pe_ttm": 10.4712,
       "pb": 0.8956,
       "eps_ttm": 2.6239,
       "week52_high": 36.225,
       "week52_low": 17.56,
-      "dividend_yield": 4.1987,
-      "beta": 1.2135849,
+      "dividend_yield": 4.2665,
+      "beta": 1.2137116,
       "roe_ttm": 16.85,
       "revenue_growth_ttm": 8.14
     },
@@ -2186,13 +2145,13 @@
       "day_high": 103.07,
       "day_low": 100.8036,
       "prev_close": 104.84,
-      "pe_ttm": 25.6274,
+      "pe_ttm": 24.8843,
       "pb": 2.1627,
       "eps_ttm": 4.0646,
       "week52_high": 106.33,
       "week52_low": 73.31,
-      "dividend_yield": 2.7217,
-      "beta": 0.5561222,
+      "dividend_yield": 2.803,
+      "beta": 0.5551409,
       "roe_ttm": 10.61,
       "revenue_growth_ttm": 9.77
     },
@@ -2214,13 +2173,13 @@
       "day_high": 131.88,
       "day_low": 128.48,
       "prev_close": 133.25,
-      "pe_ttm": 60.9381,
+      "pe_ttm": 60.7659,
       "pb": 1.8858,
       "eps_ttm": 2.1479999999999997,
       "week52_high": 136.22,
       "week52_low": 88.25,
-      "dividend_yield": 3.3399,
-      "beta": 0.2226489,
+      "dividend_yield": 3.3494,
+      "beta": 0.22998545,
       "roe_ttm": 4.06,
       "revenue_growth_ttm": 5.08
     },
@@ -2248,7 +2207,7 @@
       "week52_high": 236.8,
       "week52_low": 110.36,
       "dividend_yield": null,
-      "beta": 1.0148586,
+      "beta": 1.0281961,
       "roe_ttm": 16.78,
       "revenue_growth_ttm": 13.35
     },
@@ -2270,13 +2229,13 @@
       "day_high": 678.36,
       "day_low": 658,
       "prev_close": 663.31,
-      "pe_ttm": 36.7013,
+      "pe_ttm": 37.1627,
       "pb": 4.8122,
       "eps_ttm": 17.991500000000002,
       "week52_high": 721.22,
       "week52_low": 455.91,
-      "dividend_yield": 0.9807,
-      "beta": 0.900493,
+      "dividend_yield": 0.9686,
+      "beta": 0.90775347,
       "roe_ttm": 18.11,
       "revenue_growth_ttm": 7.99
     },
@@ -2304,7 +2263,7 @@
       "week52_high": 329.88,
       "week52_low": 70.685,
       "dividend_yield": 0.169,
-      "beta": 2.3697345,
+      "beta": 2.3728664,
       "roe_ttm": 16.220000000000002,
       "revenue_growth_ttm": 30.62
     },
@@ -2332,7 +2291,7 @@
       "week52_high": 325.99,
       "week52_low": 148.05,
       "dividend_yield": null,
-      "beta": 0.9056031,
+      "beta": 0.91301274,
       "roe_ttm": 14.000000000000002,
       "revenue_growth_ttm": 16.5
     },
@@ -2388,12 +2347,156 @@
       "week52_high": 452.7,
       "week52_low": 100.02,
       "dividend_yield": null,
-      "beta": 3.89519,
+      "beta": 4.0170703,
       "roe_ttm": 11.08,
       "revenue_growth_ttm": 23.84
     }
   },
   "news": [
+    {
+      "headline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters",
+      "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+      "datetime": 1794147987,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Gulf markets retreat as traders await Trump's next move on Iran - Reuters",
+      "summary": "Gulf markets retreat as traders await Trump's next move on Iran  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEhqejQxdWF5MFpVWjduZHVuY1l1VmxKYm9CN3F4aC1qWkFIWFJqZDJEZ1VoWmthUW1NaWdWQUY4UUprUGsyWFA2a0trUE5HUjEtUHpPNFV1UnBpMHRrR2RlQWo1c2xvY1J2QnprNnNkbHNpY3ZtUWxMQkRzTVpKcktuZjhJdW5zSHdsZUhxYmxBVy00UWVnbndnOEc2WWplMEEwREVib0VyZ3BzZWlR?oc=5",
+      "datetime": 1794143648,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+      "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "datetime": 1794142801,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Brands are sponsoring IRL communities. Some experts say that could spell their end",
+      "summary": "Brands are sponsoring book clubs and other local groups, giving organizers new revenue while raising questions about trust and community.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html",
+      "datetime": 1794142801,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
+      "summary": "With Stephen Miller at the helm, Trump charts a course for conflict  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
+      "datetime": 1794136326,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says - Reuters",
+      "summary": "Saudi Aramco building in Riyadh damaged by falling debris after attempted attack, ministry says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+      "datetime": 1794115440,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Iran executes three men over armed unrest during January protests - Reuters",
+      "summary": "Iran executes three men over armed unrest during January protests  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
+      "datetime": 1794112860,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Explosions heard in areas in southern Iran, Iranian media report - Reuters",
+      "summary": "Explosions heard in areas in southern Iran, Iranian media report  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
+      "datetime": 1794088634,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
+      "summary": "US military says it disabled cargo vessel in Gulf of Oman  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5",
+      "datetime": 1794086520,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "datetime": 1794083297,
+      "category": "top news",
+      "related_tickers": [
+        "RSG"
+      ]
+    },
+    {
+      "headline": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
+      "summary": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+      "datetime": 1794079920,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
+      "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+      "datetime": 1794078780,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "datetime": 1794073876,
+      "category": "top news",
+      "related_tickers": [
+        "CF",
+        "META"
+      ]
+    },
+    {
+      "headline": "Syria denies plans to send troops to Yemen as Saudi military ties deepen - Reuters",
+      "summary": "Syria denies plans to send troops to Yemen as Saudi military ties deepen  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
+      "datetime": 1794069343,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+      "datetime": 1794069060,
+      "category": "top news",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
     {
       "headline": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
       "summary": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car.",
@@ -2422,11 +2525,31 @@
       "related_tickers": []
     },
     {
+      "headline": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
+      "summary": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+      "datetime": 1794058560,
+      "category": "business",
+      "related_tickers": [
+        "EXE"
+      ]
+    },
+    {
       "headline": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
       "summary": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
       "datetime": 1794056401,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "After midterm rout, Vance tries to build his own 2028 brand - Reuters",
+      "summary": "After midterm rout, Vance tries to build his own 2028 brand  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5",
+      "datetime": 1794049380,
       "category": "business",
       "related_tickers": []
     },
@@ -2449,11 +2572,11 @@
       "related_tickers": []
     },
     {
-      "headline": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat - Reuters",
-      "summary": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat  Reuters",
+      "headline": "Crude gains on worries about renewed US attacks on Iran - Reuters",
+      "summary": "Crude gains on worries about renewed US attacks on Iran  Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5",
-      "datetime": 1794008247,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
+      "datetime": 1794023085,
       "category": "business",
       "related_tickers": []
     },
@@ -2543,6 +2666,15 @@
       "related_tickers": [
         "HTHT"
       ]
+    },
+    {
+      "headline": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat - Reuters",
+      "summary": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5",
+      "datetime": 1793991660,
+      "category": "business",
+      "related_tickers": []
     },
     {
       "headline": "AI crush is powering one stock to sky-high valuations",
@@ -2639,6 +2771,24 @@
       "related_tickers": []
     },
     {
+      "headline": "Zambia sees steady growth and smaller budget deficit next year - Reuters",
+      "summary": "Zambia sees steady growth and smaller budget deficit next year  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDdpaWFCYUs0SWN2dEttR2VpQzBtYW1ZZmFiQWtDS1A2MkxBREZvMGh4RU9ORHk4S284VEZ0bk1ZNkRreGdjVTlIVEVZOXZOVXE3ek1UNHgxUUpERWJYa2liQUFTdkRCOU5xbW00dFpKSDhvVnRxbUNab2hoZUFXVHU2UjBMcWs4UHhYc1NkRVpPd0lmMUx0VV9ER1U?oc=5",
+      "datetime": 1793973066,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts - Reuters",
+      "summary": "COMMENTARY: Washington reset, market meltdown and the Iran oil bet: The financial week in five charts  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDZhY1FzZXRVRVhNczRmcTVIZjJKUWpudWZuXzZDZkQxcVFsRDRJUzNMNGltOFMyVmJ1VFdkV3lEV09FOGZ1bnlGT2c1R0tGcklDdTIwQXNyVUM5UHNFQXBxOF9uVm1xNVNuYkplOVhtRHBuYnRnSDljdWxLZjFuZ09IN2dlX3N6N29BWTZiRWxQMkNTM0FHc1o4NDFLQ3h0TnhIaEpEUVo0N1Fxd1IyZ3R6WmxSZk1ydVV5UXlsRUhmX3pCVFVMVHByT29WLTVrMXNCVXVPMHY?oc=5",
+      "datetime": 1793972813,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
       "summary": "As retail investors pulled money out of individual stocks, more than three-quarters of advisors in a CNBC flash poll said investors should check their allocation against their goals or stay invested.",
       "source": "CNBC",
@@ -2667,6 +2817,15 @@
         "TXN",
         "TPL"
       ]
+    },
+    {
+      "headline": "UK house prices post biggest annual fall since October 2023, Lloyds says - Reuters",
+      "summary": "UK house prices post biggest annual fall since October 2023, Lloyds says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM5ekJKTENiWFVlYXNBbEdTVXk4dTI2Z3gzUnc0V05NcFNMZmw2Z3FKZFFFYU4ycDNqOGx2a29xanNCOFI5eTR3ODFINFRVeHFYUFhqMkF3Ml9WZkUtOHd1Yy03QnpGMDhKWGY4ZHNIVkZMNVkzQ3pPZEUyRWFPdC1nQlBXbE9ic2FTd0VsYnN1bG9ub0VHeU45dzQ3QXhHUGx4X2pYQmVTNUh4ZlI2R3JRTTk5Zjg?oc=5",
+      "datetime": 1793969159,
+      "category": "business",
+      "related_tickers": []
     },
     {
       "headline": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
@@ -2732,20 +2891,11 @@
       "related_tickers": []
     },
     {
-      "headline": "Midterms upended Congress but Trump still commands foreign policy - Reuters",
-      "summary": "Midterms upended Congress but Trump still commands foreign policy  Reuters",
+      "headline": "New wave of bomb hoaxes hits dozens of flights across Europe - Reuters",
+      "summary": "New wave of bomb hoaxes hits dozens of flights across Europe  Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5",
-      "datetime": 1793953777,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK house prices post biggest annual fall since October 2023, Lloyds says - Reuters",
-      "summary": "UK house prices post biggest annual fall since October 2023, Lloyds says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXM5ekJKTENiWFVlYXNBbEdTVXk4dTI2Z3gzUnc0V05NcFNMZmw2Z3FKZFFFYU4ycDNqOGx2a29xanNCOFI5eTR3ODFINFRVeHFYUFhqMkF3Ml9WZkUtOHd1Yy03QnpGMDhKWGY4ZHNIVkZMNVkzQ3pPZEUyRWFPdC1nQlBXbE9ic2FTd0VsYnN1bG9ub0VHeU45dzQ3QXhHUGx4X2pYQmVTNUh4ZlI2R3JRTTk5Zjg?oc=5",
-      "datetime": 1793950860,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
+      "datetime": 1793947871,
       "category": "business",
       "related_tickers": []
     },
@@ -2764,15 +2914,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
       "datetime": 1793933686,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Crude gains on worries about renewed US attacks on Iran - Reuters",
-      "summary": "Crude gains on worries about renewed US attacks on Iran  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
-      "datetime": 1793933340,
       "category": "business",
       "related_tickers": []
     },
@@ -2806,6 +2947,15 @@
       "related_tickers": [
         "DVN"
       ]
+    },
+    {
+      "headline": "Carney uses higher oil revenue to spend on tax incentives, infrastructure in second Canadian budget - Reuters",
+      "summary": "Carney uses higher oil revenue to spend on tax incentives, infrastructure in second Canadian budget  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmtLNkU4MVNYTjhVLUFHZ19WQUN0Q0RLeXJyc2tRNThpMTlIMlVQQ1B1M0NzcWxuMDd2LVpGSFB4TjlFTFN5bVV5dUFPLTUxeFlubGtZSWZsWFhsbVJOSVdGamd1VGthMmFnZjVPbk8xdDBvaHU3UE90eFJXSl9pWXQ3QWh3YjctX1JoMmR5TFBCel94a3FPU2l5RXhzaXBGT3YxdUE2ZTdQNXJ1S0RteVB0YUNmbFk1TFBybA?oc=5",
+      "datetime": 1793919493,
+      "category": "business",
+      "related_tickers": []
     },
     {
       "headline": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -2876,11 +3026,31 @@
       ]
     },
     {
+      "headline": "Republicans call for Trump to change course after midterm drubbing - Reuters",
+      "summary": "Republicans call for Trump to change course after midterm drubbing  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
+      "datetime": 1793906587,
+      "category": "business",
+      "related_tickers": [
+        "RSG"
+      ]
+    },
+    {
       "headline": "Iran's security chief discusses regional, bilateral affairs with Putin - Reuters",
       "summary": "Iran's security chief discusses regional, bilateral affairs with Putin  Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
       "datetime": 1793905140,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Midterms upended Congress but Trump still commands foreign policy - Reuters",
+      "summary": "Midterms upended Congress but Trump still commands foreign policy  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5",
+      "datetime": 1793904660,
       "category": "business",
       "related_tickers": []
     },
@@ -2945,6 +3115,17 @@
       ]
     },
     {
+      "headline": "Expedia shares slide as US-Iran war fallout prolongs pressure on travel firms - Reuters",
+      "summary": "Expedia shares slide as US-Iran war fallout prolongs pressure on travel firms  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGxYMktvXzhBNF9BRjFXdC1PUnlFQ20tY3djOV9STUpUeVZCSl9yaHR0a1dQSGFpWTY1aTk2RnlqN3YzQTVFNV8zQVFFbEUzSjdldFczSGtUd0t6WExKLWpMcnh6RjhaZHh0RVBkVFJYb0RMYzM1WDhING5iQWZBT3JFVVlIYmdvSjVBMHpZZUEzdVEzek5Bc3B1dXMzVEdYNUw1R0xOVDNXMTF6Nkt5bWYzWGJ6MFpyUzZCb3BzdFY?oc=5",
+      "datetime": 1793896990,
+      "category": "business",
+      "related_tickers": [
+        "EXPE"
+      ]
+    },
+    {
       "headline": "Investors eye risk of debt-ceiling standoff after Democratic sweep - Reuters",
       "summary": "Investors eye risk of debt-ceiling standoff after Democratic sweep  Reuters",
       "source": "Reuters",
@@ -2972,6 +3153,15 @@
       "related_tickers": [
         "EXPE"
       ]
+    },
+    {
+      "headline": "Beaten at home, Trump faces stark choice on Iran: deal or escalation - Reuters",
+      "summary": "Beaten at home, Trump faces stark choice on Iran: deal or escalation  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+      "datetime": 1793892646,
+      "category": "business",
+      "related_tickers": []
     },
     {
       "headline": "Three tax proposals targeting the rich that the new Congress could revive",
@@ -3010,20 +3200,20 @@
       "related_tickers": []
     },
     {
-      "headline": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation - Reuters",
-      "summary": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURmMHZvcURoTHdPckpVdEYtMVA3WTktOGNLOGpHeTRZcGZ4OWZjQ2tHQTlTYy15N05pZ0VPemlkZEozUGdHTU9ieDdvZlEyU2dBbzZtbzVPNDVaaGVGNktHTGg0Nk5GbU9kYnVTN291Zkp4NV9Idk05OTNKR1FFckUtVnFfX25tWkRYd1A3VEdrME1YQjFzVzF2VDk1T1Fnc2RRdEZMZzZPNWN1YVVtX2MyTzV0SlA4eWMzOFVlQ0NBY3p2VXpsZQ?oc=5",
-      "datetime": 1793884992,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
       "headline": "Jordanian officer killed in Amman stabbing, suspect arrested, security agency says - Reuters",
       "summary": "Jordanian officer killed in Amman stabbing, suspect arrested, security agency says  Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVl90eTZDMU1FUm9NaF91OThBSDhrc09wdVZUVXliYzZiUGJIOW84Sk15ZTM3QWx4cVpzZTQ3Mkprd1kwWjNEOVRQdnBJRGF6TkE5ZlN6Q3dDYTNfY1U4VFpMcnliMXB3TFdDYkk4UWJkWmRYSm5EMGlvUVAxdVdVeDVPVFdCUUtCYlY2NTFnZS1UQUsxZ05NSzRZa3RWLXhHWnIzd2JmU1BwOTg3THE0Y3dpOEprZGx0S1diX1I1ZjBITzRZVEE?oc=5",
       "datetime": 1793884063,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "France protests: What is behind the unrest and what comes next? - Reuters",
+      "summary": "France protests: What is behind the unrest and what comes next?  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklvMmppYkkxSkpEdWNaVHBtVHhSeDNOcXYxVXplLUpLemVCTDB4NEExRVEtanpaVWdzM1BqTHJZZm5Id3p4emcxaVBGeGVRNmRvNGs1dWl6enFYNzQ2NEo5UG1HajRpOW04dU4wU2xaRWFPOHcwY3RWNDB4MDF6TWVweVpkNnRyWVQtUEJZaVo4TW55NjhzZXlvUHpiWUtHSlRzNg?oc=5",
+      "datetime": 1793884037,
       "category": "business",
       "related_tickers": []
     },
@@ -3120,245 +3310,6 @@
       "datetime": 1793873940,
       "category": "business",
       "related_tickers": []
-    },
-    {
-      "headline": "Erdogan says Turkey-Azerbaijan ties can overcome all obstacles amid growing tensions - Reuters",
-      "summary": "Erdogan says Turkey-Azerbaijan ties can overcome all obstacles amid growing tensions  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWQ5Y1RzUXE4Y3dsX1dSeVhXeEdiZlJaZ3FCekVyRTNLV1lsaEN2cE10bW12UDBnUlZqS2p3dlA5NnhQWTQyOGk1dUNWM2hYWTBLb0FsU0FsYVRMcGw3N0Mxd2MyOXduamJQOFZnbWxBMTZVS196MGhrTnVWMF9LSkxqdDdZT1FBc0M4MUltNll1cldIVVBUc1BGelJORXJXUllBeFo4c1B0Z3hRd0FFX0o0WVFySEZZVHlRbndNbXNxdlF4NlVfQw?oc=5",
-      "datetime": 1793873866,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Tanker struck by two projectiles north of Qatar, crew status unconfirmed, UKMTO says - Reuters",
-      "summary": "Tanker struck by two projectiles north of Qatar, crew status unconfirmed, UKMTO says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2VIeHlJVm1QSVhTLTZ1dHFKMk9lelp2ZTU3MEJFaTN5bzlXdHFUMkdkUDhXeTJSWkNCaFdZTk1jbElDNEMyOXUyOTZaM2hFRDZsWHg5NVFnVWJSQzFhb3NRWjVJN2YtZk1fX1ZOWFAxWkR4ZDZyNndKZG81ZWYydU56ZWRNNV9lajVacVJFdTExdldlbGVEb0FGNjUyM1I0V1FRZ1B1cFM1ZUFzRFVPTWtpa0ktcV82WWhqV01Rb0xLVU1MRUlLQ3hRMzc1UQ?oc=5",
-      "datetime": 1793869234,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Vance repudiates Iran war after US electoral defeat - Reuters",
-      "summary": "Vance repudiates Iran war after US electoral defeat  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
-      "datetime": 1793869206,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "New wave of bomb hoaxes hits dozens of flights across Europe - Reuters",
-      "summary": "New wave of bomb hoaxes hits dozens of flights across Europe  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
-      "datetime": 1793868900,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Democrats flex congressional majorities as Trump accepts electoral losses - Reuters",
-      "summary": "Democrats flex congressional majorities as Trump accepts electoral losses  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
-      "datetime": 1793860325,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Morning Bid: Goldilocks or gridlock? - Reuters",
-      "summary": "Morning Bid: Goldilocks or gridlock?  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xOVpFU1lMaklaLUIxcW9lWTl6bjhFZWI2UWtfdU1tblltMFNwZEJpd2RTaXhVdW1ES0gzWDFGRXJ6MzFrdXBZY1B2czRpczBWVHpOSzlGekNkUzdwLVBXR2ljNUNxWWpaYjhYdEdDMXk1M2pScFJ4dXA1OVV4OGM?oc=5",
-      "datetime": 1793857800,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters",
-      "summary": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2pHcmkxeDJDM184TXNiS2xIOUdXdHNrTXcyVHFKcUNGZEgtanhxTm9TR0UxWjA5cGlXSy12RVBLT3JYYVVBVEltbXFTNWtFT09OMVBIUkFEVlZiaW1mcVhPM3JfQ2tnZm1uRnJSQlVoX1FfNTl5bmh1c1pZMUJBVlVZeVdoWnlQMURoR0g0WVZYcjU4WDloZzRxMHh3Q24zMlRSYXV3MUFZTGxEQXM3NXNuNExxUQ?oc=5",
-      "datetime": 1793852460,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Indian shares log biggest gains in seven months on oil slide, foreign flows - Reuters",
-      "summary": "Indian shares log biggest gains in seven months on oil slide, foreign flows  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-      "datetime": 1793846220,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Chip selloff drags global stocks lower on AI spending concerns - Reuters",
-      "summary": "Chip selloff drags global stocks lower on AI spending concerns  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
-      "datetime": 1793846100,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz - Reuters",
-      "summary": "South Korea to expand anti-piracy unit operations closer to Strait of Hormuz  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmlVV005TWpIcUdLT2ZZaUpORmNMc09CYnNzQnFBRUhJeF8yTklGM20tcHlpZkI3bGpCa2VXQlJfOGd2MEdOTWtpN1BpMnNmUVUyYzF1R2U5SjN4bl90X2xGRDZ2MzY2aGU1WTVYM3otVlRhTjRXR2JMUWp5cGZsZFV1MFUtWG83QW1tMG44aXY3dmg4Zl9GbGFjMEZ5bWhUbGliempaM2dRaE9pZHlHUldkUndDZEtLTkdTUlQ1RQ?oc=5",
-      "datetime": 1793843640,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom - Reuters",
-      "summary": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmMwcE12Zlp6RnV5bFVSeXNXMlVMTU1wYjd0MlBqVURNWmo4OGJTOEhqSXhiQkdENHZkeW0tRFdGSXJ1ZHR0ZUZEcW1hTVJwN0N1S2tkeEVIa0ZBcW11WU8zVE90cXduWUFYZ011Y0Y0SmNXeVctLUt0Wk11bWhWRGIydzVxN3JSUGpKV1c3Vy1pTnYwTTlIYTlFVFA0YkoyZ096UW5TRzAwTjJmeXBGb1lsN2wzWWN1N0d2aA?oc=5",
-      "datetime": 1793835701,
-      "category": "business",
-      "related_tickers": [
-        "RSG",
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Trump says Hegseth doing 'a very good job' as questions swirl about his future - Reuters",
-      "summary": "Trump says Hegseth doing 'a very good job' as questions swirl about his future  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTEzMDVoRDFiSGh1VHBhVGVTV2JlZ2g3dVk0a2VCMjNVdENMQkQ1bk5vVDA5OHBIS0daTVVfeUJWYnpZdzdBMld1VXZPTGdBdVRScG4xSlpKWHRScXpOcFhFS2MxbzZ6OGF2OHNwSXBEczh3b2doemhkSHFKWFFxZjZDWVpHVFVheFhXcWYxS0tyYlVBbS00dnl3aDlLYTd5MEx4MVMzdHl1TWJ0OHo4dF9aeWRhU3JPOWc?oc=5",
-      "datetime": 1793835158,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Democratic victories bring historic breakthroughs for women and minorities - Reuters",
-      "summary": "Democratic victories bring historic breakthroughs for women and minorities  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajdEWW5uUmVIMVJpcmRhTjBNUnl5NUY5ZGdmdDJnWTRIVUViQ1hNWGl0VmE1aGd6R1E0dGpNM3p5Mk1WRTVNVlBCZ1VpMmxjejJtdmZfOTEtRlg4MjhhNERqOHczUVY5VkZHUmhmbmkwS0ZRRkh2eDNsMzdPazRva2lSdHlXdEhIcWlWSjhIS29JTzJiWDJtdUVQQUwwbndhMEoyVnBfNENzMTZwcGxUXw?oc=5",
-      "datetime": 1793834760,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "COMMENTARY: Middle East to pay for Trump's midterm rout - Reuters",
-      "summary": "COMMENTARY: Middle East to pay for Trump's midterm rout  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclJGcGlxMXo0VkRzMWNBTmxQUE9VRjU2MGxGM0h6U1NsVnh1RHVGU0J5Q1BiWllQa2dUTEhGbFBfQm9fVEx5cWpHNUhveTUwUHpnZnRoSzI0ZFBDV3p3RVd6VTZZeXBQYmNiSmVzelpseDJUbEdTeFl0c19PbFI3aGstVmQwTENvODZLbm55ZFVJSlJWdE1PTU9nbmtZUW1KcWJIS1NtUQ?oc=5",
-      "datetime": 1793833332,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Republicans call for Trump to change course after midterm drubbing - Reuters",
-      "summary": "Republicans call for Trump to change course after midterm drubbing  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
-      "datetime": 1793832480,
-      "category": "business",
-      "related_tickers": [
-        "RSG"
-      ]
-    },
-    {
-      "headline": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
-      "summary": "The question now for patient Home Depot investors like us is whether this is the turning point we've been waiting for, or just another head fake.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
-      "datetime": 1793830425,
-      "category": "top news",
-      "related_tickers": [
-        "HD",
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
-      "summary": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
-      "datetime": 1793829459,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters",
-      "summary": "As Americans vote, Trump says US will stop $4 billion in aid to Israel  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-      "datetime": 1793828989,
-      "category": "business",
-      "related_tickers": [
-        "AEP",
-        "AXP",
-        "AIG",
-        "AMT",
-        "AWK"
-      ]
-    },
-    {
-      "headline": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster - Reuters",
-      "summary": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXFMUXhNOFRueTBpaDBRdk9WX0pJUW5DT21NakZ4WHlIZERjUWpfZHdjUkZ5OTRlSml1WnFNOGIxUEpBakFJbG90ZnFZMFh0Y2VwMGJ0VWJXVWZyMnBMWk5pMGpEa2NyQUN1dExweU1wYVhIdUtFUVBWcEViMlFTS2VBZDNaQmRsU0dfQ09Gd1FKOE9WN2ZDeFlTYjdlQ2k0QnJXeUpUeWgzWENBTkoyTmlwa2lvRkRuRURnZUFsdkw?oc=5",
-      "datetime": 1793825754,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Democratic Congress could test decades of US support for Israel - Reuters",
-      "summary": "Democratic Congress could test decades of US support for Israel  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0hYQWE5dUNLaGI1dmd2V1J0a0lodEcxd3Vac2RhT1MxSkJZbE56NTRPOVMyYm16dzR6MzBKVzVTSTZCSi1UTEE1ekl4NHB3NWduajg5NkdrVXBubEVhMmZQMUlTS01tZERtNm1zc2xNN0ZWTEdQalFUX0pibUVfVk5PMU9Tc3h2S1dDX0JodUphYXQwN2d1czB1Z0lxM3o0d3Q0?oc=5",
-      "datetime": 1793825541,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks - Reuters",
-      "summary": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
-      "datetime": 1793824997,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters",
-      "summary": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
-      "datetime": 1793824148,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports - Reuters",
-      "summary": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmUtR3gzU3paNkVHcE1aTUhvSXZ0YUVRdlpJak41aE1CMDdxLW1DUG5YOWI4cm1ZVTNabWcxR3hQNnlkRW5makZQeVhmRU1XcXZzN0VwMXpTaVQyeWo5SGFjYVQtUHlxXzEzUUxDdFd6WWl6TDNSanVycmhvVFRXTzNEd2lrS2JZSUNPZE5MajdJUEhKY1NjNnBMUzdBcFpnQ2dKTE5KVHJzd2lka3V1RW9KNFFUQkxGNnMyeVg3NDZsQQ?oc=5",
-      "datetime": 1793823704,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
-      "datetime": 1793822755,
-      "category": "top news",
-      "related_tickers": [
-        "CVS",
-        "INTC"
-      ]
     }
   ]
 }
