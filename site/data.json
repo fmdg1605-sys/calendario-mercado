@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-22T16:54:57.334705+00:00",
+  "generated_at": "2026-11-23T20:54:02.101704+00:00",
   "window": {
-    "from": "2026-11-22",
-    "to": "2026-12-13"
+    "from": "2026-11-23",
+    "to": "2026-12-14"
   },
   "europe_window": {
-    "from": "2026-11-22",
-    "to": "2027-03-22"
+    "from": "2026-11-23",
+    "to": "2027-03-23"
   },
   "macro_window": {
-    "from": "2026-11-22",
-    "to": "2027-05-21"
+    "from": "2026-11-23",
+    "to": "2027-05-22"
   },
   "universe_size": {
     "us": 503,
@@ -487,6 +487,19 @@
       "year": 2027
     },
     {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "region": "us",
+      "date": "2026-12-14",
+      "hour": "",
+      "eps_estimate": 1.934,
+      "eps_actual": null,
+      "revenue_estimate": 21747851113,
+      "revenue_actual": null,
+      "quarter": 2,
+      "year": 2027
+    },
+    {
       "ticker": "SAN.PA",
       "company": "Sanofi",
       "region": "europe",
@@ -654,22 +667,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/A.png",
       "web_url": "https://www.agilent.com/",
       "ipo": "1999-11-18",
-      "market_cap_musd": 48035.03356449104,
+      "market_cap_musd": 49750.572942000006,
       "shares_outstanding_m": 281.93,
       "currency": "USD",
-      "price": 170.38,
-      "change": -4.96,
-      "change_pct": -2.8288,
-      "day_high": 175.13,
-      "day_low": 169.4,
-      "prev_close": 175.34,
+      "price": 176.38,
+      "change": 6,
+      "change_pct": 3.5215,
+      "day_high": 178.5,
+      "day_low": 174.615,
+      "prev_close": 170.38,
       "pe_ttm": 33.3577,
       "pb": 6.1553,
       "eps_ttm": 5.0738,
       "week52_high": 182.99,
       "week52_low": 108.35,
       "dividend_yield": 0.5954,
-      "beta": 1.154302,
+      "beta": 1.1758178,
       "roe_ttm": 20.47,
       "revenue_growth_ttm": 8.6
     },
@@ -682,22 +695,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HPE.png",
       "web_url": "https://www.hpe.com/",
       "ipo": "2015-10-19",
-      "market_cap_musd": 54306.58376740975,
+      "market_cap_musd": 62045.700859475444,
       "shares_outstanding_m": 1327.46,
       "currency": "USD",
-      "price": 40.91,
-      "change": -4.58,
-      "change_pct": -10.0681,
-      "day_high": 44.84,
-      "day_low": 40.48,
-      "prev_close": 45.49,
+      "price": 48.2,
+      "change": 7.29,
+      "change_pct": 17.8196,
+      "day_high": 51,
+      "day_low": 45.215,
+      "prev_close": 40.91,
       "pe_ttm": 19.4578,
       "pb": 1.3047,
       "eps_ttm": 1.9631999999999998,
       "week52_high": 73.56,
       "week52_low": 19.84,
       "dividend_yield": 1.5744,
-      "beta": 1.5022331,
+      "beta": 1.5652977,
       "roe_ttm": 11.020000000000001,
       "revenue_growth_ttm": 26.59
     },
@@ -710,15 +723,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950834406116.png",
       "web_url": "https://www.jacobs.com/",
       "ipo": "1989-12-15",
-      "market_cap_musd": 17628.35600353655,
+      "market_cap_musd": 18087.73176164211,
       "shares_outstanding_m": 117.04,
       "currency": "USD",
-      "price": 150.62,
-      "change": -3.96,
-      "change_pct": -2.5618,
-      "day_high": 156.61,
-      "day_low": 150.18,
-      "prev_close": 154.58,
+      "price": 158,
+      "change": 7.38,
+      "change_pct": 4.8997,
+      "day_high": 158.47,
+      "day_low": 153.03,
+      "prev_close": 150.62,
       "pe_ttm": 52.0889,
       "pb": 4.8361,
       "eps_ttm": 2.8307,
@@ -738,15 +751,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADI.png",
       "web_url": "https://www.analog.com/",
       "ipo": "1979-04-03",
-      "market_cap_musd": 167620.88507852735,
+      "market_cap_musd": 185869.62644071915,
       "shares_outstanding_m": 484.57,
       "currency": "USD",
-      "price": 345.92,
-      "change": -31.52,
-      "change_pct": -8.351,
-      "day_high": 374.24,
-      "day_low": 343.94,
-      "prev_close": 377.44,
+      "price": 376.15,
+      "change": 30.23,
+      "change_pct": 8.739,
+      "day_high": 388.74,
+      "day_low": 371.6175,
+      "prev_close": 345.92,
       "pe_ttm": 40.5371,
       "pb": 3.3827,
       "eps_ttm": 8.4269,
@@ -766,22 +779,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADSK.png",
       "web_url": "https://www.autodesk.com",
       "ipo": "1985-04-30",
-      "market_cap_musd": 51096.31935930072,
+      "market_cap_musd": 52447.50408338562,
       "shares_outstanding_m": 209,
       "currency": "USD",
-      "price": 244.48,
-      "change": 1.03,
-      "change_pct": 0.4231,
-      "day_high": 252.0588,
-      "day_low": 242.7,
-      "prev_close": 243.45,
+      "price": 256.03,
+      "change": 11.55,
+      "change_pct": 4.7243,
+      "day_high": 256.4,
+      "day_low": 245.58,
+      "prev_close": 244.48,
       "pe_ttm": 31.1183,
       "pb": 17.7934,
       "eps_ttm": 7.7129,
       "week52_high": 320,
       "week52_low": 185.5,
       "dividend_yield": null,
-      "beta": 1.1638814,
+      "beta": 1.1607512,
       "roe_ttm": 52.5,
       "revenue_growth_ttm": 17.94
     },
@@ -794,15 +807,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BBY.png",
       "web_url": "https://investors.bestbuy.com/investor-relations/overview/default.aspx",
       "ipo": "1987-07-20",
-      "market_cap_musd": 20542.82819723935,
+      "market_cap_musd": 20631.96252466054,
       "shares_outstanding_m": 209.73,
       "currency": "USD",
-      "price": 97.95,
-      "change": -1.32,
-      "change_pct": -1.3297,
-      "day_high": 101.015,
-      "day_low": 97.41,
-      "prev_close": 99.27,
+      "price": 97.29,
+      "change": -0.66,
+      "change_pct": -0.6738,
+      "day_high": 100.45,
+      "day_low": 96.05,
+      "prev_close": 97.95,
       "pe_ttm": 16.15,
       "pb": 4.6587,
       "eps_ttm": 6.0198,
@@ -822,22 +835,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BILI.png",
       "web_url": "https://ir.bilibili.com/",
       "ipo": "2018-03-28",
-      "market_cap_musd": 4624.92478997316,
+      "market_cap_musd": 4437.36061679778,
       "shares_outstanding_m": 420.13,
       "currency": "CNY",
-      "price": 10.6,
-      "change": -0.46,
-      "change_pct": -4.1591,
-      "day_high": 11.065,
-      "day_low": 10.58,
-      "prev_close": 11.06,
-      "pe_ttm": 20.0743,
-      "pb": 4.3856,
+      "price": 10.94,
+      "change": 0.34,
+      "change_pct": 3.2075,
+      "day_high": 11.16,
+      "day_low": 10.9,
+      "prev_close": 10.6,
+      "pe_ttm": 19.2426,
+      "pb": 4.3816,
       "eps_ttm": 3.3696,
       "week52_high": 36.4,
-      "week52_low": 11.04,
+      "week52_low": 10.58,
       "dividend_yield": null,
-      "beta": 0.74322546,
+      "beta": 0.7707443,
       "roe_ttm": 9.91,
       "revenue_growth_ttm": 6.94
     },
@@ -850,15 +863,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DELL.png",
       "web_url": "https://www.dell.com",
       "ipo": "2016-08-01",
-      "market_cap_musd": 176768.6680964572,
+      "market_cap_musd": 217325.87894781175,
       "shares_outstanding_m": 635.81,
       "currency": "USD",
-      "price": 278.02,
-      "change": -34.52,
-      "change_pct": -11.045,
-      "day_high": 303.6,
-      "day_low": 274.35,
-      "prev_close": 312.54,
+      "price": 336.72,
+      "change": 58.7,
+      "change_pct": 21.1136,
+      "day_high": 379.03,
+      "day_low": 322.31,
+      "prev_close": 278.02,
       "pe_ttm": 15.536,
       "pb": 18.5202,
       "eps_ttm": 17.2331,
@@ -878,22 +891,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DLTR.png",
       "web_url": "https://www.dollartree.com/",
       "ipo": "1995-03-06",
-      "market_cap_musd": 25885.476484106384,
+      "market_cap_musd": 25714.733153424902,
       "shares_outstanding_m": 187.63,
       "currency": "USD",
-      "price": 137.96,
-      "change": -2.28,
-      "change_pct": -1.6258,
-      "day_high": 142.535,
-      "day_low": 137.24,
-      "prev_close": 140.24,
+      "price": 138.97,
+      "change": 1.01,
+      "change_pct": 0.7321,
+      "day_high": 139.77,
+      "day_low": 135.8,
+      "prev_close": 137.96,
       "pe_ttm": 16.053,
       "pb": 6.2078,
       "eps_ttm": 8.189,
       "week52_high": 148.535,
       "week52_low": 85.88,
       "dividend_yield": null,
-      "beta": 0.60388017,
+      "beta": 0.6167996,
       "roe_ttm": 45.58,
       "revenue_growth_ttm": 48.09
     },
@@ -906,22 +919,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HPQ.png",
       "web_url": "https://investor.hp.com/",
       "ipo": "1961-03-17",
-      "market_cap_musd": 25214.07651980014,
+      "market_cap_musd": 25885.910255635015,
       "shares_outstanding_m": 901.79,
       "currency": "USD",
-      "price": 27.96,
-      "change": 0.14,
-      "change_pct": 0.5032,
-      "day_high": 28.765,
-      "day_low": 27.845,
-      "prev_close": 27.82,
+      "price": 29.04,
+      "change": 1.08,
+      "change_pct": 3.8627,
+      "day_high": 29.12,
+      "day_low": 28.33,
+      "prev_close": 27.96,
       "pe_ttm": 10.2873,
       "pb": 0.8956,
       "eps_ttm": 2.6239,
       "week52_high": 36.225,
       "week52_low": 17.56,
       "dividend_yield": 4.3428,
-      "beta": 1.17066,
+      "beta": 1.16697,
       "roe_ttm": 16.85,
       "revenue_growth_ttm": 8.14
     },
@@ -934,22 +947,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MDT.png",
       "web_url": "https://www.medtronic.com/",
       "ipo": "1977-11-21",
-      "market_cap_musd": 127840.24276814173,
+      "market_cap_musd": 127673.95302109416,
       "shares_outstanding_m": 1279.17,
       "currency": "USD",
-      "price": 99.94,
-      "change": -0.67,
-      "change_pct": -0.6659,
-      "day_high": 102.605,
-      "day_low": 99.59,
-      "prev_close": 100.61,
+      "price": 101.03,
+      "change": 1.09,
+      "change_pct": 1.0907,
+      "day_high": 101.475,
+      "day_low": 99.44,
+      "prev_close": 99.94,
       "pe_ttm": 24.4296,
       "pb": 2.1627,
       "eps_ttm": 4.0646,
       "week52_high": 106.33,
       "week52_low": 73.31,
       "dividend_yield": 2.8551,
-      "beta": 0.513911,
+      "beta": 0.5191755,
       "roe_ttm": 10.61,
       "revenue_growth_ttm": 9.77
     },
@@ -962,15 +975,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SJM.png",
       "web_url": "https://www.jmsmucker.com/",
       "ipo": "1965-10-20",
-      "market_cap_musd": 14280.122125892913,
+      "market_cap_musd": 13975.676024397218,
       "shares_outstanding_m": 106.82,
       "currency": "USD",
-      "price": 133.68,
-      "change": 2.39,
-      "change_pct": 1.8204,
-      "day_high": 136.2,
-      "day_low": 133.15,
-      "prev_close": 131.29,
+      "price": 133.56,
+      "change": -0.12,
+      "change_pct": -0.0898,
+      "day_high": 134.1,
+      "day_low": 129.745,
+      "prev_close": 133.68,
       "pe_ttm": 62.2228,
       "pb": 1.8858,
       "eps_ttm": 2.1479999999999997,
@@ -993,13 +1006,13 @@
       "market_cap_musd": 47674.62,
       "shares_outstanding_m": 241,
       "currency": "USD",
-      "price": 174.52,
-      "change": 1.16,
-      "change_pct": 0.6691,
-      "day_high": 181.94,
-      "day_low": 173.36,
-      "prev_close": 173.36,
-      "pe_ttm": 34.1782,
+      "price": 176.48,
+      "change": 1.96,
+      "change_pct": 1.1231,
+      "day_high": 178.61,
+      "day_low": 173.55,
+      "prev_close": 174.52,
+      "pe_ttm": 33.6206,
       "pb": 5.8423,
       "eps_ttm": 4.9275,
       "week52_high": 236.8,
@@ -1018,22 +1031,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DE.png",
       "web_url": "https://www.deere.com/",
       "ipo": "1933-06-29",
-      "market_cap_musd": 164269.2768073209,
+      "market_cap_musd": 169882.8737168929,
       "shares_outstanding_m": 269.63,
       "currency": "USD",
-      "price": 609.25,
-      "change": -15.64,
-      "change_pct": -2.5028,
-      "day_high": 621.7,
-      "day_low": 605.34,
-      "prev_close": 624.89,
+      "price": 634.42,
+      "change": 25.17,
+      "change_pct": 4.1313,
+      "day_high": 636.99,
+      "day_low": 619.15,
+      "prev_close": 609.25,
       "pe_ttm": 33.7101,
       "pb": 4.8122,
       "eps_ttm": 17.991500000000002,
       "week52_high": 721.22,
       "week52_low": 455.91,
       "dividend_yield": 1.0678,
-      "beta": 0.9107028,
+      "beta": 0.9282666,
       "roe_ttm": 18.11,
       "revenue_growth_ttm": 7.99
     },
@@ -1046,15 +1059,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CPRT.png",
       "web_url": "https://www.copart.com/",
       "ipo": "1994-03-17",
-      "market_cap_musd": 28801.092301079392,
+      "market_cap_musd": 28819.619432905434,
       "shares_outstanding_m": 926.38,
       "currency": "USD",
-      "price": 31.09,
-      "change": 0.23,
-      "change_pct": 0.7453,
-      "day_high": 31.855,
-      "day_low": 30.955,
-      "prev_close": 30.86,
+      "price": 31.67,
+      "change": 0.58,
+      "change_pct": 1.8656,
+      "day_high": 31.705000000000002,
+      "day_low": 30.73,
+      "prev_close": 31.09,
       "pe_ttm": 19.4042,
       "pb": 2.9635,
       "eps_ttm": 1.551,
@@ -1074,15 +1087,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRWD.png",
       "web_url": "https://ir.crowdstrike.com/",
       "ipo": "2019-06-12",
-      "market_cap_musd": 234931.61030650386,
+      "market_cap_musd": 212794.13540396167,
       "shares_outstanding_m": 1023.93,
       "currency": "USD",
-      "price": 229.44,
-      "change": -14.02,
-      "change_pct": -5.7586,
-      "day_high": 240.92,
-      "day_low": 227.3,
-      "prev_close": 243.46,
+      "price": 209.19,
+      "change": -20.25,
+      "change_pct": -8.8258,
+      "day_high": 225.51,
+      "day_low": 200.53,
+      "prev_close": 229.44,
       "pe_ttm": 4018.6728,
       "pb": 24.9828,
       "eps_ttm": 0.056999999999999995,
@@ -1102,22 +1115,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRVL.png",
       "web_url": "https://www.marvell.com/",
       "ipo": "2000-06-27",
-      "market_cap_musd": 107227.33593058625,
+      "market_cap_musd": 128378.16229273798,
       "shares_outstanding_m": 876.9,
       "currency": "USD",
-      "price": 122.28,
-      "change": -16.19,
-      "change_pct": -11.6921,
-      "day_high": 134.1754,
-      "day_low": 120.56,
-      "prev_close": 138.47,
+      "price": 144.24,
+      "change": 21.96,
+      "change_pct": 17.9588,
+      "day_high": 149.98,
+      "day_low": 138.01,
+      "prev_close": 122.28,
       "pe_ttm": 40.618,
       "pb": 4.7977,
       "eps_ttm": 3.03,
       "week52_high": 329.88,
       "week52_low": 70.685,
       "dividend_yield": 0.1952,
-      "beta": 2.3743122,
+      "beta": 2.4368436,
       "roe_ttm": 16.220000000000002,
       "revenue_growth_ttm": 30.62
     },
@@ -1130,17 +1143,17 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NIO.png",
       "web_url": "https://ir.nio.com/",
       "ipo": "2018-09-12",
-      "market_cap_musd": 6637.3407846447,
+      "market_cap_musd": 6316.650413506859,
       "shares_outstanding_m": 2477.22,
       "currency": "CNY",
-      "price": 2.45,
-      "change": -0.21,
-      "change_pct": -7.8947,
-      "day_high": 2.62,
-      "day_low": 2.43,
-      "prev_close": 2.66,
+      "price": 2.58,
+      "change": 0.13,
+      "change_pct": 5.3061,
+      "day_high": 2.595,
+      "day_low": 2.53,
+      "prev_close": 2.45,
       "pe_ttm": null,
-      "pb": 17.798,
+      "pb": 17.7817,
       "eps_ttm": -1.9408,
       "week52_high": 7,
       "week52_low": 2.43,
@@ -1158,15 +1171,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NTAP.png",
       "web_url": "https://www.netapp.com/",
       "ipo": "1995-11-21",
-      "market_cap_musd": 30965.455018358796,
+      "market_cap_musd": 33519.88423066641,
       "shares_outstanding_m": 196.42,
       "currency": "USD",
-      "price": 157.65,
-      "change": -12.53,
-      "change_pct": -7.3628,
-      "day_high": 168.74,
-      "day_low": 156.55,
-      "prev_close": 170.18,
+      "price": 171.39,
+      "change": 13.74,
+      "change_pct": 8.7155,
+      "day_high": 175,
+      "day_low": 167.74,
+      "prev_close": 157.65,
       "pe_ttm": 21.8374,
       "pb": 15.8785,
       "eps_ttm": 7.0851,
@@ -1186,16 +1199,16 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/OKTA.png",
       "web_url": "https://www.okta.com/",
       "ipo": "2017-04-07",
-      "market_cap_musd": 33471.182787350255,
+      "market_cap_musd": 36887.1806513841,
       "shares_outstanding_m": 174.82,
       "currency": "USD",
-      "price": 191.46,
-      "change": -15.39,
-      "change_pct": -7.4402,
-      "day_high": 207.35,
-      "day_low": 189.75,
-      "prev_close": 206.85,
-      "pe_ttm": 113.0783,
+      "price": 206.53,
+      "change": 15.07,
+      "change_pct": 7.8711,
+      "day_high": 213.1,
+      "day_low": 202.64,
+      "prev_close": 191.46,
+      "pe_ttm": 113.0784,
       "pb": 2.2316,
       "eps_ttm": 1.6581000000000001,
       "week52_high": 235,
@@ -1214,15 +1227,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COO.png",
       "web_url": "https://www.coopercos.com/",
       "ipo": "1983-01-21",
-      "market_cap_musd": 11196.344636891763,
+      "market_cap_musd": 11276.209729110053,
       "shares_outstanding_m": 190.16,
       "currency": "USD",
-      "price": 58.88,
-      "change": -1.45,
-      "change_pct": -2.4034,
-      "day_high": 60.98,
-      "day_low": 58.66,
-      "prev_close": 60.33,
+      "price": 60.35,
+      "change": 1.47,
+      "change_pct": 2.4966,
+      "day_high": 60.35,
+      "day_low": 58.95,
+      "prev_close": 58.88,
       "pe_ttm": 19.6324,
       "pb": 1.687,
       "eps_ttm": 2.9301000000000004,
@@ -1242,15 +1255,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png",
       "web_url": "https://www.salesforce.com/",
       "ipo": "2004-06-23",
-      "market_cap_musd": 148695.52301987846,
+      "market_cap_musd": 151720.04589800324,
       "shares_outstanding_m": 823,
       "currency": "USD",
-      "price": 180.62,
-      "change": -2.69,
-      "change_pct": -1.4675,
-      "day_high": 189.72,
-      "day_low": 179.915,
-      "prev_close": 183.31,
+      "price": 185.52,
+      "change": 4.9,
+      "change_pct": 2.7129,
+      "day_high": 185.76,
+      "day_low": 181.68,
+      "prev_close": 180.62,
       "pe_ttm": 15.3897,
       "pb": 3.3399,
       "eps_ttm": 10.976500000000001,
@@ -1270,15 +1283,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DG.png",
       "web_url": "https://www.dollargeneral.com/",
       "ipo": "2009-11-13",
-      "market_cap_musd": 28797.108514551124,
+      "market_cap_musd": 29364.094576978474,
       "shares_outstanding_m": 220.62,
       "currency": "USD",
-      "price": 130.53,
-      "change": -2.98,
-      "change_pct": -2.232,
-      "day_high": 137.15,
-      "day_low": 130.31,
-      "prev_close": 133.51,
+      "price": 134.1,
+      "change": 3.57,
+      "change_pct": 2.735,
+      "day_high": 134.48,
+      "day_low": 131.9,
+      "prev_close": 130.53,
       "pe_ttm": 16.9057,
       "pb": 3.7091,
       "eps_ttm": 7.6945,
@@ -1298,15 +1311,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HRL.png",
       "web_url": "https://www.hormelfoods.com/",
       "ipo": "1990-01-16",
-      "market_cap_musd": 12955.258240326104,
+      "market_cap_musd": 12688.338881028887,
       "shares_outstanding_m": 550.35,
       "currency": "USD",
-      "price": 23.54,
-      "change": 0.48,
-      "change_pct": 2.0815,
-      "day_high": 23.94,
-      "day_low": 23.25,
-      "prev_close": 23.06,
+      "price": 23.13,
+      "change": -0.41,
+      "change_pct": -1.7417,
+      "day_high": 23.25,
+      "day_low": 22.77,
+      "prev_close": 23.54,
       "pe_ttm": 37.8021,
       "pb": 1.6525,
       "eps_ttm": 0.622,
@@ -1326,15 +1339,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KR.png",
       "web_url": "https://www.thekrogerco.com/",
       "ipo": "1928-01-26",
-      "market_cap_musd": 40419.8909906494,
+      "market_cap_musd": 39492.666712925195,
       "shares_outstanding_m": 590.59,
       "currency": "USD",
-      "price": 68.44,
-      "change": 0.5,
-      "change_pct": 0.7359,
-      "day_high": 69.875,
-      "day_low": 68.06,
-      "prev_close": 67.94,
+      "price": 67.3,
+      "change": -1.14,
+      "change_pct": -1.6657,
+      "day_high": 67.88,
+      "day_low": 66.62,
+      "prev_close": 68.44,
       "pe_ttm": 37.2534,
       "pb": 6.7332,
       "eps_ttm": 1.8653,
@@ -1357,13 +1370,13 @@
       "market_cap_musd": 27546.92923468592,
       "shares_outstanding_m": 42.76,
       "currency": "USD",
-      "price": 615.74,
-      "change": -13.6,
-      "change_pct": -2.161,
-      "day_high": 636.935,
-      "day_low": 613.3,
-      "prev_close": 629.34,
-      "pe_ttm": 21.5555,
+      "price": 625.2,
+      "change": 9.46,
+      "change_pct": 1.5364,
+      "day_high": 629.66,
+      "day_low": 615.65,
+      "prev_close": 615.74,
+      "pe_ttm": 21.7578,
       "pb": 10.5321,
       "eps_ttm": 27.448900000000002,
       "week52_high": 714.97,
@@ -1385,13 +1398,13 @@
       "market_cap_musd": 50670.99,
       "shares_outstanding_m": 161.91,
       "currency": "USD",
-      "price": 266.22,
-      "change": 3.3,
-      "change_pct": 1.2551,
-      "day_high": 268.96,
-      "day_low": 259.25,
-      "prev_close": 262.92,
-      "pe_ttm": 43.972,
+      "price": 269.29,
+      "change": 3.07,
+      "change_pct": 1.1532,
+      "day_high": 274.73,
+      "day_low": 268.53,
+      "prev_close": 266.22,
+      "pe_ttm": 42.4759,
       "pb": 4.6332,
       "eps_ttm": 6.1148,
       "week52_high": 325.99,
@@ -1410,15 +1423,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AZO.png",
       "web_url": "https://www.autozone.com/",
       "ipo": "1991-04-02",
-      "market_cap_musd": 52394.00048980516,
+      "market_cap_musd": 52456.12448302923,
       "shares_outstanding_m": 16.09,
       "currency": "USD",
-      "price": 3255.43,
-      "change": -22.01,
-      "change_pct": -0.6716,
-      "day_high": 3358.91,
-      "day_low": 3249.21,
-      "prev_close": 3277.44,
+      "price": 3291.19,
+      "change": 35.76,
+      "change_pct": 1.0985,
+      "day_high": 3298.06,
+      "day_low": 3230.67,
+      "prev_close": 3255.43,
       "pe_ttm": 20.3648,
       "pb": 38.1151,
       "eps_ttm": 153.06640000000002,
@@ -1438,15 +1451,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CASY.png",
       "web_url": "https://www.caseys.com/",
       "ipo": "1983-10-21",
-      "market_cap_musd": 25544.64977248919,
+      "market_cap_musd": 25378.70285697996,
       "shares_outstanding_m": 36.96,
       "currency": "USD",
-      "price": 691.14,
-      "change": 5.64,
-      "change_pct": 0.8228,
-      "day_high": 715.45,
-      "day_low": 687.49,
-      "prev_close": 685.5,
+      "price": 683.65,
+      "change": -7.49,
+      "change_pct": -1.0837,
+      "day_high": 699.235,
+      "day_low": 677.99,
+      "prev_close": 691.14,
       "pe_ttm": 33.0541,
       "pb": 7.6893,
       "eps_ttm": 20.7701,
@@ -1466,15 +1479,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SNPS.png",
       "web_url": "https://www.synopsys.com/",
       "ipo": "1992-02-26",
-      "market_cap_musd": 75920.68928746028,
+      "market_cap_musd": 82672.05035755104,
       "shares_outstanding_m": 191.64,
       "currency": "USD",
-      "price": 396.17,
-      "change": -34.74,
-      "change_pct": -8.062,
-      "day_high": 432.29,
-      "day_low": 394.77,
-      "prev_close": 430.91,
+      "price": 427.23,
+      "change": 31.06,
+      "change_pct": 7.8401,
+      "day_high": 435.41,
+      "day_low": 420.76,
+      "prev_close": 396.17,
       "pe_ttm": 70.5216,
       "pb": 2.9797,
       "eps_ttm": 5.6530000000000005,
@@ -1494,15 +1507,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADBE.png",
       "web_url": "https://www.adobe.com/",
       "ipo": "1986-08-20",
-      "market_cap_musd": 84732.73185759675,
+      "market_cap_musd": 86610.62738781859,
       "shares_outstanding_m": 389.2,
       "currency": "USD",
-      "price": 217.71,
-      "change": -3.97,
-      "change_pct": -1.7909,
-      "day_high": 229.61,
-      "day_low": 216.95,
-      "prev_close": 221.68,
+      "price": 223.71,
+      "change": 6,
+      "change_pct": 2.756,
+      "day_high": 224.575,
+      "day_low": 218,
+      "prev_close": 217.71,
       "pe_ttm": 11.6327,
       "pb": 11.5294,
       "eps_ttm": 17.9203,
@@ -1522,15 +1535,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
       "web_url": "https://www.broadcom.com",
       "ipo": "2009-08-06",
-      "market_cap_musd": 1453140.6470412747,
+      "market_cap_musd": 1494504.193541195,
       "shares_outstanding_m": 4773.63,
       "currency": "USD",
-      "price": 304.41,
-      "change": -42.24,
-      "change_pct": -12.1852,
-      "day_high": 343.01,
-      "day_low": 301.02,
-      "prev_close": 346.65,
+      "price": 312.15,
+      "change": 7.74,
+      "change_pct": 2.5426,
+      "day_high": 324.46,
+      "day_low": 304.56,
+      "prev_close": 304.41,
       "pe_ttm": 37.9757,
       "pb": 21.061,
       "eps_ttm": 7.8333,
@@ -1550,15 +1563,15 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LULU.png",
       "web_url": "https://shop.lululemon.com/",
       "ipo": "2007-05-01",
-      "market_cap_musd": 11886.07042714792,
+      "market_cap_musd": 12077.183891740498,
       "shares_outstanding_m": 110.71,
       "currency": "USD",
-      "price": 102.62,
-      "change": -2.91,
-      "change_pct": -2.7575,
-      "day_high": 107.58,
-      "day_low": 102.2,
-      "prev_close": 105.53,
+      "price": 105.3,
+      "change": 2.68,
+      "change_pct": 2.6116,
+      "day_high": 105.57,
+      "day_low": 101.55,
+      "prev_close": 102.62,
       "pe_ttm": 8.3824,
       "pb": 4.2337,
       "eps_ttm": 12.2004,
@@ -1578,22 +1591,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CIEN.png",
       "web_url": "https://www.ciena.com/",
       "ipo": "1997-02-01",
-      "market_cap_musd": 33235.666430005826,
+      "market_cap_musd": 38270.576969151334,
       "shares_outstanding_m": 141.81,
       "currency": "USD",
-      "price": 234.37,
-      "change": -28.26,
-      "change_pct": -10.7604,
-      "day_high": 257.49,
-      "day_low": 230.34,
-      "prev_close": 262.63,
+      "price": 263.72,
+      "change": 29.35,
+      "change_pct": 12.5229,
+      "day_high": 274.525,
+      "day_low": 261.97,
+      "prev_close": 234.37,
       "pe_ttm": 50.7872,
       "pb": 9.794,
       "eps_ttm": 4.4813,
       "week52_high": 637.51,
       "week52_low": 168.22,
       "dividend_yield": null,
-      "beta": 1.3674186,
+      "beta": 1.434259,
       "roe_ttm": 22.82,
       "revenue_growth_ttm": 32.57
     },
@@ -1606,22 +1619,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COST.png",
       "web_url": "https://www.costco.com/",
       "ipo": "1985-12-05",
-      "market_cap_musd": 488394.97529156983,
+      "market_cap_musd": 483028.70938349515,
       "shares_outstanding_m": 443.13,
       "currency": "USD",
-      "price": 1102.15,
-      "change": 8.32,
-      "change_pct": 0.7606,
-      "day_high": 1122.81,
-      "day_low": 1098.51,
-      "prev_close": 1093.83,
+      "price": 1098.7,
+      "change": -3.45,
+      "change_pct": -0.313,
+      "day_high": 1101.5,
+      "day_low": 1085.04,
+      "prev_close": 1102.15,
       "pe_ttm": 52.9368,
       "pb": 11.686,
       "eps_ttm": 20.7597,
       "week52_high": 1123.6699,
       "week52_low": 844.06,
       "dividend_yield": 0.5033,
-      "beta": 0.74518996,
+      "beta": 0.73895526,
       "roe_ttm": 28.02,
       "revenue_growth_ttm": 10.14
     },
@@ -1634,24 +1647,52 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JBL.png",
       "web_url": "https://www.jabil.com/",
       "ipo": "1998-05-05",
-      "market_cap_musd": 23247.51703902743,
+      "market_cap_musd": 25244.192300035877,
       "shares_outstanding_m": 102.97,
       "currency": "USD",
-      "price": 225.77,
-      "change": -20.67,
-      "change_pct": -8.3874,
-      "day_high": 242.8,
-      "day_low": 223.315,
-      "prev_close": 246.44,
-      "pe_ttm": 22.3105,
+      "price": 242.37,
+      "change": 16.6,
+      "change_pct": 7.3526,
+      "day_high": 247.91,
+      "day_low": 241.29,
+      "prev_close": 225.77,
+      "pe_ttm": 22.3115,
       "pb": 19.8309,
       "eps_ttm": 9.7711,
       "week52_high": 428.9322,
       "week52_low": 189.6,
-      "dividend_yield": 0.1506,
+      "dividend_yield": 0.1505,
       "beta": 1.3544952,
       "roe_ttm": 74.11,
       "revenue_growth_ttm": 20.64
+    },
+    "ORCL": {
+      "ticker": "ORCL",
+      "full_name": "Oracle Corporation",
+      "industry": "Technology",
+      "country": "US",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORCL.png",
+      "web_url": "https://www.oracle.com/",
+      "ipo": "1986-03-12",
+      "market_cap_musd": 348606.5415338876,
+      "shares_outstanding_m": 3031.5,
+      "currency": "USD",
+      "price": 113.89,
+      "change": 12.7,
+      "change_pct": 12.5506,
+      "day_high": 118.7,
+      "day_low": 111.187,
+      "prev_close": 101.19,
+      "pe_ttm": 16.1719,
+      "pb": 16.7896,
+      "eps_ttm": 6.4411000000000005,
+      "week52_high": 250.25,
+      "week52_low": 100.2505,
+      "dividend_yield": 1.941,
+      "beta": 1.8677338,
+      "roe_ttm": 42.58,
+      "revenue_growth_ttm": 21.62
     },
     "SAN.PA": {
       "ticker": "SAN.PA",
@@ -1690,22 +1731,22 @@
       "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950867383596.png",
       "web_url": "https://www.arm.com/",
       "ipo": "2023-09-14",
-      "market_cap_musd": 188518.675172,
+      "market_cap_musd": 161949.213086,
       "shares_outstanding_m": 1068,
       "currency": "USD",
-      "price": 152.2,
-      "change": -24.97,
-      "change_pct": -14.0938,
-      "day_high": 170.675,
-      "day_low": 150.37,
-      "prev_close": 177.17,
-      "pe_ttm": 201.4088,
+      "price": 176.06,
+      "change": 23.86,
+      "change_pct": 15.6767,
+      "day_high": 183.58,
+      "day_low": 171.2001,
+      "prev_close": 152.2,
+      "pe_ttm": 173.9893,
       "pb": 19.3893,
       "eps_ttm": 0.8727,
       "week52_high": 452.7,
       "week52_low": 100.02,
       "dividend_yield": null,
-      "beta": 3.5884037,
+      "beta": 3.8089347,
       "roe_ttm": 11.08,
       "revenue_growth_ttm": 23.84
     },
@@ -1768,6 +1809,687 @@
   },
   "news": [
     {
+      "headline": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
+      "datetime": 1795464205,
+      "category": "top news",
+      "related_tickers": [
+        "NVDA",
+        "Q"
+      ]
+    },
+    {
+      "headline": "DNI Jay Clayton tapped as acting national cyber director",
+      "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+      "datetime": 1795461169,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "summary": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+      "datetime": 1795460917,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "An options strategy for making even more of your money back in Nvidia",
+      "summary": "Nvidia shareholders can look to the options market to recoup lost money",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+      "datetime": 1795459966,
+      "category": "top news",
+      "related_tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "headline": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/heres-where-we-stand-on-amd-shares-after-jensen-huangs-return-to-nvidia-.html",
+      "datetime": 1795454681,
+      "category": "top news",
+      "related_tickers": [
+        "AMD",
+        "NVDA",
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Mexico, China agree to create working group to boost trade - Reuters",
+      "summary": "Mexico, China agree to create working group to boost trade  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGQzdEcwdnZKUC05dU4zQWZFRkRKV0tmVTM1d0oxeU5ldlM0Ukk4RVhlZTNPZXZtQ2tGejdIa1V1SEdvLUx5VHJ6dGxDWlhya041NE9MckZkOEFzbjNneGhwMzFDOXhrWGx3c0JFMFg1NnhnaURuYVNpRWRIakNqbWxueHlYeU1zY3ZLYkVtZTVoX1JEV2N0Ug?oc=5",
+      "datetime": 1795452468,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "'Iron Felix', architect of Bolshevik 'Terror', honoured with Moscow plaque - Reuters",
+      "summary": "'Iron Felix', architect of Bolshevik 'Terror', honoured with Moscow plaque  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmZoM2ctX3Fod2Q1MDRlYnV5cUQwSmJNb1ZmVHhpaFJ1cThuLTFCU3c2SXpXU1cyVnY0VzMyMDNzTDd3eVBaV3ppeVBBYjNIUXRxSE1kTGk3cXI3TjZXd1U5Wm85T21pMGxvcGZKb2xxZG5ieVVNZmNzWWlkVXVWZGQ1Vjl4VzVQdlQ4VGNpdFBnSDNnSnRkb0dBT3F2emJhMHVXNzBkNTBVSXc?oc=5",
+      "datetime": 1795452336,
+      "category": "business",
+      "related_tickers": [
+        "IRM"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Canada and Qatar to sign investment pact on Tuesday, source says - Reuters",
+      "summary": "EXCLUSIVE: Canada and Qatar to sign investment pact on Tuesday, source says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk1ZWWo1bkc0R09JNGU4YXZQQlB2bVdfbkF0NHQySnRyY0hfMlcyQ2hTS29jblJtZWVhTmY2Ry1Qb1pUS3Q5YWZrYnFGSFJXMFJHZWUxaWRmMkRpV2hVMTFzYUlXc01GdE5YN256R2xhTnVveEdmS1RQZ3laRkN3VlNLcElDTVlPYmdFbmhHY3JBYjFtbWhQdEtHODBUNkRJWWVfcUpYMzNESGM?oc=5",
+      "datetime": 1795451391,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Stop agonizing over the ‘right’ choice—to avoid regret, save time and reduce stress, take these 3 steps",
+      "summary": "Maximizing can increase regret, anxiety and indecision, says therapist Chamin Ajjan. Take three steps to make faster, better decisions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/23/stop-maximizing-make-decisions.html",
+      "datetime": 1795451101,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "EXCLUSIVE: US discussing military training for Syrian forces - Reuters",
+      "summary": "EXCLUSIVE: US discussing military training for Syrian forces  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2tMTDZEYUhaR0lYVlhOTVpicEV6a3VJN2RSV1pVdXMxRmJwQkFUd1hzNWZEa0pSUkJaQ0l6SVNjM1pfMllVR2hNV2FNb2FZUTNuclJzLTdkenNHU3RncUJKUzRKcWswcTJkRkRQZjBuU0h3dDJBdlV0V25nU2xpQlA5UWFnMkZSZnlFMXRsbmQ?oc=5",
+      "datetime": 1795450037,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Israeli strikes kill at least three in Gaza, including worker with UN Palestinian agency - Reuters",
+      "summary": "Israeli strikes kill at least three in Gaza, including worker with UN Palestinian agency  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFR0Y0tNMTl0MmFKSU02ZGd1MElscXdzQnlya2RHU3cyN3dFaUdOeVVPNTQzMjVobjk4WGxsdGtQcDYzbkpvcm42RXdlTVlUb1pvV3lJaW95OHBrSXU4bjdwWXRQMnhTZkVieER1ZVE5cVVWYVJQek1qeWRlOGstYlU5RnVoX0FXRXdfQ2ZQb1NLekZKXzF2X2hxQS1hRURFR1lRSG1mXy1iNTc1OWtULTVRZlpxRXg0M0l2VW13QUR0Zm8?oc=5",
+      "datetime": 1795445917,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "JPMorgan's top books and experiences for the wealthy this holiday season",
+      "summary": "The list includes a longevity clinic, books by David Booth and Jalen Brunson, and the Paddington Bear musical.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html",
+      "datetime": 1795444558,
+      "category": "top news",
+      "related_tickers": [
+        "JPM",
+        "MS"
+      ]
+    },
+    {
+      "headline": "Schools across Germany, Denmark receive bomb threats - Reuters",
+      "summary": "Schools across Germany, Denmark receive bomb threats  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+      "datetime": 1795443805,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary": "Nasdaq futures are ripping Monday morning after a brutal week for stocks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "datetime": 1795443425,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "Wall Street's 'Fear Gauge' just flashed a buy sign",
+      "summary": "Friday's huge VIX spike could be signaling a buying opportunity, if history is any indication",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
+      "datetime": 1795443268,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "Turkish authorities search for animal resembling a lion in Istanbul woodland - Reuters",
+      "summary": "Turkish authorities search for animal resembling a lion in Istanbul woodland  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXZtaWJEZGFHM3BaSzc5Um10N2NqTmJJMm5HZ1NrUUpGWF9MZEg1UDJpWGsxMjZYSERSSUQwLUZtc0QzMEUtV3ZGaFFYekRsRE9WWEJMYlNCV25la3hUMkZDb3d5TU5nUlpEUlVhUXN1Q0duWFhiajgxWG83UEViUnpWdjV4b3VtX0hzdThXdUlfbkpmcl9BSnNLVkZwRXIyNW5LSUJQVzFmWVZKX01CWmxrLUpwdEt5V1ZLSW1R?oc=5",
+      "datetime": 1795443181,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy - Reuters",
+      "summary": "India's Hindalco reappoints Satish Pai as MD, names Mahindra's Hemant Sikka his deputy  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXVHR2lZR2FQTXNyV2RhZzJJdHJoQjVaN1lLb29IOGVtYnRvdVE3LXBFcVpaaEVpdWFaTTNtZ2lhMkk0QVVVSkNyMnc2eXJqNFBWNTFKYWZmMkR1bEdEWUlobnE0OEJiclgzSjhpeENDVTZaT2J2ZWlxUENYNzBjZnd4RV9zVmoxSEIyY0pUQW5lZUUxRU9SbjZXZjl6OVBhTElIOGZR?oc=5",
+      "datetime": 1795443042,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Spanish court removes last hurdle to Catalan leader's return from exile - Reuters",
+      "summary": "Spanish court removes last hurdle to Catalan leader's return from exile  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzgtT3NMdzFrMXhTSndwMDhGbXA5Nk90YS1WcF9pQzhmSHNVbG1LbXByOW5CNXlSaVV6VTA4YjBVYmNpdHUtNndBcEU5RjQ2X0gtSlItaU5WTUxDNjlfZFAtU1BtLVVoWVdfdno3eDVSRUNjMDkzc283NXM5c2tESjFPVXl0Nl9reEt2dmNrcUtNWUlqTnhfdWJrTUktUS0zNVNkTmlyZw?oc=5",
+      "datetime": 1795442649,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
+      "summary": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
+      "datetime": 1795442627,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike - Reuters",
+      "summary": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVBOV1JkUG5VWHhvOE9VZEFvalhOUmExSjg4X1Y1SnVSUGt2S21aMUtVcWlsVFlmRFE5bW1veGxJc2NaenlkSk1MLUhOUVoxbzktUUptakFodGpHWm15YTZLQnpxNS1LU3F5M21WOTlLaWd4NlZnd01udUxHRUM2N0huV0l1cHgzUkFnOEVIRjRVaTlmTzJLWlJCWDBOLUg1eGNCTEJkUExiZmZxU0RXaUtwOHhodw?oc=5",
+      "datetime": 1795441460,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Most Gulf bourses end higher, buoyed by diplomatic momentum - Reuters",
+      "summary": "Most Gulf bourses end higher, buoyed by diplomatic momentum  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzZMZWl5YjFRMm5kU1RDNUNkRHkyT1Q3b05xRndBMUs2eGhWQUZONGhudnpiQUdrWlNjNHVkcVJscy1VbHhRbWhVZUxNLV9ZU3l2b1NRTUhQd2JnMEFCYkRYMkwtNFh3U01KLTJFaUVxV01DVlFGbHl6VElHbnRRY3BKUHlNZ2tJakRVTVJnanQxVEJraWRodnpjWDgzNXpkZklFNUQwWDEteVdN?oc=5",
+      "datetime": 1795440867,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says - Reuters",
+      "summary": "Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjhmU2RxdS1CQXQ5ZnZkQTZXczg4THYzbDNLRlJFWHZTQy1yblF2Z3ZNb0ZzdWtCVW1TeW1TMlVtVVdvNHVNeFpzSklBMXpjTDk5LWZGNE5pSlB0aHV0R2dvVGRKanJtSU5fNWxXeUNNRVV0bVdMc21ESmkxMGY5TzdscVpicGxGN3AyR0E1RlVhOE9jOGVVcFRnejBrT1JGb05GTUVjUGpQc0ZadDk5RTM0VzR1WTV4QlUxZmRqSjA?oc=5",
+      "datetime": 1795440823,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Spain's right set to win majority despite Socialist gains, polls show - Reuters",
+      "summary": "Spain's right set to win majority despite Socialist gains, polls show  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemd4Tmk5Z2lPeWFoMHVxZ0RDNXVScWU4ZExQOGhoX0o0Rk9UdmRReHJiSzVld2pNVGpVSHF6cFVlWTU5bmpsX0pRN0dRejZiNmE0U2ZYS0tqel9mMDJReFlkMVNjamNnVE5YVUFwdWtUU1NGZWNUV3F4bF8wWUs3UHhzcllycEJhUVlZTFItZzlZV0c3ckl5Vm1xMVZVamtiUHZtZjZvSkhlZw?oc=5",
+      "datetime": 1795439529,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "datetime": 1795437637,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "India announces $1.62 billion package to bolster ties with flood-hit Nepal - Reuters",
+      "summary": "India announces $1.62 billion package to bolster ties with flood-hit Nepal  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
+      "datetime": 1795437202,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Zambia opposition leader charged with attempting to overthrow government - Reuters",
+      "summary": "Zambia opposition leader charged with attempting to overthrow government  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDlnSFdBT2F0akJNanljN0haNnJMd3Z2Q1JGcTZ3NnhjZjRfWkJkaG9OSE9sV0Jpbl85eDNsZHI5U2EwdGxaY1d6NGlEZno1TkEzRVJjLVZLSkJnXzEzMUJHb2x1eVJOSkVRR2dzbUlpaTZyVmxRSVpKNWktOUZBRWtHaUNndEk2SEZuVFQ5SFVERTVmYjdPeHZnV1RjMXdCczhsT0s1S1RGYkZBU2xUMUFWWURpZ1k2SXc?oc=5",
+      "datetime": 1795436889,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "EU academy platform disabled after cyber attack on Commission, spokesperson says - Reuters",
+      "summary": "EU academy platform disabled after cyber attack on Commission, spokesperson says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0lxaFE3SDJqZEtGeFZSdXhHWEF4NHZyR1hta1dLNTNUMDEwNXdOMW5LQ3UxaEdWWVlJOVBLMkE5TFFSMk5QU0ZGbjYwM0xFMXdLdXhyMjM4aE5NSXpxZVhEMF9yUWdsbnhDOEFqdFVoc1BjUXVQcmtoQUJMalZDc0JESzJYU3ZtRFVSRGFCMDA2VWdiMUhnaTZzQXF6QTBCTW1kM3hGcnBHMDRwMEpJV3JZNmtTUTdMZnc?oc=5",
+      "datetime": 1795436143,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "datetime": 1795435506,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit - Reuters",
+      "summary": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5",
+      "datetime": 1795434653,
+      "category": "business",
+      "related_tickers": [
+        "NVDA",
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "COMMENTARY: Morning Bid: Wall Street reprieve or recovery? - Reuters",
+      "summary": "COMMENTARY: Morning Bid: Wall Street reprieve or recovery?  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1J4LUNHSUkySldUTWFqbHotZHkxRWlNZHhDbUItV25GMkhvcFhuSWVGMXJ2X19ENkRMX3RLRHhxcm5ybHBKRkYzU1UwQktHQ0JNV2l2b0RLYno5YlZQRHVXcTZtLTRuMTllc0VmNG52dURGUTQ4V2txdlVVZnRQcjBBLVcyQmlUaXNwb3lEZ0ZXVTRVX2k0?oc=5",
+      "datetime": 1795434013,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "PODCAST: Markets brace, Texas Democrats eye 2028 and Black Friday AI - Reuters",
+      "summary": "PODCAST: Markets brace, Texas Democrats eye 2028 and Black Friday AI  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
+      "datetime": 1795433199,
+      "category": "business",
+      "related_tickers": [
+        "TXN",
+        "TPL"
+      ]
+    },
+    {
+      "headline": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say - Reuters",
+      "summary": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFNUV09SVEdIUDhEX25NakRwVEYzVHRHbHVpZnlNSXNzS1VTUGtNejlkaFh1cm91WmFibTR4UkxCRm4zMzJWaWF5MXhjTENaYUoybHBtVnZpS2hneF9nVzlFa0RCd1ZYOGxtWHFkOWtmcXcyWmQtZnJpa3hQeDRjVjdhRGREaFhZLTBxdVg0SndzSHY5bHQzMkhmTjlkVGFqbE9ycGlqUVRIVTBHVDItMTF5SE5MN3oxZDhnU2xINGxpSEdS?oc=5",
+      "datetime": 1795432528,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows - Reuters",
+      "summary": "Euro zone growth holds steady but France's deepening downturn clouds outlook, PMI shows  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEhfNVZTQlltZUg0ejVieWVmYU9HcnlPVVYzZGFiUnRLS0pTa1V1WC13RHVwWEI5MWsxNWN6Ti0wcWhhczJQN0Z5bTlnazdzd013Sm16Ulk5MnpheVJkNlI5anF5SE5Jb1ZwazJfVEVGU2pMZjNjbkNWUXR3ME1ZdTBuZHowWmRDd01sZWdNQmVSRVAwbHJSbEtPcE5FY0V0SDhoUC13UDRFRmFJLTgtOTEzbGFObElkTVkyVWsyYkdEdw?oc=5",
+      "datetime": 1795431366,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike - Reuters",
+      "summary": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
+      "datetime": 1795430120,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Australia to treat AI as key foreign policy challenge - Reuters",
+      "summary": "Australia to treat AI as key foreign policy challenge  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdWRGZRVWl0NVIxT2w5WmpBdjJWM1kyanhqd3hNdGRuME9SWTgwQU5ZTHVVaVdOdm5LTGdtanlicWpzREgyTjRmYzUtOEcyNl9CTWpGNTdiUHJIYjRmT1F0RUEtZ1RoNHRHeVAxZVpadGpOYjBmOHctMUhQWDZWT0ZWWHZLeHFfblhYZHVIdkczZjZpYmNCeFlGS3dtbnpVQVpjRg?oc=5",
+      "datetime": 1795430023,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Iran says it will use all its tools to confront US naval blockade - Reuters",
+      "summary": "Iran says it will use all its tools to confront US naval blockade  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5",
+      "datetime": 1795428064,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Denmark to propose mobile phone ban in schools in 2027 - Reuters",
+      "summary": "Denmark to propose mobile phone ban in schools in 2027  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlNxOUFyb3RKS05jRXVWNTFoTGhTUlFsSTB4RGMzeTRuekVNVFFtdXpOcWhrRWliUkl5R0RYU2pqR0ZDR3N3YXBBYWxMZnZ2NUhoX3l6Q29jeVdRR1c5bHBxVEZxc3ZZZmtSVGhyRHZEYXdzRHRtTzViemdQdnRKbHJiY2pleHNld25WQVFvR18?oc=5",
+      "datetime": 1795427263,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe - Reuters",
+      "summary": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5",
+      "datetime": 1795420380,
+      "category": "business",
+      "related_tickers": [
+        "LI"
+      ]
+    },
+    {
+      "headline": "Armenia proposes new constitution in step towards peace with Azerbaijan - Reuters",
+      "summary": "Armenia proposes new constitution in step towards peace with Azerbaijan  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFNZ215bUttRTh2UEY1bi1MRVBoLTFEelJfb1FsSHR3VDZkNXFyUGRsanFlUHpGckJDbktHM3BEekl6bVhoYXFrNF85ZmhaZU9mU0c3SEJNemtkbHRvNG9idzVyMDNZOGY1WG5ibVFtZl8tOGJfNTlub1ZWTzJVZVQ1ZGpod3VxV0Y3eHdfejdBYlpjeFJwX29WLVFQTGJTX2xxdWpVWm1xazdHWWhZ?oc=5",
+      "datetime": 1795420080,
+      "category": "business",
+      "related_tickers": [
+        "ARM"
+      ]
+    },
+    {
+      "headline": "China's electric truck boom lifts demand for lithium - Reuters",
+      "summary": "China's electric truck boom lifts demand for lithium  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnFTM0xYMzExZjQzQzlXZ2l5dXU1Tml4M0RfQXRfVmlCYW9BUmpWZVJNMFFFX2xXT0Qyc3Z2U096S3hDWVd5a0hNcjRYZVRLQ3J6dG91dFVDalFadENLeW94TW1CdnBsRW1wTzdxQUZOcmI4T0VXU0ktNlo3eEdOQXpyOHhwd3RaTHBqSDdpbVpjSXR2aWUzOWxEbHB3YnVjZzdqYmJLYVlqOGFHTFEyRm90bw?oc=5",
+      "datetime": 1795419060,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says - Reuters",
+      "summary": "France's 2027 economic growth forecast of 1% at risk of being downgraded, minister says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2c2TzBpaFdvaWdCUkRoQnFyLUtMVlFhdzFBbnlTWmVHcjBIdFctOG9DbTFRZmZ4Vnp4Nlk4Sl9YV1BHR1Q3R1VvR090OG9rZkZGWjRUYTh6dmFMazQycVhlVC1vWVVhZVJxQlpVQWFMUnhoNFVnSG9Dbm9FQTFLX3BFRlhQRXdJLVB6bDZjdUdRS003TGhsaGFiRnA1NzFYcFUxMTVjWnRabW4tRlVweUl2aHBGRzZw?oc=5",
+      "datetime": 1795418820,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
+      "summary": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
+      "datetime": 1795417200,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "South African rand gains as commodity prices rise and dollar weakens - Reuters",
+      "summary": "South African rand gains as commodity prices rise and dollar weakens  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1dzajc5TC1sVnNkQXJfS2hwXzNRdDJjN3d1WUVBamJNNmRQV3FQSXo2Y1BIMmhjYW1JYUg5UGJCVlA2dENsR1Y3SGY0TTQ1OHlFdXFrZnUxVDF3QjBLeDVmV1FQc1V5Y21HU0s0dGFxSUhkZWliQUZ5SGFRVW9aZDNiZXFqVjV0aWU5QWExc0lTTWJaanRYOFkyU0UxVWRTeU9UWW1DT1A0Wm5TU3I4?oc=5",
+      "datetime": 1795416600,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Thai appeal court halves jail term of lawmaker convicted of royal insult - Reuters",
+      "summary": "Thai appeal court halves jail term of lawmaker convicted of royal insult  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTBOQlNMN0xxcS1ybi1KTFk2Q2tlOFpDZGR6X3M1MzRXYnd4anpJVTZ0NEdLenZrbEJkYTRkZm00R2I4SC1tSDdoZ3Z3MGpqWVZqWVF3cHZydmZNQ2lwYTVpV3RvSDJkWG51VUZ2dmZ2VWR2RmR3dnQ4d0VROUxwY1BneU44MTdqTzBQMDhoNG1nYkRWNVcyNEthSDF4ZDV4ZDdHTUZTTTdKQUxVaFB2TGpDTU5rV1Nvd3UxMzd3?oc=5",
+      "datetime": 1795416180,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "South Korea president nominates new foreign minister, spy chief amid US worries - Reuters",
+      "summary": "South Korea president nominates new foreign minister, spy chief amid US worries  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU25qTWZidFNXLXNpRGRNajlHQlAxS0pFYzdMb2FYUnBYdlpEU1k3dE9aZG0wa282a1hwTWt4eTI2azNjdlpKLTNuRm9pSVR0RTl4SmZTMXFLVEFfdVN1Y3lLRF9uR0ZUdHU0SXlEU3FQNG5BOV8zeUpmUHphcTZ2Tk5iRklKOHZjYzlDRHpJNHZMOTYtY0Ziakg1Z0xFaDNReWdueVVwcTZuNXNvSWkyeEx6QUhLby1CdUpUMQ?oc=5",
+      "datetime": 1795416120,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Fields of graves: Hidden deaths reveal scale of Ebola disaster - Reuters",
+      "summary": "Fields of graves: Hidden deaths reveal scale of Ebola disaster  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlE5NnFHMFEzZi1GQmhXQXlJWjJDTEl0aVNEb1VNdHZQRzJSWXpUUndSRkV0WXpjR1M0eHQtRFFrX0ozOTJDTTNBNDBsLWlzNXdOVDl5M1FwNC1vSllHaExHeVVjZGxCWmNMTndLX3pqT1NScWVXSHdRaHdlRFBVblFMRWY0c1lpcGJEakpaZUkxT3FDZUNHMDluVVFjZkZUMTZ0SHNSbGd0UQ?oc=5",
+      "datetime": 1795413600,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "COMMENTARY: The wind has finally shown up in Germany, and fossil fuels feel it - Reuters",
+      "summary": "COMMENTARY: The wind has finally shown up in Germany, and fossil fuels feel it  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEd1T0pjQjRCQklVS2tPbGF2elpYZFl5d0k3MmhtOFJWejU1LTVoN1lnWlBtcXMzZmFxX0M3azFjQ0Fwd21TUG0tamRTaTM3T1h1Q2NmM0l6SkxwaUtDOE9JQjE5WVR1QWxXNWNlRGtmSmNWc0hMeWpEdEtYbWZUWURZUVpPOVF3Q0wtR2JVaDVES19aRlNUZGs5WGdNbi1zcWswellITkNkcUhXUjZycEUxSERTeTJ2TE5NODBkczA?oc=5",
+      "datetime": 1795413600,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Don Toliver concert in Manchester evacuated after unknown substance released, police say - Reuters",
+      "summary": "Don Toliver concert in Manchester evacuated after unknown substance released, police say  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2dfdkNPNGFwc0JUbXFKVWltUVZRZ2N6d1FkMS1XLTUxX1FsM3FLdFltQjZYS2pUekRqaGQwSEs1RjFPTHJmZk43UEw5X0Y1NHE3czk1MlVFZ0lIcEtzSW01V1NKQ1E1VFBZdU9UNExRbFZxNks2NTU2MS1VWE1tYko4T0VoVmJwU3dpc0QyVHFCRXByRG13NnlrX2xaTGxkWFVIOGdqQlozV19zSlUwWGVFNUJGQXkyZzNtWEtGb1FWaEU?oc=5",
+      "datetime": 1795412280,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "India factory demand offsets weaker services growth in November, PMI shows - Reuters",
+      "summary": "India factory demand offsets weaker services growth in November, PMI shows  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGFzYjBlVjh2dEFSYXUtMEFxNXN2UUJDXzUzTklZckxOekhkUEtfSDVxX1FhRHRwZzcxSEZnZUljTjhpbmRSZmkxMzk1bFRGa1BBY0JXT25sRVlRMGk2VHVudTJTamx2YkRFaFNuWTFqTnZ0NWRKd0JqLTdzTFg4NWdqLWM2czNyQjNHV3huRlBhSEJvNVdPcWxEMHZQTVdsZjNPQWs4RUFuVmlYVmlYY1ZPRWxtQmMtVXc?oc=5",
+      "datetime": 1795410300,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "China sets 2030 targets to boost support for older people, childcare - Reuters",
+      "summary": "China sets 2030 targets to boost support for older people, childcare  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5",
+      "datetime": 1795409280,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Indonesia central bank says MSCI talks with Prabowo support rupiah - Reuters",
+      "summary": "Indonesia central bank says MSCI talks with Prabowo support rupiah  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTV0cGJnSHE5ZkxDSVhUQ1Z1S09hLUp4SmxHZ1YzWEZ5TjBxTHlNQ1NSc3JtcDZ5MzlUUzNZYTFIdmZCVXFheGM1cTg4djBhb01kLVlOUVZUekFSLWgxMjIzSnMzZ1pORjZDUDhXZFM4U2JmLXJkblY3QWdIN1QxallRdEduVlo5QUQzcExQVlNPaDNzVmhGTlJLNVRaYU9nUHN5aUJWUlFoRUhqSHotSEpTdGZZVER4OXFn?oc=5",
+      "datetime": 1795404960,
+      "category": "business",
+      "related_tickers": [
+        "MSCI"
+      ]
+    },
+    {
+      "headline": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
+      "summary": "Financials drag Indian shares down on profit-taking after four-week rally  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
+      "datetime": 1795401420,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Oil drops more than 3% on increased Middle East flows, Libyan pipeline restart - Reuters",
+      "summary": "Oil drops more than 3% on increased Middle East flows, Libyan pipeline restart  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5",
+      "datetime": 1795400640,
+      "category": "business",
+      "related_tickers": [
+        "LI"
+      ]
+    },
+    {
+      "headline": "Australia shares set to slide at open, NZ falls - Reuters",
+      "summary": "Australia shares set to slide at open, NZ falls  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2JMdUwzSGRkYk1MUm5YajNwSHBXSnhSdWt4S0t3VnlrcTBZWlFxYVFfVEVXYkhuVjlwR203aHM2eHljWER5M2F5eVg5QXI5NnVnaXN3TG9OVkZrNXFUaTB4OUFHTmtWb0dzWDBlLWlGc0F3ZGd0QUd0aWdtR1lrUXBCMXF0RlBSVXl1SS12Z3ppaEpIMXJLYQ?oc=5",
+      "datetime": 1795396020,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "UK government to make case for greater public control of utilities - Reuters",
+      "summary": "UK government to make case for greater public control of utilities  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEx1RWlLNnNvbEZ5a1kzbVBfb1dLSnNPbjViMmxXYXR4ZlJkNUpYVUhrQU40MlhXaTc1TlMtZWh4QnBYU1VxMW91aHZSR0xtSU9XWE16ZEw4R3p4RW1PU0hXdVVyUXlqdVQ1YmRBZDM0TkNYTzFnNTJ6enFOLUV3TjhDZHlmb3pOSEN1TTluSmQwTHp2Uzh0NnAzUV9PYW5PNjNz?oc=5",
+      "datetime": 1795392660,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "datetime": 1795391384,
+      "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "US futures bounce as Asia scrambles to slow AI stocks rout - Reuters",
+      "summary": "US futures bounce as Asia scrambles to slow AI stocks rout  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
+      "datetime": 1795391040,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Dollar jumps on hawkish Fed bets, AI rally - Reuters",
+      "summary": "Dollar jumps on hawkish Fed bets, AI rally  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5",
+      "datetime": 1795390980,
+      "category": "business",
+      "related_tickers": [
+        "DG",
+        "DLTR"
+      ]
+    },
+    {
+      "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
+      "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+      "datetime": 1795388940,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
+      "summary": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+      "datetime": 1795384496,
+      "category": "business",
+      "related_tickers": [
+        "BAC",
+        "WST"
+      ]
+    },
+    {
+      "headline": "North Carolina win gives Democrats biggest US House majority since early 1990s - Reuters",
+      "summary": "North Carolina win gives Democrats biggest US House majority since early 1990s  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5",
+      "datetime": 1795382880,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "POLL Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
+      "summary": "POLL Bank of Israel to keep rates on hold amid uncertainty about new government  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
+      "datetime": 1795380960,
+      "category": "business",
+      "related_tickers": [
+        "BAC"
+      ]
+    },
+    {
+      "headline": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts - Reuters",
+      "summary": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+      "datetime": 1795378663,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Delta flights faced brief delays at Atlanta airport over automated system issue - Reuters",
+      "summary": "Delta flights faced brief delays at Atlanta airport over automated system issue  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
+      "datetime": 1795374960,
+      "category": "business",
+      "related_tickers": [
+        "DAL"
+      ]
+    },
+    {
+      "headline": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "datetime": 1795373705,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
+      "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+      "datetime": 1795373669,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion - Reuters",
+      "summary": "Tata Steel to sell tubes business, Tata Steel Colors stake to APL Apollo for up to $3 billion  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVpWcGJLY3JCOXlyRUZaR3p4MmNSU3V3Qm12b0N1aG5IcC00dDVJSnVsUFZ6dnU3VE5CWVZFVUc0ajhjZEgtRHFXRWVjUDQwTkwzTnJPVFlsZzJ3MVFOVXRPM3Rmc3o5ekZJci1QQ21jQWR4Z2dLQjdsSTZsRU8xNS1JMThzZTJ5SnZ3alpINjhUT05Hb0ZWNUdBUXNCc3l0OUZSZDlveW5pV0s4dTE0ZC1NeG9nS21zUGw2ZE94MA?oc=5",
+      "datetime": 1795372550,
+      "category": "business",
+      "related_tickers": [
+        "APO",
+        "STLD"
+      ]
+    },
+    {
+      "headline": "US intelligence chief predicts more tech outages as systems undergo upgrades - Reuters",
+      "summary": "US intelligence chief predicts more tech outages as systems undergo upgrades  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5",
+      "datetime": 1795371249,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
+      "summary": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvRjVsQVZVSW92MlFESWlmTGxVaWM2aXYwZ0NtUTlna3k4ZkV2S0k4YkhVOFRjaWRrcmhZeWg5NHpQaW9pRGIybUFpalV3U2lzdlZ5QzYteENUSWpWdm90SXNFWVU4OWxBaGx3?oc=5",
+      "datetime": 1795369935,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
+    },
+    {
+      "headline": "Three Russian missiles flew into Poland Friday, prosecutors say - Reuters",
+      "summary": "Three Russian missiles flew into Poland Friday, prosecutors say  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
+      "datetime": 1795367983,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
       "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
       "source": "CNBC",
@@ -1783,12 +2505,50 @@
       ]
     },
     {
+      "headline": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters",
+      "summary": "Russia starts towing ship hit by drones in Baltic, Finland says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+      "datetime": 1795363289,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal - Reuters",
+      "summary": "PODCAST: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating scandal  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2ctWDVuSkdRVXo4MkdXVWtCNXcwYXlFeGp2cUZCMmItdHJjenA4VDlRcnBJRHdrZjNuREh1cHd3Y1JESURBaTkwci05NHV4bmhtd2U3TWkwR2JKT2JfQ3I4TXFCRDFjSTZXaWs1STRmOE16SFpKYnlrQnpIbmJJdmwwSndDa25EU2RNMlI1WnYwR3R2a25HUUhvQm8wbndzNVlxMGdaMlFDNjBEWklKY3EwN2twZw?oc=5",
+      "datetime": 1795359300,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+      "summary": "Libya's eastern government suspects drone attack caused explosion on Russian ship  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+      "datetime": 1795357500,
+      "category": "business",
+      "related_tickers": [
+        "LI"
+      ]
+    },
+    {
       "headline": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
       "summary": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
       "datetime": 1795356001,
       "category": "top news",
+      "related_tickers": []
+    },
+    {
+      "headline": "Paolo Bulgari, architect of jeweller's rise to global luxury brand, dies at 89 - Reuters",
+      "summary": "Paolo Bulgari, architect of jeweller's rise to global luxury brand, dies at 89  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2pUWUhndWMyWTFmXzVMM0Q5YVR0UWtpSzc3c0JJOFc0X0hZWUtDc052d2VpMzNfT29HSThjMnNiRE55dk8xQjJsWldTNnpxaUcwQ2N0LV9FRTJYRlJRM21JdC12a05WWGFGZXNMazBKdG8xUG1Rb1FLa1duZFBZdVJBNHBHRnFvTGE1Y0VsVGRuajRTVE85ekNzc3JUdUZUMWZ5RFJ2dTVIdi1MMktlMkpScGEwVDlrN19ZNXJvX3FJdGpKYmc?oc=5",
+      "datetime": 1795355506,
+      "category": "business",
       "related_tickers": []
     },
     {
@@ -1803,11 +2563,29 @@
       ]
     },
     {
+      "headline": "Most Gulf bourses retreat as regional flare-ups continue - Reuters",
+      "summary": "Most Gulf bourses retreat as regional flare-ups continue  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0hpdmdTS3ZXeDhNM1FWWTVwV0JRQkFQOHBkQUxGOW1NMVJmQmxKM1RXbmpPaHVWX1JJczhkWjBLMEs5aHVFVU40TUhOMS1vcXc3am52WEQ0bTIxQ0U5TDFHVFhXRmVnNmpaTHFZRTVoSVBMYnNLT25rc0RGZ3BYeUhScGd3RGEwdUpCWExOXzc0a3NZOXRoZTc5eUo5Tk1LMnBuaE9lQmE?oc=5",
+      "datetime": 1795353393,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
       "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
       "datetime": 1795352401,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters",
+      "summary": "Correction or deeper reckoning? Investors seek signs US stock selling will abate  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+      "datetime": 1795350132,
       "category": "business",
       "related_tickers": []
     },
@@ -1821,11 +2599,40 @@
       "related_tickers": []
     },
     {
+      "headline": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters",
+      "summary": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+      "datetime": 1795345380,
+      "category": "business",
+      "related_tickers": [
+        "LI"
+      ]
+    },
+    {
+      "headline": "Croatians rally in Zagreb demanding justice over psychiatric hospital death - Reuters",
+      "summary": "Croatians rally in Zagreb demanding justice over psychiatric hospital death  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
+      "datetime": 1795290660,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "Bahrain says Iran strikes industrial facility as air defences intercept attacks - Reuters",
       "summary": "Bahrain says Iran strikes industrial facility as air defences intercept attacks  Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
       "datetime": 1795288500,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
+      "headline": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
+      "summary": "NATO will defend every inch of Polish territory, Rutte says  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+      "datetime": 1795288090,
       "category": "business",
       "related_tickers": []
     },
@@ -1839,6 +2646,26 @@
       "related_tickers": [
         "HTHT"
       ]
+    },
+    {
+      "headline": "Former Italian police chief De Gennaro takes own life amid mafia probe - Reuters",
+      "summary": "Former Italian police chief De Gennaro takes own life amid mafia probe  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHRWNEgwMkxHcTRCT2t0cnB0bU5zWHdYd3NjaWlRQmNrSlF5ME1xVkl2Y1daY3dRbkY5MzVjR0Zva0FQM2NXdXhRR0JmaVNyNnozaDVWNWVEWXF1SnZHNHo4OS1zc3BDLXZxd1Q5dEUyNG92M3FubElMdWc0TGhyY3ctdWlrZkVHWW43VDhvYjNDZmF6ZjJDbUdUdEFYbmx6OS1wcXE4NThkUHhUdjg1Und3?oc=5",
+      "datetime": 1795284026,
+      "category": "business",
+      "related_tickers": [
+        "GEN"
+      ]
+    },
+    {
+      "headline": "Lower turnout at largely peaceful marches across France - Reuters",
+      "summary": "Lower turnout at largely peaceful marches across France  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+      "datetime": 1795280580,
+      "category": "business",
+      "related_tickers": []
     },
     {
       "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
@@ -1866,6 +2693,17 @@
       "datetime": 1795277308,
       "category": "top news",
       "related_tickers": []
+    },
+    {
+      "headline": "How Grand Theft Auto VI's launch surpassed expectations - Reuters",
+      "summary": "How Grand Theft Auto VI's launch surpassed expectations  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
+      "datetime": 1795273790,
+      "category": "business",
+      "related_tickers": [
+        "HTHT"
+      ]
     },
     {
       "headline": "Qatari delegation visits Tehran for talks, Iranian official says - Reuters",
@@ -1913,6 +2751,26 @@
       "related_tickers": []
     },
     {
+      "headline": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 - Reuters",
+      "summary": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
+      "datetime": 1795269960,
+      "category": "business",
+      "related_tickers": [
+        "RSG"
+      ]
+    },
+    {
+      "headline": "Russia's Wildberries CEO steps down days after EU sanctions, media report - Reuters",
+      "summary": "Russia's Wildberries CEO steps down days after EU sanctions, media report  Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
+      "datetime": 1795265956,
+      "category": "business",
+      "related_tickers": []
+    },
+    {
       "headline": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
       "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
       "source": "CNBC",
@@ -1935,843 +2793,6 @@
       "related_tickers": [
         "SPGI"
       ]
-    },
-    {
-      "headline": "Indian billionaire PV Krishna Reddy raises $720 million in private credit for Megha buyout",
-      "summary": "Private-credit lenders back the MEIL buyout via a multi-tranche, cross-asset deal, highlighting India’s growing reliance on non-bank funding for large, complex transactions",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
-      "datetime": 1795258775,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "COMMENTARY: The West challenges China's critical minerals dominance with unglamorous tungsten - Reuters",
-      "summary": "COMMENTARY: The West challenges China's critical minerals dominance with unglamorous tungsten  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlRQcTdOLUU4SUtDTFBsaC1ncUJyTUNoRFRkNFNiWng5UFotbmFwTmxONjktMF9uT2RqM1JTZUswWXA0Q0pBZ29PcGVIMnFyckZkaGpGUUdQaHdjc0Etb2NoUUh3dXRtMlhMcG1WbXVwcXA4NkpTQmI2Wnc0emdXaXNXdTBrU3BVSDJGZ1FWRWpObmhFalpQcFlLMC1nLXE4SHd5T3RkU3FLc3dEX1BReVc1N0cxaHJCMHF5a3c5NEhuSWg2WHFYbGNsZ3VVSU52NkktaHZqanZRenJfUEE?oc=5",
-      "datetime": 1795258668,
-      "category": "business",
-      "related_tickers": [
-        "WST"
-      ]
-    },
-    {
-      "headline": "As Trump basks in summit pomp, China's Xi strengthens his hand - Reuters",
-      "summary": "As Trump basks in summit pomp, China's Xi strengthens his hand  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
-      "datetime": 1795252374,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz - Reuters",
-      "summary": "UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWE4czlabDhxX0p1R0pxTHh1TVdxWDVDWG1PeTFucUVvb0FIODBPUU5CcHNyekU3OU1QM3VuN3FjMmxCTm1uWXJUUnRmVWJYUDFkbFJHT080OUNzYkw5OW1hSGxxUUtKVFNLblFyZldZRmZ1RUhscnBaa1FoVkdpQ1Rocndtc25iWS1fY0ctTW05b1dOQTJoZ3VxWDhZZ1h0RjlPc3htR3FQQTBQbjYzQ29QOA?oc=5",
-      "datetime": 1795247820,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters",
-      "summary": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5",
-      "datetime": 1795217760,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable - Reuters",
-      "summary": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJ1MkI1NFRhVGFBd09OcklwWXpmN2taa1EtT1pfNWxDSzZhamdaUkJubjMxb01yQV9zQ0hqQ0JFVGFGUE92RFRvRjh1Q21UeElHcWFxWnRhdnFlZFNuT1BBY081U2tyTVpaZmU5RmR6cmRfcklWUG1LeXRfdUZJTlNGQ213X0JDNGdzMTZOdVlPTVZYZVZaUmdGVVFpYmJFdG5xSUlBclI0QWlPYzdsTFdncWJjeF80XzI5N3NXMDM4b1E?oc=5",
-      "datetime": 1795216260,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
-      "summary": "US Treasury sanctions Iranian 'trustees' collecting oil revenues  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
-      "datetime": 1795211587,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
-      "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-      "datetime": 1795210648,
-      "category": "business",
-      "related_tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
-      "summary": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
-      "datetime": 1795208671,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Bond has Robert Pattinson. Now comes the hard part",
-      "summary": "Bond's villains offer the clearest route to updating the franchise.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-11-16/bond-has-robert-pattinson-finding-the-right-villain-will-be-harder",
-      "datetime": 1795208400,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday - Reuters",
-      "summary": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
-      "datetime": 1795207532,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "US Vice President Vance declines to say he would have ordered Iran strikes - Reuters",
-      "summary": "US Vice President Vance declines to say he would have ordered Iran strikes  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
-      "datetime": 1795207500,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Trump's personalized diplomacy hits its limits with 3-way summit - Reuters",
-      "summary": "Trump's personalized diplomacy hits its limits with 3-way summit  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
-      "datetime": 1795207449,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "US judge questions Trump administration's policies targeting refugees - Reuters",
-      "summary": "US judge questions Trump administration's policies targeting refugees  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRNV0RoUGFOSGY0U29maHhKUHNGV1ZNQnVkcXBUd2hyRzQ2UFA2UTZ6NVJCeDVKRGZ3a0I0U05ldlNGVUxUR19pODBiZW0yOGtYa2ZXY09MN2RwQ3VmeU9fbmY4S3QyUUcyajVPNFpBd0ZuLVBla0phcUYzNURjZWx0VHl4MFdOV2N4cEd2dktWVGszYzFxd1dXSHlHUi1oRjdLVnVxLXNDYktyXzU4NVdCWElPN1dnQ3pVd0J3?oc=5",
-      "datetime": 1795205544,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-      "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
-      "datetime": 1795205172,
-      "category": "top news",
-      "related_tickers": [
-        "GOOGL",
-        "GOOG"
-      ]
-    },
-    {
-      "headline": "A massive bearish trade just happened in the chip stocks",
-      "summary": "Options traders place big bets that semiconductor stocks have further to fall",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-      "datetime": 1795203211,
-      "category": "top news",
-      "related_tickers": [
-        "A"
-      ]
-    },
-    {
-      "headline": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says - Reuters",
-      "summary": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXRKZGYxUkVSVnNCbGJHOG9wWjFSY1puTVMtdUMyeGg4VTFXR2xhRXd1ZmxYZ1g5QlBZRzljX1F0V1R5WERUOGdhb09IWXE0MTJXWXl3Z0F1czYyck1OT1NHc012Rm1PaDdXR1BQSkVRTkNqQkpCVUZZSUdTMnY1S1Zsa0kwYV8tai16c1Z3QnBwb0JZNjA5QXA1TkllMFhacFZMcm9MNHoyYU1LNHBlY2ZiN1lHUElQSURVSFo5aw?oc=5",
-      "datetime": 1795202505,
-      "category": "business",
-      "related_tickers": [
-        "NVDA",
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom - Reuters",
-      "summary": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUE1UEFGeklRZGtscWJhNkdxRWpyWHkwQ29IcVQ1Umc2VHlkWlJGZzZPTC00SFl2a3J0SXY3TGo0X0t2a3A5ckMzbmtZXy1mYzdoa0F5Vmo1TGFaU1RIbEZHak5iTi1oRXhWWF9CbWZ2QWFLRG1HSG5Rc1dSbHZlaGNNSDlvZ2RiekJzbnpqMC1aektLZU1MSHBWN25PYURzUGduTjhURQ?oc=5",
-      "datetime": 1795202213,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
-      "summary": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
-      "datetime": 1795200939,
-      "category": "top news",
-      "related_tickers": [
-        "A"
-      ]
-    },
-    {
-      "headline": "At least 4 dead after overloaded funeral boat capsizes in Nigeria - Reuters",
-      "summary": "At least 4 dead after overloaded funeral boat capsizes in Nigeria  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3hySDBHaTNmM2U2ZG9mUjNtRVRlaHZiZW5RdmUwaVBGUUlxNUhJX0w3alVrQ1hNUEFLVndrSXJyTTQxMTM3WjNvZGlLaVJaTVR6Q3g1MHdVRGM5dXVXMGJqeGNrMlU5NG9MTWNqRDd4UWZTRVljdDBoeGRkZXVCOVBrY2hjN3BsZ2QwdjdFSVBTVEQ3eGx1ZjlnMjhRRkZ2RXdVSk9NUnZ6X0prdHhVaEw0aDk4V01UY19ad2VpM0g?oc=5",
-      "datetime": 1795199795,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Houthi attacks add to worries over Trump Saudi nuclear power pact - Reuters",
-      "summary": "Houthi attacks add to worries over Trump Saudi nuclear power pact  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeERTd2VXX21mYUpEQUFyRjN2dk5Hdkl3RTZLTDUzbV9HRzE5cy1CcThnQkF3WVNsMDR0bWsxZDMxTlI1d0o2dFZwNjEtX0ZKSVBYQmFycVN2dGNYaXVTRnh3a2Y2M09uM0RkQU4wSDdGWEo3TF94ZlVySy1RNTNEaGhjZmlQZFJ4VjNzM094Rmp4Y0RJZHJZZG5MZVB1VHBkUjJxTmUwUlpBc1JFa2NhQkdGTVhOcGc?oc=5",
-      "datetime": 1795199371,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
-      "summary": "This two-way race is firmly centered on how each company can control what it can control.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
-      "datetime": 1795199169,
-      "category": "top news",
-      "related_tickers": [
-        "HD",
-        "LOW",
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Rare photos of uncontacted Amazon tribes - Reuters",
-      "summary": "Rare photos of uncontacted Amazon tribes  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU8tOUk2VEtzR2I1NWRKMUloSk41a3NmT0ZNald5Zm9uaUlPbUVvSmhXVHZqMzVTeHdoRnpMS2FMWTIyNmxVRjdWckxjZC1vVGlHSkZsQVQxSWhVbHdrMm51ZW1WLWppMFhIeHMtUTRoVXpkdmdfc3lEeU5MbkwwYXNCM3o1OVM2QVE?oc=5",
-      "datetime": 1795198200,
-      "category": "business",
-      "related_tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "Congress struggles to avert US shutdown as Iran war divides lawmakers - Reuters",
-      "summary": "Congress struggles to avert US shutdown as Iran war divides lawmakers  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDZZTmpNTGpqLUMwR0JBZUJuaVBuMDAwYVpVanpkNTJDSGpNMEkxdXlSX1JkSDJpaG1SNUlmMnJZTHZ2Y192UmFKSjlGazN5UE9hZEJfcmFwdzVGWFE0QWk3OXBGWEpudkV5bTdiLVEwWjJicDFrTHJWVGVQT2RNMlBYZ3pMMmhQTHhKRnJ1QktWbGhVWWxRb0paRGZvdVNDdlRJNEd1N1lEbG9LOU1mTURPZE9CZlVvUk5j?oc=5",
-      "datetime": 1795197701,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "We’re making another small buy as the market sell-off deepens",
-      "summary": "The market could fall further, but this is our discipline, and we strive to stick to it.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html",
-      "datetime": 1795197074,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "India cyber agency warns of unauthorised payment transactions - Reuters",
-      "summary": "India cyber agency warns of unauthorised payment transactions  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
-      "datetime": 1795196579,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "American detained in Cuba for nearly a decade released, CNN reports - Reuters",
-      "summary": "American detained in Cuba for nearly a decade released, CNN reports  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXkta2kyODFIMVZjMU9mazF2MHpsY0ZoVldDSnliNHB5bXE1UzR0a1VPVWw0b1RRcVYyVFZ4U0xCSTNhSFJiMjhXcml0dVZ6ZG9HYzhJc0lGUTdPTnFNb0dJdWNzR09xcS0xNFRNYzZLMU1hYVpSai1DYjR3VVB3MXRWcFVOaEZjN05VZHhOVkNHOTBSaVJJdmlKT0N3OFhnZmtQaTdIQUZoTkh3?oc=5",
-      "datetime": 1795195377,
-      "category": "business",
-      "related_tickers": [
-        "AEP",
-        "AXP",
-        "AIG",
-        "AMT",
-        "AWK"
-      ]
-    },
-    {
-      "headline": "Here's why we want to buy the sharp decline in this chip stock",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/heres-why-we-want-to-buy-the-sharp-decline-in-this-chip-stock.html",
-      "datetime": 1795195337,
-      "category": "top news",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Tanker catches fire after projectile strike near Strait of Hormuz, UKMTO says - Reuters",
-      "summary": "Tanker catches fire after projectile strike near Strait of Hormuz, UKMTO says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFlEbXRhcG1QdzdPMU5DZTludFpwQllURVktV0I4cC1pX2g4V1k1dEhTWFVibXk4Wm9IUWFNYjZLRTlCZHBnM044cGo3amFOdTQ2SWdZWkVBUG9LaERYQ3pUQTdvd1loNVlxN0VPTUJTS29tcWsxWlIydFcxRGp4N2xlTUUyMDk1Y1VfLTVfXzYxZGZnVVFEUWpxaW05bS1MTlNQRGZpYUMwQ2xMY3MyMDRFUm1PM1JjaXc?oc=5",
-      "datetime": 1795194312,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "datetime": 1795189978,
-      "category": "top news",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Founder of UK anti-migrant group jailed for slashing small boat in Channel - Reuters",
-      "summary": "Founder of UK anti-migrant group jailed for slashing small boat in Channel  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjktM1RNeTdBTHdDQmpZekg2QV9PVHFSNDVEY2I2UEpRN0RNX1QtRi0tbW5XSkllbDEyRTR6dHBqLUVRQ0pTaURzTEZFSXdQZ2JsY1Q5c2ZPaThLam13d0hIUzNJRTkzbmZGWkZBb1psckxVVDB5MWhfd0pHbHBubXZRczhYbEZUNEpDeU5BWll5V3VKVUhncEZXOGo3QTA2VFhZaHJVV2VYNU1ucGc?oc=5",
-      "datetime": 1795188434,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-      "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-      "datetime": 1795187844,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Germany's Merz says Qatar pledged €15 billion in investments - Reuters",
-      "summary": "Germany's Merz says Qatar pledged €15 billion in investments  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUhiT2daQ0h0eGJ1N21DMm1xczhGbWRBT2UxS3MzMjFTdmFTRWxnZlVKRWgxZ0FWWXJEUHZoOW5NRV84NW9BN2dzRmhjek5TWV8waGtJajlUTmlKTmYxc0V1aWROblFraEZSVUFrYWc2a1NWekZEeXJQb1NaZVBYajZycVRsNHo5Uk43U29NeHJ1UzdjTkpXb2NBYi1UYkhSSGRQRUJCOG5ybTJLQlE?oc=5",
-      "datetime": 1795187699,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "In Yemen's Aden, divided government forces prepare for a Houthi assault - Reuters",
-      "summary": "In Yemen's Aden, divided government forces prepare for a Houthi assault  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjJ5amRmTGppdHgwcHBZU2tuZ1NwOVVNdE9KalVQeDdxLVE1WEljSnBHem8xR0NzbDJsVWxjbFlJc1g5amFtcmZONUVJWnJhMVRuS3I1WFVtd3R2NTFoMWdRaVNxeTB0OERSajVoVzI2Y25DbUs3dGZBMlJZY0V4dFNWd3E2S01TVzByQnZWb1NPYk9xUi1xbmRmQ0tLaWRmZ3dYZQ?oc=5",
-      "datetime": 1795187626,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-      "summary": "Bitcoin’s selloff is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-      "datetime": 1795187346,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
-      "summary": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
-      "datetime": 1795184864,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Our top 10 things to watch in the stock market Friday",
-      "summary": "Can Anthropic stay above its IPO price of $83?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/our-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "datetime": 1795183595,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Ross Stores falls after muted holiday-quarter outlook - Reuters",
-      "summary": "Ross Stores falls after muted holiday-quarter outlook  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDM1b1c4T1p6a0hWdm9YZjF5UFZKR0dnTmJ1c19QWF96MjJQTjl6Yllhck9oSVpobWttZHpUZFBFUG56MWx5bHNGWGt4eDZQX0xpODBTM08xLWMteUMtVTkwNWVQV1dtODdiLTVDTlhQcFRLbS02RVRxSnRJMHVJRFF4bDYzZTNOZFRtVHdHLXhnX2xvOWhLdEVoNHBENzM3VFljeEdzOV9meWcyM0Y5Sjg0X3k?oc=5",
-      "datetime": 1795183329,
-      "category": "business",
-      "related_tickers": [
-        "ROST"
-      ]
-    },
-    {
-      "headline": "Ukraine child deaths, injuries climb to near 2022 levels, UNICEF says - Reuters",
-      "summary": "Ukraine child deaths, injuries climb to near 2022 levels, UNICEF says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaExfUUZkNENZRUdVX0dmbXRJcDdIQ2MzcENRcWlvSnYtUXF5Q1hObkZkU01ZUHFGQ1FaRmlqWXRIVWFZdWU5NDQ4WEtVVi1uS1M5eFRaNmtnbEJRVDRHdkRwenRQdXlJekFFOGtucU9lUndDX3lkams4ZzF3VkwySDdiVVAwMWNwTG9CdjFkcGU5endqOHpZRlFHdmtjNG5BaVNVWg?oc=5",
-      "datetime": 1795182638,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UBS plans to shift hundreds of roles to India in offshoring push",
-      "summary": "UBS plans to shift hundreds of group-function roles from Europe to India as part of its long-term offshoring and cost-cutting strategy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ubs-plans-to-shift-hundreds-of-roles-to-india-in-offshoring-push",
-      "datetime": 1795181681,
-      "category": "top news",
-      "related_tickers": [
-        "UBSG.SW"
-      ]
-    },
-    {
-      "headline": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-      "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-      "datetime": 1795181499,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "datetime": 1795181390,
-      "category": "top news",
-      "related_tickers": [
-        "USB"
-      ]
-    },
-    {
-      "headline": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse - Reuters",
-      "summary": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGUwN3RoRW5JY3hyZFVaT0g3enBwSDFiV0xSRGl4dm9KQ0U1RWo5MmhkT1dXbXVKREZkOXQ5RmJBaVNqWEQzTWZWSnpNS2c1MDRqVkZaWVlqTERoX09LUWc1MkFMSS1sVGhSUGJqeDRhaVNCSlU3ZTVVekljNVZaVEZ5MUVyUE5TYW5lS003REVqMHFpTk5KemxrQzFhdWdGZ09QN1F2aTlTZzZfcEl2b2F3LUNCUlZWRlRqME9n?oc=5",
-      "datetime": 1795176943,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "India's infrastructure output rises 10.9% y/y in October in new series record - Reuters",
-      "summary": "India's infrastructure output rises 10.9% y/y in October in new series record  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFpENFphT2tqZXc1MEFJczVLUHFkU1RSb01aUnJmN2UzbUNzeTdqNW1JWVFpejdiMUxpeWNhTEZPejdaSTYtaWdKYnpTYmR1Z2t5M0VhVFRmNHl6MF8tN3ZOY19oWnVMYXRWTTNVUDlzQnhPVEV4dVhtd0xueUNiN203N0tjS0NMckE2UWFxNUhHRERvc2FmR1pVZWpCdw?oc=5",
-      "datetime": 1795176048,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-      "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-      "datetime": 1795176002,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-      "summary": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-      "datetime": 1795176002,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "India's forex reserves fall to over three month low of $705 billion - Reuters",
-      "summary": "India's forex reserves fall to over three month low of $705 billion  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS081RnFoQThmaGUzazJPYlFhbzVtckF5aUZqVThSS2xrX0JvWnAzbVhKVVFqMXZ2T2I1WFlSXzdua3M5b1B3aUwyWXJqSW9HS2FMQTZOM3lrVGdZRloteExRY01HT21fcXZfNnotZjdlZHVGcEpwbmw1c3pIVGMyWFB1MFdaNXhhbFJuTF9XVnItS1JnbzJVdFNvZEhuX3RleDVGbXJha1BZNVk?oc=5",
-      "datetime": 1795175335,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "PODCAST: Anthropic IPO, Europe bristles over Trump-Xi-Putin meeting and Meta's muse - Reuters",
-      "summary": "PODCAST: Anthropic IPO, Europe bristles over Trump-Xi-Putin meeting and Meta's muse  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5",
-      "datetime": 1795174366,
-      "category": "business",
-      "related_tickers": [
-        "META"
-      ]
-    },
-    {
-      "headline": "Two men to stand trial in UK next year over RAF Fairford incident allegedly linked to Iran - Reuters",
-      "summary": "Two men to stand trial in UK next year over RAF Fairford incident allegedly linked to Iran  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHpqVlV4SXA5UHhuZmVvcjB5ZkpPR0dvUVNKalFzeF9veDlfRUtDNFVsSVV3RnRZYU44SHBYNWNuQWl5TWpqbXdnN0poUjI5aDVib3dDbHBZal90WXlpdVdfRWluSkk1dXdHbzRjVlNQcDRDZXUwUEFhUU40ZmZVeTVibFBqLTBZU1lPdzFrVFhOczhicUNIOThFVVpoOTNid2lSZG5oZVlySElFRlZfUzhRTmIyZkEzZDRreDBB?oc=5",
-      "datetime": 1795173399,
-      "category": "business",
-      "related_tickers": [
-        "FICO"
-      ]
-    },
-    {
-      "headline": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "datetime": 1795172401,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK-EU reset deal agreed, Downing Street says - Reuters",
-      "summary": "UK-EU reset deal agreed, Downing Street says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFZfOXJRS2RFTTlMenB0cXUxNG1mNnVFaThZUGVfM0J0cnY5ckZmRTZDbWZGVWtWSFBhR3lHMF9ZZWVMOHpOSFNMZjNROTc0Z3JFSkJzaUdXYVpQWmg2T1E5ckIyYk82bXpHUzUzTTRkc1dTX2hzYi12RHVVYUxPM0ExbDRNb29tcVhPdEJaZ3RrUQ?oc=5",
-      "datetime": 1795170627,
-      "category": "business",
-      "related_tickers": [
-        "DOW"
-      ]
-    },
-    {
-      "headline": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine - Reuters",
-      "summary": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamN2T09McmJvdzlKWjl1YkJvNmxtZHJRbGJuXzRqeUtjQnQ2R0M2eXVFcTBhcGNiM0tQaTRoZ3ctb1pUdkFFVjFoSzBGcEJvRnZXMXA5X1RMc1NhZ0NsYzk5OFlGOTZkNzBmRTRyM0pXUVZBV3hIQmFKak04V0ZoQUtxSjdpb2NfTDhXWHNfYUMzeG5IVWdMQm42UXJtdUZoV0FXcGZZSTk1Qk45d185UldTWlpYUTdsVkNV?oc=5",
-      "datetime": 1795167396,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK finds fix for fridge and freezer vulnerability after European hacks - Reuters",
-      "summary": "UK finds fix for fridge and freezer vulnerability after European hacks  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVlPYjE2cEpJQjlLNzNNcjVjRnI3LUxkcnE5UVJBak9QOTlPUXR2S1htU3BEUWxfM0RfUmo2QVVfX0g3cXpzTjdUSFNRMERVR0FKUVJ4T21TYUhUU2d3bE9tV2hpaGo1bUxqc25WR0VYWFl0Z0UxZDBiMGM3RUdYODlURmFxYnVvcm9KTXVhZWdObGl0bTZfNENXTTlhdG9ibzVNX1hCOFpkQ1k?oc=5",
-      "datetime": 1795167180,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Iraqi security forces deploy in Iran-backed militia stronghold - Reuters",
-      "summary": "Iraqi security forces deploy in Iran-backed militia stronghold  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3p3ekUySC1lT1U3N1A5azB2VFVYbjVEcTIwcG1SdE9RXzU1QVBTb29YTDhreFJaUXkxaEtCbzlIazZaazVQNW15QnNocUU5SE5FSXBDc0lpTk9hQlhuM0o4TlMzVHhyemRRR2hWQUhIYUJXRkFBVzc0czQxOTl5RHloZkx5Y2VnX2xScGpwU0pnMGo5RHZCWHVGUUw2UHB3cXAtbTdfRDBrNGkzbG5LakF3MXBuNjdVZy13RWJJWHFUN3NaRGlFVzY3Q2k?oc=5",
-      "datetime": 1795159860,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "UK retail sales beat forecasts after government tells households to stock up - Reuters",
-      "summary": "UK retail sales beat forecasts after government tells households to stock up  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjlYSnNMZ21QZDdfVWF4TmlvUzF0UUxWdG9LVTNRaUNrX0dUMGltWmJraDU2OThiMmpKRnFHMnZ4bGEtRE4xU0NhTlNuOWVKT0NLU0NOY2puU2lycE51THdkSHFURF9mSEk5SzVYanhPWVVnbWZmcDlBdkJCN19qOGpIYVlac1ZYemEtNk9MWTZ6UjU2UU5RR1Zn?oc=5",
-      "datetime": 1795158300,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Anthropic shares fall 5% in after-hours after record $107.3 billion IPO",
-      "summary": "Debut pop of 17% pares amid AI selloff; company closes with $1.8 trillion valuation",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
-      "datetime": 1795151664,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Indonesia's Prabowo, China's Xi discuss future South China Sea cooperation - Reuters",
-      "summary": "Indonesia's Prabowo, China's Xi discuss future South China Sea cooperation  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnd6WUowTk92a3hrR0w1Qm9xYWlJcU5OaTBaRjNzWko2UlFhck5zQWxGSmRYX2NXQVRUTFk3Sm13ZDNYTVBEN3hTNkNaZG16bUQtdkVsSnpvMk4yaWF4ZnJGQmVNcEphX2RISnZBOGE3R0VGMVMtSjZLV29PcG8tZkdicHBfTlloUHB3OXl4RjBISjNNa0xrbWxsOHcwN0dQZkNyVFJzdVVMUjBHaWdvemtPbHotVjdJQ1NR?oc=5",
-      "datetime": 1795151640,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Xi hails 'comprehensive turnaround' in China-Australia ties - Reuters",
-      "summary": "Xi hails 'comprehensive turnaround' in China-Australia ties  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHhaMkRlWERNdEhzanBwSHBJVVU4eUFLSUUzaXF6OFRnOTczX29tdnlhZEM0ZlhNZnBRTmpjcXVKQVZyOUxycnhVMmRwQzBUSlhwS1pDOG9KZ2V5dlhoaW40MWJUQ0RVTmNVY0xhWTd4Sm52QmhGSnp6M3NvSHBsU2RDbFV2WGV1dk9KTm1TYTdpZUcydUtNc3M3MzhVWFRJSHVQRA?oc=5",
-      "datetime": 1795150140,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Apple plans its own AI agent to take on OpenAI, Anthropic and Meta",
-      "summary": "Job listings offer fresh evidence of Apple’s plans to develop an autonomous assistant as competition intensifies among leading artificial intelligence companies",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "datetime": 1795146989,
-      "category": "top news",
-      "related_tickers": [
-        "AAPL",
-        "META"
-      ]
-    },
-    {
-      "headline": "Saudi-led coalition says it intercepted Houthi missile targeting southern region - Reuters",
-      "summary": "Saudi-led coalition says it intercepted Houthi missile targeting southern region  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhCWjF6eHlrWHRIcHA1Z2p0QlM5cEtnMnFFd0hsMDdyMk51RGx2SEJpc1NkM2Z3NENIc04zNnppdVRhQkotTVJJcGF5WGJpbDBQQXF0Y0g5SkpzVzhKNkpVemRTaFJmVjA4MVFaSHlKS25JM0h3UkstLWtQdTlnWEptSnktbzlDT1UycmhSNF9yRzFPMWhkby1ubHd6S1BTYk83aExGSGpnN05LRTNWcS1wU0MwMktVOFFfWldqTVhQQ3VISGEwMVkyb0d2MEU?oc=5",
-      "datetime": 1795145580,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Bonds vs equities: India’s stock market rally faces valuation test",
-      "summary": "India’s 10-year sovereign bond yield is around 7.27%, compared with 5.3% for the Nifty 50’s 12-month forward earnings yield",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-s-stock-rally-faces-valuation-test-as-bond-allure-grows",
-      "datetime": 1795145445,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Google Gemini can now control Mac computers, raising pressure on Apple’s Siri",
-      "summary": "The latest development marks another step in the AI industry’s shift towards assistants that can perform tasks rather than simply answer questions",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
-      "datetime": 1795145212,
-      "category": "top news",
-      "related_tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "headline": "Backing Trump, US Senate Republicans block Iran war resolution - Reuters",
-      "summary": "Backing Trump, US Senate Republicans block Iran war resolution  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-      "datetime": 1795143051,
-      "category": "business",
-      "related_tickers": [
-        "RSG"
-      ]
-    },
-    {
-      "headline": "Tech leads global stocks rout, Treasury yields fall - Reuters",
-      "summary": "Tech leads global stocks rout, Treasury yields fall  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
-      "datetime": 1795139160,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit - Reuters",
-      "summary": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzN3ZEpqNW0wZlBtajBvdU9pSzk1MG9RQ2NhVlBuaFMwaVZBWVhkLVNiMnZHTTBRS2J6Z2xkdWkxRERWakdCc0JBdGtUUlhVbHJlR2dMcVVTV0lCNWVGNi1XSG5zVTVrRW84V0JVZUhOVGhKT0FZMk1uRTd3anM1RFhPUWxWNFdQWFF2WjhhYVFCdnpPMGlLYThjMDExVC1fVFJfeFZ2ZXM?oc=5",
-      "datetime": 1795136756,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Anthropic shares surge 17% after record $107.3 billion IPO, valuing AI firm at $1.8 trillion",
-      "summary": "The Claude chatbot maker’s market debut comes amid growing investor scrutiny of AI infrastructure spending, financing arrangements and profitability prospects",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
-      "datetime": 1795131281,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Trump ousts cyber director after tech outages spark criticism - Reuters",
-      "summary": "Trump ousts cyber director after tech outages spark criticism  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTElpWEVLdXdjWl9QOVBPcjRMRWcyN2xMVzdqQ1hSZjJxZTJEUk9QWmtyNldWTHRyUmNBaWFtSUJ5TndzRG9vTHR1bGR5eEZXNkNDbnNNQlRKcW9PdnZPc2VZMVJhOGxablFJeUpLM2UtU1pfXzhUaWVhNi1qeXk0ejFVVDZ3VGp6b01UdmlrMEZicFlqcU9BY2lfN25rWWRMR2p4RkZYdXFkdnJWMVAtSWZkdW5PNHBfTkdxNFRwRQ?oc=5",
-      "datetime": 1795127220,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Houthi strike damages Riyadh’s tallest skyscraper - Reuters",
-      "summary": "Houthi strike damages Riyadh’s tallest skyscraper  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlellNcl9iOFk5YURTaUJXSTRKZkVTWk13NUhyS3ptX3VUOVMzVkV4VFdGQjZpQU9DMFdkNUNXMUZuNWl5SWxxdTZUcXIyNE1NM3VaOHBGWG41RThNQjJ3WjA1Tm0zU28?oc=5",
-      "datetime": 1795124618,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Trump says no rush on Iran decision, looks to next year - Reuters",
-      "summary": "Trump says no rush on Iran decision, looks to next year  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-      "datetime": 1795124176,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Gap names new Athleta CEO, lowers full-year guidance",
-      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "datetime": 1795123343,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Trump says nuclear arms limits with China, Russia will be very hard to achieve - Reuters",
-      "summary": "Trump says nuclear arms limits with China, Russia will be very hard to achieve  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVJxajFFWVpKWFIzZjFkQjg3bzRfeTRmbGdhX0JtYmhXMDFiSDhmZ012TXRfUTYxOG8yNXQ1NFBWTWp5NDRIdzludmtZS0xGLXNENE5LNHo0Zk01OHR4S2hRZFhjRUZKMkRRdHBiQm1BTFluWWVzTTJORmluTXNCSWxmUV8xVEJ3Vlc4Q1l5NU9sQ3VxUzlMOEZUa21nZW11UFZtb3lVNGlEaGdNb25WazZISXFhQXY5dG1OZzVGUS0zN2pMTFE?oc=5",
-      "datetime": 1795122540,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Oil settles flat as Hormuz disruptions offset global surplus fears - Reuters",
-      "summary": "Oil settles flat as Hormuz disruptions offset global surplus fears  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
-      "datetime": 1795122121,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "Every look from the CMA Awards red carpet - Reuters",
-      "summary": "Every look from the CMA Awards red carpet  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDQzdHJENmR4YkkwV0lzcjB4c2pxM0ljZl8yOUEzMk00a0RDQ0x2N0xXWTRkMFE1TnNXa2l0ZkNOOG1ybUtkd3lFTDJrZlBVRmNibTNaLTMwa25Rb3Bral80WGI2ZkdNM0wxNEZoN3V0YlFJMGZOZ0RVWjVFRGNOODZRTQ?oc=5",
-      "datetime": 1795120320,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
-      "summary": "Stanford University communications lecturer Matt Abrahams teaches current and future leaders how to train their voices to be more engaging and persuasive.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html",
-      "datetime": 1795119456,
-      "category": "top news",
-      "related_tickers": []
-    },
-    {
-      "headline": "Somalia orders UAE ambassador to leave, citing 'invasion' - Reuters",
-      "summary": "Somalia orders UAE ambassador to leave, citing 'invasion'  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
-      "datetime": 1795118988,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
-      "datetime": 1795117926,
-      "category": "top news",
-      "related_tickers": [
-        "SPGI"
-      ]
-    },
-    {
-      "headline": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ - Reuters",
-      "summary": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5",
-      "datetime": 1795116975,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
-      "summary": "An ongoing shortage of Sanofi’s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
-      "datetime": 1795114557,
-      "category": "top news",
-      "related_tickers": [
-        "SAN.PA"
-      ]
-    },
-    {
-      "headline": "Netherlands summons Russian ambassador as Kyiv embassy hit - Reuters",
-      "summary": "Netherlands summons Russian ambassador as Kyiv embassy hit  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlhpc3VjQlJUMS1pb2FxdTNFSFlNODl6NFB5RXlnMlljcXI5dGl0emdoTkpFNmRRWnJzOXhVakxhQWdWb1hvb2tnaFZkLWZoYUFTc1lEQ0VmOXBETkp6TDQ0Tk84QWhWWlVqUFM3bG0tVXk5YVVveU91TU1MUHpvdVk4TTdBLVQtZGs0enhlZ290bjUzbDRQU1liWmVpUQ?oc=5",
-      "datetime": 1795114179,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
-      "summary": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
-      "datetime": 1795114109,
-      "category": "top news",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites - Reuters",
-      "summary": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BENXJsTm9KVlRxVjk0SENfVmszM1ZXVFpjQzJZcVRneVFiR210MTNseE0yUlJqWmRObE9ndjlKQkZUVFJqd0Joc3hFLWNhcW5KQ0ZKZWdBWDZ5Q1BCNWFQcDdBN1N5MDllSGNNYjdOUG1IaG5BNjB2S3hPMHRTSGpDM2phXzkzSUF6TkJtMktQRWpodkdiRVVSM0FJZ0lDOVRLZk5Dby1SdXV1elBEaW5GM0k?oc=5",
-      "datetime": 1795113609,
-      "category": "business",
-      "related_tickers": [
-        "WST"
-      ]
-    },
-    {
-      "headline": "With foreign aid slashed, Africa must 'own its own future', billionaire Ibrahim says - Reuters",
-      "summary": "With foreign aid slashed, Africa must 'own its own future', billionaire Ibrahim says  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUV9lcnVMME9kaURVcUwwRUJYNWVSdVM5aTU3MFFiZm5BNlRTVVF3R3R5TUE3SklVNFFoOF9Jc2x1NXVGay1tT3YwNXEtUHB2R25NQ1lKbFo5eVVHbVhnWWxTM3N2OGY0QVlXdDBGXy13TGZKN2VEZjJHejZLMkgwWFpSdi1SS1pnbDg5NldocG5yeU1aWjkxOEx0V011SjhJMndLQnZ5Qkw3M2NRSXdiQUFJcTlweUgzM1Zpak9HdnFSTjhQUkZrdg?oc=5",
-      "datetime": 1795113583,
-      "category": "business",
-      "related_tickers": []
-    },
-    {
-      "headline": "Hackers access financial data of retired NYC government workers, Politico reports - Reuters",
-      "summary": "Hackers access financial data of retired NYC government workers, Politico reports  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWRPejl6dU81Ty1UaWYxU1h1MUowcElUOHdPM1Q0TE9XNENtRldiSGpTMVgxWVVSdVVuT2hBTXJDd19FREF0akZaMEx3NWVvbmhKUVMtUFdNWTBUbThDc1QxaDljeGlxalp2cy0xelkzM0R2Nl9FN0pmX3p3VjM3R0Rfb3Z5NGZCSDJtQ1ZGbUdSSGxWVDVQd2pXalRvSnlOazVvc1BYSGlBT0FGT0hRbXdHcDVSVXFTamhz?oc=5",
-      "datetime": 1795112912,
-      "category": "business",
-      "related_tickers": [
-        "HTHT"
-      ]
-    },
-    {
-      "headline": "India's October crude oil imports rise over 4% month-on-month - Reuters",
-      "summary": "India's October crude oil imports rise over 4% month-on-month  Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaC1ES29YSWdoUk4wWEo0X0o5bWgzQlZ4dnpyWi1XaUJCUlZmemFBNi1WUVVsVEIyX25uRlZrODM0R1BYVDlKc3MweWo2LWxEcDlzNWRuVm9sQmNPa2hMNVU3aHhoaHZ1ZktkUDctVnd2QldwalNyZ3NzSGY1OE1ndmo0RWw4aWJUNERPTmhqWUZoZUtHUFo0TXFRSUpjMGRhTTIwcUxyWEw2VE0?oc=5",
-      "datetime": 1795111741,
-      "category": "business",
-      "related_tickers": []
     }
   ]
 }
